@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "High or Lows",
-    pageTitleSuffix: " – High or Lows",
+    pageTitle: "Daggerheart",
+    pageTitleSuffix: " – Daggerheart",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "pjwalker.github.io/sot/",
+    baseUrl: "pjwalker.github.io/daggerheart/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -80,7 +80,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages({
-        autogenerate: false
+        autogenerate: false,
       }),
     ],
   },
