@@ -1,7 +1,7 @@
 ---
 publish: "true"
 ---
-Most ridgeborne were raised in the deadly environment of Fanewyck, which has only become more dangerous as the Witherwild progresses. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
+Most ridgeborne were raised in the deadly environment of Fanewick, which has only become more dangerous as the Witherwild progresses. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
 
 ---
  

@@ -2,7 +2,7 @@
 publish: "true"
 ---
 The campaign is set on a planet called [[Hom]]. 
-Hom has a large satellite, Rohkina, that orbits it every 24 hours. 
+Hom has a large satellite, [[Rohkin - The Wandering Horn|Rohkina]], that orbits it every 24 hours. 
 It orbits its star [[Ikla - Painter of Sky|Iklata]] once every 10x24 = 240 hours.
 
 So, Hom operates primarily on a 10 day ‘cycle’, with a 5 day period where Iklata is visible (referred to as the ‘lil’), followed by 7 days of darkness (the ‘non’).

@@ -9,7 +9,7 @@ aliases:
 > Feel free to make up the person here, with as much/little detail as you like.
 # Character creation
 * [[Haven|Havenite]] Clanks are widespread, and generally made of metals
-* [[Fanewyck|Wickan]] Clanks are less common, and generally made of wood & stone
+* [[Fanewick|Wickan]] Clanks are less common, and generally made of wood & stone
 # General Info
 Sentient mechanical beings built to resemble humanoids, animals, or inanimate objects. Their bodies come in a wide array of sizes and may change and adapt based on time and need. 
 

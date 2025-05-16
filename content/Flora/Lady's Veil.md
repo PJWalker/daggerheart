@@ -2,7 +2,7 @@
 aliases:
   - Crimson Veil
 ---
-The Lady’s Veil is a common in [[Fanewyck]], but for every 10000 of the white-petaled blossoms, there’s only one rare Crimson Veil, which can cure [[Ophid's Grasp]].
+The Lady’s Veil is a common in [[Fanewick]], but for every 10000 of the white-petaled blossoms, there’s only one rare Crimson Veil, which can cure [[Ophid's Grasp]].
 
 This deep red variant does not seem to be replicated when the flower is propagated.
 

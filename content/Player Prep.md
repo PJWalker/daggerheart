@@ -13,8 +13,8 @@ That one’s probably relevant. Answer that.
 
 Your character doesn’t need a narrative ‘backstory’. If that helps *you* figure out your character, feel free, but if you just want to give some dot points addressing relevant questions, that’s great. 
 ## Campaign Context
-Three major events have pushed the previously peaceful relationship between [[Fanewyck]] & [[Haven]] into one of disorder:
-1. [[The Witherwild]]: a corruption that has become endemic across [[Fanewyck]] 
+Three major events have pushed the previously peaceful relationship between [[Fanewick]] & [[Haven]] into one of disorder:
+1. [[The Witherwild]]: a corruption that has become endemic across [[Fanewick]] 
 2. [[Ophid's Grasp]]: a curse falling upon [[Haven]].
 3. [[The Endless Spring]]: the last two falls never fell, and the planet has been in a seemingly endless spring for the past ~500 days. This has turbocharged the effects of the witherwild.
 
@@ -41,12 +41,12 @@ Ideas include:
 * You received an order from your boss, patron, etc.
 * You have an existing bond to another party member (and *they* have a reason to help)
 ## Locations
-The main focus of this initial campaign is going to be [[Fanewyck]], with [[Haven]] also being involved. But your character can be from anywhere. 
+The main focus of this initial campaign is going to be [[Fanewick]], with [[Haven]] also being involved. But your character can be from anywhere. 
 
 > [!question] Where did you grow up? Where do you live now?
 
-> [!question]- The campaign will start with the party in Fanewyck. Why are you there?
-> If you’re from Fanewyck this needs no explanation.
+> [!question]- The campaign will start with the party in Fanewick. Why are you there?
+> If you’re from Fanewick this needs no explanation.
 >If not, it might be as simple as having heard that Vinaeya needs your help. Or it might be something else.
 
 There are four broad regions in the map. Whatever you choose, feel free to describe a specific settlement/suburb/etc within the region. If they don’t work (or if being from a distant land is *the point*), we can flesh out other parts of the map.

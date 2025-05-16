@@ -18,7 +18,7 @@ They hatched a plan to kill one of the mightiest of these deities, [[Shun'Aush -
 
 Nowadays, Haven appears as an oasis within a harsh environment, that veers between desert and a tundra with the lilnon cycle, but this was not always the case.
 
-The area was once as lush as Fanewyck. The Havenites made their e within the remains of [[Shun'Aush - the Granite Ophid|Shun'Aush]], who served as a mighty wall to keep Haven enclosed from the surrounding wilds. But as the Havenites carved through the body of Shun’Aush to create their city, the dust, which settled in the surrounding region, created a barren region around it.
+The area was once as lush as Fanewick. The Havenites made their e within the remains of [[Shun'Aush - the Granite Ophid|Shun'Aush]], who served as a mighty wall to keep Haven enclosed from the surrounding wilds. But as the Havenites carved through the body of Shun’Aush to create their city, the dust, which settled in the surrounding region, created a barren region around it.
 
 There was a time of prosperity over many centuries. But progress is it’s own pressure, and the increased productivity demanded by a growing population brought the ancient stone dust to the surface as farms tilled deeper soil, and mines hacked into hidden stone. 
 
@@ -26,19 +26,19 @@ Over the last five years, over half of Havenites fell to a disease known as the 
 
 But, the [[Archmage Phylax]] discovered that the rare [[Lady's Veil]] flower could cure the disease.
 
-The havenite leader has recently ordered the [[Haven Emissaries]] on expeditions to find sources of these flowers, including into [[Fanewyck]].
+The havenite leader has recently ordered the [[Haven Emissaries]] on expeditions to find sources of these flowers, including into [[Fanewick]].
 # Communities
 * The wealthiest [[Haven|Havenites]] are [[Highborne]].
 * [[Orderborne]] characters may be members of the Haven Army.
-* [[Slyborne]] characters might come from rebel groups of Fanewyck seeking to expel the invading forces from their lands. 
-* Some [[Ridgeborne]], [[Underborne]], and [[Wildborne]] [[Fanewyck|Wickans]] have taken jobs as farmers in Haven.
+* [[Slyborne]] characters might come from rebel groups of Fanewick seeking to expel the invading forces from their lands. 
+* Some [[Ridgeborne]], [[Underborne]], and [[Wildborne]] [[Fanewick|Wickans]] have taken jobs as farmers in Haven.
 * [[Seaborne]] communities tend to live in large ports that ship and receive goods from distant lands.
 * [[Wanderborne]] may have come to reside semi-permanently in Haven, as safe travel has been severely restricted due to the military operations in the surrounds.
 # [[Ancestries/index|Ancestries]]
 * Clanks from Haven are generally made from iron & steel
 # Classes
 * Wizards and Warriors are prevalent in Haven. 
-* The Haven Army sends Syndicate Rogues into Fanewyck communities as spies. 
+* The Haven Army sends Syndicate Rogues into Fanewick communities as spies. 
 
 # Influences
 * The setting, involving some light ‘magitech’ elements. (Influences include Piltover in LoL/Arcane; Eberron in D&D)

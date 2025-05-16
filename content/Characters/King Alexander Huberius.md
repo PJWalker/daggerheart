@@ -7,7 +7,7 @@ aliases:
 ---
 ![[King Alexander Huberius-1747005799715.webp]]
 
-The King of [[Haven]]; King Huberius is missing following a mission into [[Fanewyck]].
+The King of [[Haven]]; King Huberius is missing following a mission into [[Fanewick]].
 
 > [!GM] He’s super Dead
 

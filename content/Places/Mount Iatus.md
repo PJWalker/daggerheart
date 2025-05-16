@@ -5,7 +5,7 @@ It’s *still* mid-eruption, it just seems to be… on pause. Chunks and streams
 No-one knows why this happened.
 
 # Mood Board
-![[Fanewyck-1746705587823.webp]]
+![[Fanewick-1746705587823.webp]]
 
 ![[Pause-1746722314848.webp]]
 

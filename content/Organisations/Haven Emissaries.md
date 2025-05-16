@@ -13,4 +13,4 @@ Roles within the group include:
 > * Administrators
 > * Defenders
 
-> [!question] Relations between Haven & Fanewyck have soured recently. How do you feel about this? 
+> [!question] Relations between Haven & Fanewick have soured recently. How do you feel about this? 

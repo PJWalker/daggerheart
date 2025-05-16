@@ -34,7 +34,7 @@ export const defaultContentPageLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "PJWalker/daggerhear",
+        repo: "PJWalker/daggerheart",
         repoId: "R_kgDOOrPrQA",
         category: "Announcements",
         categoryId: "DIC_kwDOOrPrQM4CqOsP",

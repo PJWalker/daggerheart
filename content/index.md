@@ -1,32 +1,35 @@
-Hello – this is both the main place.
-# About these notes
-Assuming I’m being careful, everything in here is stuff your characters can know.  
+Hello – this is both the main place. Assuming I haven’t messed anything up, everything visible on this site is reasonable for player characters to know as background. 
+# Setting
+The campaign will begin with its focus on [[Fanewick]] and the nearby area.
+
+There are various other locations established in the world, where your character might be from:
+* [[Haven]] – a large city
+* [[Katar]] – a township in the western savana where most [[Katari]] in the region live.
+* [[Magovi]] – a swap township
+* Antozen – a semi
+* [[Fulgon]] – A mountainous tundra (sort of) at the base of the 
+* Brazenfields – a large region of farmland that primarily serves to feed the people of Haven
+* 
+
+Various other townships and hamlets exist on the map, but
+
+# Backstory
+We’re starting at level one, so the character’s story need not reflect any huge amount of prior adventuring experience. 
+
+This is particularly true if your character is established to be *from* [[Fanewick]], since the region will be challenging *despite* it being local.
+
+# Relationships
+I would like the PCs to have some pre-existing relationship with [[Vinaeya Starfen]]. Vinaeya is currently retired and living near [[Fanewick]] 
+
+It’s also good for some of you guys to have pre-existing relationships to one another. I’ll start you guys off in a way that pushes you all together, but it’ll make perfect sense if there were existing pairs etc. 
+
+# Playstyle
+
 # Daggerheart Rules
-The rules PDF is [[here]], 
+The whole rules PDF is [[here]], and the [[/Rules]] section has some of my own notes.
 
-Please **don’t** read the ‘Witherwild’ section, on pages 254-257. The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combo of spoilers and confusing misinformation.
-# My DMing
-
-1. I am almost always going to be talking in-character for relevant parts of conversations. 
-2. I will try to *proactively* give you the background information you need to have a direct (in character) conversation with relevant parties. But please feel free to *ask* if you know things about the world. Just because I haven’t said it, doesn’t mean you don’t know it.
-3. I try to keep things either *wholly concrete*, or *wholly abstract*. The middle ground is rare. Daggerheart frames a similar thing as ‘Scenes & Montages’. 
-
-## Scenes & Montages
-This describes me DMing D&D, but it’s also just the recommended style in DH. (Yay validation!)
-
-We’ll basically be flipping between narrating things in concrete detail; and glossing over potentially hours/days/weeks in moments. If I’m skipping over a moment you have more detailed ideas for, please pull me up.
-
-You *can* go the other way, but at some level I’m moving into ‘scene’ mode because I intend it to be interesting – and that may be due to things you don’t yet know about. The main way this is likely to come up (I think) is that if I’m having a conversation with you, and in the moment you as a player are not sure how your character would navigate it, feel free to pull away from ‘In person conversation’ and let me know what your goal for the conversation is.
+Please **don’t** read the ‘Witherwild’ section of the rules, (pages 254-257). The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combo of spoilers and confusing misinformation. The info that matters on this site.
 
 ## Maps & Exploration
 
 
-## Minor exception
-In populated areas, You’ll notice a bunch of faceless NPCs with light outlines. These are ‘interchangable’ in a way all the others arent’. Feel free to talk to them – they’ll may have opinions on whatever’s going on, and depending on your interactions I might ‘promote’ them into individuality. But… jesus christ don’t try to talk to each individual one.
-
-
-# [[My Style]] 
-
-Somewhere between what this video calls “the cool cousin”
-
-What I’m definitely *not* is an architect

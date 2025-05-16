@@ -1,7 +1,7 @@
 ---
 publish: "true"
 ---
-Most Wildborne were raised in the deadly environment of [[Fanewyck]]. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
+Most Wildborne were raised in the deadly environment of [[Fanewick]]. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
 
 ---
  

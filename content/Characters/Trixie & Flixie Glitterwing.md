@@ -115,7 +115,7 @@ their name it sounds just barely different from me.
 ## The First Circle
 They made their oasis in body of snake
 But now all around them the land it doth bake
-— [[The First Circle]] / [[The Circle]] / [[Fanewyck]] 
+— [[The First Circle]] / [[The Circle]] / [[Fanewick]] 
 
 ## Your Word
 You must give us this thing, in order to keep it. 
