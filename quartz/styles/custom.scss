@@ -1,0 +1,26 @@
+@use "./base.scss";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-wrap: balance
+}
+
+p {
+  text-wrap: pretty;
+}
+
+.page-title {
+  font-size: calc(clamp(0.5rem, 4vw, 1.75rem));
+}
+
+.search-button.hidden {
+  visibility: hidden;
+}
+
+.dark .darkmode svg {
+  fill: #fdf6e3;
+}

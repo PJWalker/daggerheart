@@ -1,0 +1,16 @@
+- Begin and end with the fiction
+- Collaborate; especially during conflict
+- fill the world with life, wonder & danger
+- Ask questions; incorporate the answer
+- make every roll matters
+- play to find out what happens
+- cultivate a curious table
+- gain player trust
+- keep the story moving
+- help players use the game
+- create a meta conversation
+- tell them what they would know
+- ground the world in motive
+- bring mechanics to life
+- reframe rather than reject
+- work in moments & montage
