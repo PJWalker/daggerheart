@@ -34,10 +34,10 @@ export const defaultContentPageLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "PJWalker/sot",
-        repoId: "R_kgDOOXKvCQ",
+        repo: "PJWalker/daggerhear",
+        repoId: "R_kgDOOrPrQA",
         category: "Announcements",
-        categoryId: "DIC_kwDOOXKvCc4Co9kD",
+        categoryId: "DIC_kwDOOrPrQM4CqOsP",
       },
     }),
   ],
