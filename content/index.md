@@ -1,19 +1,22 @@
 ---
 publish: "true"
 ---
+Hello – this is both the main place. It will grow and evolve with the campaign. 
 
-%%
-Hello – this is both the main place. Assuming I haven’t messed anything up, everything visible on this site is reasonable for player characters to know as background.
-%%
+Assuming I haven’t messed anything up, everything visible on this site right now is reasonable for a player character to know. 
+# Using this site
+The best way to look for things is using the site-search – open it up with command+K/control+K and type what you’re looking for.
 
-# This site
-Unless I’ve messed up, there are no major spoilers on the site, so feel free to browse around. Check the index on the left, or Press *control+K* open up the full-site search. That said, while this is all stuff that *someone* in the party would know, it might not be something that *your* character knows.
+I’ve turned on comment sections – if you want to use that to leave your own extra info to characters/locations/etc, feel free.
+
+> [!attention]
+> The comments are powered by GitHub discussions, and can take you over to that site. Please *don’t* browse the ‘code’ over there – it includes all my ‘secret’ notes too.
 # Setting
 The campaign will begin with its focus on [[Fanewick]] and the nearby area.
 
 There are various other locations established in the world, where your character might be from:
 * [[Haven]] – a large city
-* [[Katar]] – a township in the western savana where most [[Katari]] in the region live.
+* [[Katar]] – a township in the western savanna where most [[Katari]] in the region live.
 * [[Magovi]] – a swap township
 * Antozen – a semi
 * [[Fulgon]] – A mountainous tundra (sort of) at the base of the 

@@ -3,8 +3,6 @@ publish: "true"
 aliases:
   - Clanks
 ---
-![[Clank-1747007579385.webp]]
-
 > [!Question]- Who made you? For what purpose? Are you fulfilling your purpose?
 > Feel free to make up the person here, with as much/little detail as you like.
 # Character creation
