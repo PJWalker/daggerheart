@@ -1,0 +1,8 @@
+- [ ] What’s it called?
+- [ ] Where can we stay?
+- [ ] Where can we buy things?
+- [ ] Where do we sell things?
+- [ ] Who is in charge?
+- [ ] Where can we get information?
+- [ ] Is there magical aid / healing?
+- [ ] are there any problems?

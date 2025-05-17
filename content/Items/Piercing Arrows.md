@@ -1,0 +1,1 @@
+When fired, adds your proficiency to your damage roll. 

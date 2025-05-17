@@ -16,6 +16,9 @@ In Fanewick, knowledge is the most valuable commodity and those who have experti
 * [[Highborne]] are essentially non-existent here.
 ---
 * [[Clank|Clanks]] from Fanewick are generally made from wood & stone
+
+
+
 # Influences
 Feywild, 
 # Mood board
