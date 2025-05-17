@@ -1,1 +1,5 @@
+---
+publish: "true"
+---
+
 A cloak whose colour, texture, & size can be adjusted at will
