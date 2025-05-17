@@ -1,7 +1,9 @@
+---
+publish: "true"
+---
+
 %%
-
 Hello – this is both the main place. Assuming I haven’t messed anything up, everything visible on this site is reasonable for player characters to know as background.
-
 %%
 
 # This site
