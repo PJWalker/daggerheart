@@ -4,6 +4,7 @@ aliases:
   - Gods
 tags:
   - linker-exclude
+title: Gods
 ---
 Gods are 100% real.
 

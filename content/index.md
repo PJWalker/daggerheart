@@ -1,5 +1,6 @@
 ---
 publish: "true"
+title: Daggerheart Campaign Docs
 ---
 Hello – this is both the main place. It will grow and evolve with the campaign. 
 
@@ -26,7 +27,7 @@ There are various other locations established in the world, where your character
 Various other townships and hamlets exist on the map, but
 
 # Backstory
-We’re starting at level one, so the character’s story need not reflect any huge amount of prior adventuring experience, but should suggest a motivation for it. 
+We’re starting at level one, so the character’s story need not reflect a *huge* amount of prior adventuring experience. I’m looking for either fledgling adventurers, *or* unlikely heroes.  but should suggest a motivation for it. 
 
 This is particularly true if your character is established to be *from* [[Fanewick]], since the region will be challenging *despite* it being local.
 

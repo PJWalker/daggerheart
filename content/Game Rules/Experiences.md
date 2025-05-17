@@ -1,5 +1,7 @@
 ---
 publish: "true"
+tags:
+  - linker-exclude
 ---
 ## Experiences are always There
 You can invoke your experiences for bonuses, but even when that’s not happening, they still effect the narrative. 
