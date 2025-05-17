@@ -1,5 +1,7 @@
 ---
 publish: "true"
+tags:
+  - linker-exclude
 ---
 [[Gods/Faint Divinities/index|Faint Divinities]] wander the land as incarnate beings, residing in both the natural world as well as within homes and small villages. As such, they are generally present in [[Fanewick|Wickans]]’ lives. Many communities, and even some larger families, even have their own small god, or tutelary spirit, that watches over them.
 

@@ -15,4 +15,3 @@ publish: "true"
 * May specialise in any of a variety of performance types
 
 Whether performing to an audience or speaking to an individual, bards will excel. There are many schools and guilds where members of this profession come together to bond and train, but there is a fair amount of ego within those of the bardic persuasion. While they may be the most likely to bring people together, a bard of ill temper can just as easily tear a party apart.
-

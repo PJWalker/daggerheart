@@ -65,7 +65,7 @@ const config: QuartzConfig = {
       Plugin.HardLineBreaks(),
       Plugin.FindSocialImage(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

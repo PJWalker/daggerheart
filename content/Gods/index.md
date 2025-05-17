@@ -2,6 +2,8 @@
 publish: "true"
 aliases:
   - Gods
+tags:
+  - linker-exclude
 ---
 Gods are 100% real.
 
