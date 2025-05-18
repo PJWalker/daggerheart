@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 * All members are from [[Haven]]
 * Members are usually [[Orderborne]]

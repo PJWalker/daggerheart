@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 A scrubland/savana region north of [[Haven]]. IDK if I’m keeping this name, but it’s where most of the [[Katari]] are from, so…
 

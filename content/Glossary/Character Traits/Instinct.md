@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 *Perceive, Sense, Navigate*
 

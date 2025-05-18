@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 A magical academy within Haven. 
 Currently headed by [[Archmage Phylax]].

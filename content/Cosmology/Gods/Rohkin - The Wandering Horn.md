@@ -2,7 +2,6 @@
 aliases:
   - Rohkin
   - Rohkina
-publish: "true"
 ---
 Rohkin watches over the many herds of horned creatures that reside in the [[Fanewick]].
 

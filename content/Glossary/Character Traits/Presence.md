@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 *Charm, Perform, Deceive*
 

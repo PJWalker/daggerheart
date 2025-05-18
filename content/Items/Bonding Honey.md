@@ -1,0 +1,5 @@
+---
+tags:
+  - consumable
+  - rare
+---

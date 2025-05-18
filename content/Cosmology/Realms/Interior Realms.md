@@ -1,7 +1,4 @@
----
-publish: "true"
----
-
+     
 There are countless realms aside from the [[Material Realm]] & the [[Realms Above]].
 
 These are not well understood by the people of the Mortal Realm, though mages have attempted to investigate them via their interaction with the strings.

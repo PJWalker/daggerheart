@@ -2,7 +2,6 @@
 aliases:
   - Wickan
   - Wickans
-publish: "true"
 ---
 A large township at the edges of the [[Fane Forest]]
 

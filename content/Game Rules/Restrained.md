@@ -1,4 +1,1 @@
----
-publish: "true"
----
 You cannot move while restrained, but can take actions from your current position

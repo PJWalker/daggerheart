@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 *Control, Hide, Tinker*
 

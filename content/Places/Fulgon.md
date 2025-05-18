@@ -2,7 +2,6 @@
 aliases:
   - Fulgonites
   - Fulgonite
-publish: "true"
 ---
 
 A mountainous region to the northeast

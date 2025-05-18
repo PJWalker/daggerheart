@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 *Lift, Smash, Grapple*
 

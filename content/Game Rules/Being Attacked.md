@@ -1,7 +1,6 @@
 ---
 aliases:
   - incoming attacks
-publish: "true"
 ---
 When an enemy attacks, they’ll make an attack roll.
 

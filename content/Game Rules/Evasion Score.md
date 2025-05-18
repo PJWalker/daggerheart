@@ -1,6 +1,3 @@
----
-publish: "true"
----
 This represents your ability to avoid attacks and unwanted effects; setting the difficulty for attacks against you.
 
 > [!dnd]- For D&D players 

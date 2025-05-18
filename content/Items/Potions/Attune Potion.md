@@ -1,4 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-+1 to next Instinct roll
+On use: +1 to next [[Instinct]] roll

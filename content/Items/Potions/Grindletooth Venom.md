@@ -1,4 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-Apply to physical weapon to add 1d6 to its next damage roll
+Apply to a physical weapon for +`dice: 1d6` to its next damage roll

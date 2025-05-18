@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-
-Heal 1d4 HP
+Heal `dice:1d4` HP on use

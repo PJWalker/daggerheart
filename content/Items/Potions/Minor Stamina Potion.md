@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-
-Clear 1d4 stress
+Clear `dice: 1d4` stress on use

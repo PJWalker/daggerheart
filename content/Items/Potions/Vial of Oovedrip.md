@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-
-See in total darkness until your next short rest
+ On use, see in total darkness until your next short rest

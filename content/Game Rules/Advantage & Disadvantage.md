@@ -1,6 +1,3 @@
----
-publish: "true"
----
 Based on your features, aid from your allies, or other effects, you may be granted advantage or disadvantage on an action or reaction.
 
 * Advantage represents an opportunity, through either magical or mundane means, that you seize upon to increase your chances of success. When you roll with advantage, you add a d6 advantage die to your total.

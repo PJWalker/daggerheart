@@ -1,5 +1,7 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - uncommon
 ---
 
 Use Finesse to throw at a group of enemies within far range.

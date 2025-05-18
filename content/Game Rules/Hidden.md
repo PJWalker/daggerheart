@@ -1,7 +1,6 @@
 ---
 tags:
   - linker-exclude
-publish: "true"
 ---
 All rolls against you have disadvantage.
 

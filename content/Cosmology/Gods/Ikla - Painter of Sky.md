@@ -2,7 +2,6 @@
 aliases:
   - Ikla
   - Iklata
-publish: "true"
 ---
 
 

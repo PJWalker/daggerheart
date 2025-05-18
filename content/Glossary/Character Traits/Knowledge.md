@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 *Recall, Analyse, Comprehend*
 

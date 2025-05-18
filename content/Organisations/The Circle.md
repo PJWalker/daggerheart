@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - linker-exclude
 ---
 
 * Most members are [[Highborne]] from [[Haven]]

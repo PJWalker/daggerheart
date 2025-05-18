@@ -1,6 +1,3 @@
----
-publish: "true"
----
 # Euclidean Distances
 We’re using euclidean distances, centre to centre. 
 

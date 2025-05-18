@@ -1,6 +1,5 @@
 ---
-aliases: []
-publish: "true"
+aliases:
 ---
 A region of swamp and rainforest to the east, with scattered communities throughout. 
 * Most [[Faerie|Faeries]], [[Elf|Elves]], [[Fungril|Fungrils]], and [[Simiah]] are from here.

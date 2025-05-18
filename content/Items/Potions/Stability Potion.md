@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-
-Take one additional downtime move
+Take an additional downtime move on your next rest after use

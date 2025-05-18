@@ -4,7 +4,6 @@ aliases:
   - Havenite
 tags:
   - linker-exclude
-publish: "true"
 ---
 A walled metropolis to the east, surrounded by desert/tundra.
 * Most [[Human|Humans]], [[Clank|Clanks]], [[Dwarf|Dwarves]], [[Halfling|Halflings]], and [[Firbolg|Firbolgs]] are from here.

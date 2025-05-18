@@ -1,10 +1,8 @@
-# The One Rule
-
 Phylax studied the growth of these flowers and understood that the cyclical reaping was limiting their growth – [[Nikta - Shepherd of Seasons|Nikta]] needed to be stopped. He had attempted to convince [[King Alexander Huberius]] of this, but he instead heeded [[Vinaeya Starfen|Vinaeya]]’s warnings about the need for balance.
 
-But then he died (???). And with [[Vinaeya Starfen|Vinaeya]] doing her field research, [[Lord Regent Vasali]] was much easier to convince. So they arranged an expedition to [[Nikta - Shepherd of Seasons|Nikta]] to get her onside.
+But when [[Vinaeya Starfen|Vinaeya]]  research, [[Lord Regent Vasali]] was much easier to convince. So they arranged an expedition to [[Nikta - Shepherd of Seasons|Nikta]] to get her onside.
 
-Phylax is an extremely powerful wizard, and together with the [[Haven Emissaries]]  they were able to capture [[Nikta - Shepherd of Seasons|Nikta]] and warp her vision such that her eye of sowing would gaze solely upon Haven. However, this meant her right eye was in turn fixed upon the mountain. 
+Phylax is an extremely powerful [[Wizard|wizard]], and together with the [[Haven Emissaries]]  they were able to capture [[Nikta - Shepherd of Seasons|Nikta]] and warp her vision such that her eye of sowing would gaze solely upon Haven. However, this meant her right eye was in turn fixed upon the mountain. 
 
 As she saw what she her gaze was causing, [[Nikta - Shepherd of Seasons|Nikta]] found a new burst of motivation to escape, but in the battle that ensued, her eye of reaping was split into three.
 
@@ -21,6 +19,10 @@ In the coming cycles, the blooms of the the flowers would wilt and decay, and th
 When [[Vinaeya Starfen|Vinaeya]] heard news of these events from her, she knew that [[Archmage Phylax|Phylax]] would not have the self-awareness to and to retain balance with the forces of the wilds. She also knew that [[Archmage Phylax|Phylax]] would know that she would get in his way, and with the might of Haven on his side, she would not be able to simply confront him.
 
 When her companions [[Trixie & Flixie Glitterwing]] encountered an attempt to infiltrate her home while she was away, she knew she’d need to take drastic measures to turn things around.
+
+***
+
+We wanna figure out if we’re going to fight the owl or help them find her eye
 
 ***
 

@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - consumable
+  - common
 ---
-
-+1 to next Finesse Roll
+On use: +1 to next [[Finesse]] Roll

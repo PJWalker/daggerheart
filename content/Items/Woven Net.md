@@ -1,5 +1,6 @@
 ---
-publish: "true"
+tags:
+  - mundane
 ---
 
 A net that can be used to trap small creatures. 
