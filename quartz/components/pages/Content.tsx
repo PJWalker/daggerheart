@@ -1,6 +1,7 @@
 import { ComponentChildren } from "preact"
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+//@ts-ignore
 import diceRoller from "../scripts/diceRoller.inline"
 
 const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {

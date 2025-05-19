@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
   Flixie & Trixie were tasked with sending out letters to the party, to invite them to meet her. 
   
   Flixie quickly sent out some relatively straightforward messages about the party, with a *hint* that the [[funeral]] needn’t get in the way of the plans.

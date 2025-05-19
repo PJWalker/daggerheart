@@ -22,6 +22,8 @@ import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
 interface FolderPageOptions extends FullPageLayout {
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
+  showFolderCount?: boolean
+  showSubfolders?: boolean
 }
 
 async function* processFolderInfo(
@@ -104,7 +106,11 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: FolderContent({ sort: userOpts?.sort }),
+    pageBody: FolderContent({
+      sort: userOpts?.sort,
+      showFolderCount: userOpts?.showFolderCount,
+      showSubfolders: userOpts?.showSubfolders,
+    }),
     ...userOpts,
   }
 

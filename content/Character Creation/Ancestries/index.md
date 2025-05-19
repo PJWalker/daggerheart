@@ -4,6 +4,7 @@ aliases:
 publish: "true"
 tags:
   - linker-exclude
+title: Ancestries
 ---
 All ancestries are present in this setting, but there are trends. (EG [[Katar]] is mostly filled with [[Katari]].) Check the specific pages below for more info.
 

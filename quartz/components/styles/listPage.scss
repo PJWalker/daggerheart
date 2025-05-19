@@ -7,11 +7,16 @@ ul.section-ul {
 }
 
 li.section-li {
-  margin-bottom: 1em;
+  padding: 0.5rem;
+
+  &:nth-child(odd){
+    background-color: rgb(from var(--lightgray) r g b / 50%);
+    border-radius: 5px;
+  }
 
   & > .section {
-    display: grid;
-    grid-template-columns: fit-content(8em) 3fr 1fr;
+    display: flex;
+    justify-content: space-between;
 
     @media all and ($mobile) {
       & > .tags {

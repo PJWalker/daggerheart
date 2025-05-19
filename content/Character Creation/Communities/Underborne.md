@@ -1,11 +1,11 @@
 ---
 publish: "true"
 ---
-Most underborne were raised in the deadly environment of [[Fanewick]], which has only become more dangerous as [[The Witherwild|the Witherwild]] progresses. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
+Most underborne were raised in the deadly environment of [[Fanewick]], which has only become more dangerous as [[The Verdance|the Verdance]] progresses. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
 
 ---
  
- In exchange for protection from the Witherwild, some have taken jobs as farmers in Haven’s flower fields. Though it is back-breaking work, the Haven fires burn back the ever-creeping Witherwild, offering safety.
+ In exchange for protection from the Verdance, some have taken jobs as farmers in Haven’s flower fields. Though it is back-breaking work, the Haven fires burn back the ever-creeping Verdance, offering safety.
 
 # Character Creation
 * Some residents of the [[Greenlily Bleach]] have dug permanent homes underneath the desert.

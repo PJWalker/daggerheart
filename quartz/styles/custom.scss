@@ -37,5 +37,8 @@ dice-roller {
   &:hover {
     background: var(--gray);
   }
-}
 
+  &:active {
+    filter:brightness(0.8);
+  }
+}

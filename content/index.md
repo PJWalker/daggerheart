@@ -31,5 +31,5 @@ The gods of this world are demonstrably real, and several minor deities are comm
 # Daggerheart Rules
 The whole rules PDF is [[here]], and the [[/Rules]] section has some of my own notes.
 
-Please **don’t** read the ‘Witherwild’ section of the rules, (pages 254-257). The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combo of spoilers and confusing misinformation. The info that matters on this site.
+Please **don’t** read the ‘Verdance’ section of the rules, (pages 254-257). The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combo of spoilers and confusing misinformation. The info that matters on this site.
 

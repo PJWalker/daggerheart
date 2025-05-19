@@ -170,15 +170,15 @@ It bifurcates time splitting cold out from hot.
 
 The cycle of light and dark, it’s called lilnon
 5 days light is present, the next five it’s gone.
-## Witherwild
+## Verdance
 You maybe can catch it, but never can throw
 And then when you have it you grow and you grow
-**—[[The Witherwild]]**
+**—[[The Verdance]]**
 
 It is quite a mystery, so it’s hard to hint.
 But, () he’s looking quite big, don’t you think?
 
-I don’t know the details, but it’s called Witherwild
+I don’t know the details, but it’s called Verdance
 Look - a 3ft tall mother with her 6ft 5 child
 ## Dictionary
 I’ll help you decide between two kinds of grey
