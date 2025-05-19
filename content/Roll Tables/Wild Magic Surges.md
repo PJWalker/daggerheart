@@ -1,4 +1,4 @@
-If rolled with fear roll a d100:
+If rolled with fear, roll `dice:1d100`:
 
 1. For the next hour, you can see invisible creatures
 2. You are immune to the effects of alcohol for the next 1d6 days
@@ -20,14 +20,3 @@ If rolled with fear roll a d100:
 18.
 19.
 20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31

@@ -2,5 +2,4 @@
 tags:
   - common
 ---
-
-Clear 1 stress when you rest
+When you rest, clear 1 stress.

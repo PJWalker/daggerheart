@@ -9,6 +9,6 @@ Short humanoids with square features, dense musculature, and thick hair. Their a
 #### Increased Fortitude
 You can spend 3 Hope to halve incoming physical damage.
 #### Thick Skin
-When taking minor damage, roll 1d6. On a 5+, you take no damage instead.
+When taking minor damage, roll `dice:1d6`. On a 5+, you take no damage instead.
 # Card
 ![[Dwarf-1746713783084.webp]]

@@ -5,6 +5,7 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,

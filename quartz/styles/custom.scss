@@ -24,3 +24,17 @@ p {
 .dark .darkmode svg {
   fill: #fdf6e3;
 }
+
+dice-roller {
+  background: var(--lightgray);
+  user-select: none;
+  cursor: pointer;
+  padding: 0.25em 0.5em;
+  margin: 0 0.25rem;
+  border-radius: 3em;
+  font-weight: bold;
+
+  &:hover {
+    background: var(--gray);
+  }
+}

@@ -2,7 +2,7 @@
 - Collaborate; especially during conflict
 - fill the world with life, wonder & danger
 - Ask questions; incorporate the answer
-- make every roll matters
+- make every roll matter
 - play to find out what happens
 - cultivate a curious table
 - gain player trust

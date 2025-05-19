@@ -3,14 +3,6 @@ import { QuartzTransformerPlugin } from "../types";
 import { VFile } from "vfile";
 import { EXIT, visit } from "unist-util-visit";
 
-const defaultOptions = {
-  markdownLinkResolution: "absolute",
-  prettyLinks: true,
-  openLinksInNewTab: false,
-  lazyLoad: false,
-  externalLinkIcon: true,
-}
-
 export const FindSocialImage: QuartzTransformerPlugin = () => {
   return {
     name: "FindSocialImage",

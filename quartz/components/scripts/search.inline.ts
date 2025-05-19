@@ -204,7 +204,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     const searchButton = document.getElementsByClassName("search-button")[0] as HTMLDivElement
     searchBar.style.viewTransitionName = ""
     searchButton.style.viewTransitionName = "search"
-    document.startViewTransition(async () => {
+    document.startViewTransition(() => {
       if (sidebar) sidebar.style.zIndex = "1"
       container.classList.add("active")
       searchBar.style.viewTransitionName = "search"

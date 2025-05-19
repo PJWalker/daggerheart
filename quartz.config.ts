@@ -57,6 +57,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git"],
       }),
+      Plugin.DiceRolls(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
