@@ -71,10 +71,10 @@
       & > * {
         width: 100%;
         border-radius: 7px;
-        background: var(--lightgray);
+        background: var(--light);
         box-shadow:
-          0 14px 50px rgba(27, 33, 48, 0.12),
-          0 10px 30px rgba(27, 33, 48, 0.16);
+          0 14px 50px rgba(0, 0, 0, 0.12),
+          0 10px 30px rgba(0, 0, 0, 0.16);
         margin-bottom: 2em;
       }
 
@@ -114,7 +114,7 @@
 
             & > div {
               &:first-child {
-                border-right: 1px solid var(--light);
+                border-right: 1px solid var(--lightgray);
                 border-top-right-radius: unset;
                 border-bottom-right-radius: unset;
               }
@@ -176,14 +176,15 @@
 
           & .result-card {
             overflow: hidden;
-            padding: 1em;
+            padding: 0.5em;
             cursor: pointer;
-            transition: background 0.2s ease;
-            border-bottom: 1px solid var(--light);
             width: 100%;
             display: block;
             box-sizing: border-box;
 
+            &:nth-child(even) {
+              background-color: rgb(from var(--lightgray) r g b / 25%);
+            }
             // normalize card props
             font-family: inherit;
             font-size: 100%;
@@ -194,18 +195,17 @@
             outline: none;
             font-weight: inherit;
 
-            &:hover,
-            &:focus,
-            &.focus {
+            &:hover h3,
+            &:focus h3,
+            &.focus h3 {
               background: var(--dark);
-
-                &>h3 {
-                  color: var(--light)
-                }
+              color: var(--light);
             }
 
             & > h3 {
               margin: 0;
+              padding: 0.5em;
+              border-radius: 0.25rem;
             }
 
             & > ul.tags {
@@ -239,5 +239,5 @@
 
 ::view-transition-old(search),
 ::view-transition-new(search) {
-  height: 100%
+  height: 100%;
 }
