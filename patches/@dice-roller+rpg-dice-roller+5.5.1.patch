@@ -1,0 +1,33 @@
+diff --git a/node_modules/@dice-roller/rpg-dice-roller/.DS_Store b/node_modules/@dice-roller/rpg-dice-roller/.DS_Store
+new file mode 100644
+index 0000000..25c9309
+Binary files /dev/null and b/node_modules/@dice-roller/rpg-dice-roller/.DS_Store differ
+diff --git a/node_modules/@dice-roller/rpg-dice-roller/lib/esm/bundle.js b/node_modules/@dice-roller/rpg-dice-roller/lib/esm/bundle.js
+index 9e9af55..e7a1f89 100644
+--- a/node_modules/@dice-roller/rpg-dice-roller/lib/esm/bundle.js
++++ b/node_modules/@dice-roller/rpg-dice-roller/lib/esm/bundle.js
+@@ -1194,15 +1194,7 @@ let index$1$1 = COUNT$1;
+  * If unavailable or otherwise non-functioning, then `nodeCrypto` will
+  * likely `throw` on the first call to `next()`.
+  */
+-const nodeCrypto = {
+-    next() {
+-        if (index$1$1 >= COUNT$1) {
+-            data$1 = new Int32Array(new Int8Array(require("crypto").randomBytes(4 * COUNT$1)).buffer);
+-            index$1$1 = 0;
+-        }
+-        return data$1[index$1$1++] | 0;
+-    }
+-};
++
+ 
+ /**
+  * The engine
+@@ -1291,7 +1283,6 @@ const minEngine = {
+  */
+ const engines = {
+   browserCrypto,
+-  nodeCrypto,
+   MersenneTwister19937,
+   nativeMath,
+   min: minEngine,
