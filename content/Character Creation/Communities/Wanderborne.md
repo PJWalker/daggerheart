@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Wanderborne
+
 Players might choose to build characters that come from one or neither country.
 
 Many wanderborne have come to reside semi-permanently in Haven or [[Fanewick]], as safe travel has been severely restricted due to the military operations in the surrounds.
@@ -11,5 +13,3 @@ Many wanderborne have come to reside semi-permanently in Haven or [[Fanewick]], 
 * Your community travels to protect something. What is it, and why does it keep you from settling down?
 # Character Creation
 * Most characters from [[Greenlily Bleach]] are wanderborne, but they are common throughout other regions too.
-# Card
-![[Wanderborne-1746714006180.webp]]

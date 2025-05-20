@@ -3,6 +3,4 @@ publish: "true"
 aliases:
   - Fungrils
 ---
-
-
-![[Fungril-1746713816719.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Fungril

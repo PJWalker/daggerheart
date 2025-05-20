@@ -3,4 +3,4 @@ aliases:
   - Firbolgs
 publish: "true"
 ---
-![[Firbolg-1746713808876.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Firbolg

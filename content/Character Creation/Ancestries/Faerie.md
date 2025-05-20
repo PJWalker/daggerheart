@@ -3,7 +3,4 @@ publish: "true"
 aliases:
   - Faeries
 ---
-
-* Faerie society is distinctly matriarchal
-
-![[Faerie-1746713798178.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Faerie

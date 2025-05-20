@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Wildborne
+
 Most Wildborne were raised in the deadly environment of [[Fanewick]]. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
 
 ---
@@ -19,5 +21,3 @@ OTOH, Wildborne is essentially the ‘default’ Wickan community and needs no p
 
 > [!question] What do you think is the cause of the endless spring?
 
-# Card
-![[Wildborne-1746714015301.webp]]

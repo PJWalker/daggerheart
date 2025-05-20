@@ -1,0 +1,3 @@
+If a PC wants to pursue a project that would take them a substantial amount of time but that they can work on during a long rest, they should first discuss it with the GM. This could involve deciphering an ancient text, crafting a new weapon, or something similar. 
+
+Projects usually involve a Progress Countdown. Each time a PC takes the Work on a Project downtime move during a long rest, they either automatically tick down their countdown, or the GM might ask them to make an action roll to gauge their progress.

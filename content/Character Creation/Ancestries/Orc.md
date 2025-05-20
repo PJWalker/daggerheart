@@ -3,4 +3,4 @@ publish: "true"
 aliases:
   - Orcs
 ---
-![[Orc-1746713885103.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Orc

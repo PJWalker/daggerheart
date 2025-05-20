@@ -3,4 +3,4 @@ publish: "true"
 aliases:
   - Halflings
 ---
-![[Halfling-1746713849070.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Halfling

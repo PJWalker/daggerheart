@@ -2,4 +2,4 @@
 publish: "true"
 aliases: []
 ---
-![[Katari-1746713869489.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Katari

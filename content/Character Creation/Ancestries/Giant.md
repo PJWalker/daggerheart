@@ -3,4 +3,4 @@ publish: "true"
 aliases:
   - Giants
 ---
-![[Giant-1746713835775.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Giant

@@ -1,4 +1,4 @@
 ---
 publish: "true"
 ---
-![[Galapa-1746713827237.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Galapa

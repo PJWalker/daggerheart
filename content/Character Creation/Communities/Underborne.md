@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Underborne
+
 Most underborne were raised in the deadly environment of [[Fanewick]], which has only become more dangerous as [[The Verdance|the Verdance]] progresses. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
 
 ---
@@ -14,5 +16,3 @@ Most underborne were raised in the deadly environment of [[Fanewick]], which has
 
 > [!question] What faint divinities do you give tribute to, and how have you been rewarded?
 > Feel free to add new gods to the world
-# Card
-![[Underborne-1746713998478.webp]]

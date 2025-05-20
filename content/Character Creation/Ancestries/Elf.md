@@ -3,5 +3,4 @@ publish: "true"
 aliases:
   - Elves
 ---
-# Card
-![[Elf-1746713788828.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Elf

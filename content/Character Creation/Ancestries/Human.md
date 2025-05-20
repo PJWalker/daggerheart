@@ -3,4 +3,4 @@ publish: "true"
 aliases:
   - Humans
 ---
-![[Human-1746713854146.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Human

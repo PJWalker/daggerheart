@@ -2,4 +2,4 @@
 publish: "true"
 aliases: []
 ---
-![[Inferis-1746713863449.webp]]
+https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Infernis
