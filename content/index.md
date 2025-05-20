@@ -10,6 +10,10 @@ title: Daggerheart Campaign Docs
 Hello – this is both the main place. It will grow and evolve with the campaign. 
 
 Assuming I haven’t messed anything up, everything visible on this site right now is reasonable for a player character to know – but there’s no reason to assume everyone knows all of it.
+
+# [Owlbear Rodeo](https://www.owlbear.rodeo/room/FQgvZ2o7kSdb/TheBonedCalm)
+You don’t *need* an account to join, but you should probably make an account to keep your name between sessions.
+
 # Using this site
 The best way to look for things is using the site-search – open it up with command+K/control+K and type what you’re looking for.
 
@@ -22,7 +26,7 @@ The campaign will begin with its focus on [[Fanewick]] and the nearby area.
 The basic tone will be
 
 ## Gods & Religion
-The gods of this world are demonstrably real, and several minor deities are commonly in contact with the [[Material Realm]]. You will likely meet and talk to some.
+The gods of this world are demonstrably real, and several minor deities are commonly in contact with the [[The Mortal Realm]]. You will likely meet and talk to some.
 
 ***
 
@@ -31,5 +35,5 @@ The gods of this world are demonstrably real, and several minor deities are comm
 # Daggerheart Rules
 The whole rules PDF is [[here]], and the [[/Rules]] section has some of my own notes.
 
-Please **don’t** read the ‘Verdance’ section of the rules, (pages 254-257). The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combo of spoilers and confusing misinformation. The info that matters on this site.
+Please **don’t** read the ‘Witherwild’ section of the rules, (pages 254-257). The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combination of spoilers and confusing misinformation. The info that matters will be on this site.
 

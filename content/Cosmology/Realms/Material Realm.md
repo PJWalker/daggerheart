@@ -1,2 +1,0 @@
-        
-The land, sea, and sky, where mortals live out the entirety of their lives—the plane where the majority of all material beings and objects exist. Stories say this realm was created by the [[Forgotten Gods]] during the [[Earliest Age]], and when they were overthrown by the [[New Gods]], many of these ancient deities were banished to remain here eternally. This realm is also occupied by the [[Gods/Faint Divinities/index]], the more common lesser deities created by both the Forgotten and the New Gods to oversee the Mortal Realm.

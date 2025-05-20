@@ -1,0 +1,1 @@
+**Stress** reflects your ability to withstand the pressures of dangerous situations and mental strain. Every class starts with 6 Stress.

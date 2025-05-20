@@ -1,0 +1,5 @@
+Your character’s **Evasion** reflects how hard it is for adversaries to hit them. Your class’s starting Evasion appears right beneath the Evasion field on your character sheet; copy this number into the Evasion field. When an adversary makes an attack against your character, the GM rolls against their Evasion to see if the adversary succeeds. 
+
+You can choose how your character’s Evasion manifests within the narrative—a wizard might avoid blows with shimmering arcane shields or bat away an adversary’s spells, while a ranger nimbly dodges out of the way of attacks and a warrior parries, blocks, and dodges.
+
+Your character’s Evasion starts low, but that’s because it’s not their only means of avoiding damage. If they’re hit, you’ll also have the opportunity to reduce the incoming damage using armor.
