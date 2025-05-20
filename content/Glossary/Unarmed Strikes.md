@@ -1,0 +1,1 @@
+Unarmed strikes deal `1d4` per [[Proficiency]]

@@ -1,5 +1,9 @@
-Your character’s **Evasion** reflects how hard it is for adversaries to hit them. Your class’s starting Evasion appears right beneath the Evasion field on your character sheet; copy this number into the Evasion field. When an adversary makes an attack against your character, the GM rolls against their Evasion to see if the adversary succeeds. 
+Evasion represents a character’s ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target’s Evasion. A PC’s base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
 
-You can choose how your character’s Evasion manifests within the narrative—a wizard might avoid blows with shimmering arcane shields or bat away an adversary’s spells, while a ranger nimbly dodges out of the way of attacks and a warrior parries, blocks, and dodges.
+> [!dnd]- For D&D players 
+> Evasion is mechanically the same as D&D’s AC.
+> But in daggerheart, [[armour]] is another seperate thing.
+> 
 
-Your character’s Evasion starts low, but that’s because it’s not their only means of avoiding damage. If they’re hit, you’ll also have the opportunity to reduce the incoming damage using armor.
+> [!NOTE] Adversaries don’t have Evasion. Attacks against adversaries use the adversary’s *Difficulty*.
+
