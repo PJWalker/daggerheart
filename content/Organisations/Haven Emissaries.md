@@ -1,5 +1,9 @@
+---
+tags:
+  - org
+---
 
-* All members are from [[Haven]]
+* All members are from [[Places/Haven/index]]
 * Members are usually [[Orderborne]]
 > [!question]- How and why did you become an Emissary? What is your role?
 Roles within the group include: 

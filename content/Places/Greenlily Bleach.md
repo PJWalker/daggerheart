@@ -4,7 +4,7 @@ aliases:
   - Bleachers
   - the bleach
 ---
-A desert region surrounding [[Haven]]. Usually just called the Bleach.
+A desert region surrounding [[Places/Haven/index]]. Usually just called the Bleach.
 * Some [[Orc|Orcs]] and [[Katari]] live here, but it’s mostly pretty empty.
 
 # Mood Board

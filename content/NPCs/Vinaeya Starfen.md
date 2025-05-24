@@ -2,6 +2,7 @@
 aliases:
   - Vinaeya
 tags:
+  - npc
 ---
 ![[Vinaeya.webp]]
 

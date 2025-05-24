@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 [[Magic Weapon]]  
 Trait: [[Finesse]]  
 Range: [[Close]]  

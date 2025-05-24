@@ -2,8 +2,7 @@
 aliases:
   - Havenites
   - Havenite
-tags:
-  - linker-exclude
+tags: []
 ---
 A walled metropolis to the east, surrounded by desert/tundra.
 * Most [[Human|Humans]], [[Clank|Clanks]], [[Dwarf|Dwarves]], [[Halfling|Halflings]], and [[Firbolg|Firbolgs]] are from here.
@@ -27,7 +26,7 @@ But, the [[Archmage Phylax]] discovered that the rare [[Lady's Veil]] flower cou
 
 The havenite leader has recently ordered the [[Haven Emissaries]] on expeditions to find sources of these flowers, including into [[Fanewick]].
 # Communities
-* The wealthiest [[Haven|Havenites]] are [[Highborne]].
+* The wealthiest [[Places/Haven/index|Havenites]] are [[Highborne]].
 * [[Orderborne]] characters may be members of the Haven Army.
 * [[Slyborne]] characters might come from rebel groups of Fanewick seeking to expel the invading forces from their lands. 
 * Some [[Ridgeborne]], [[Underborne]], and [[Wildborne]] [[Fanewick|Wickans]] have taken jobs as farmers in Haven.

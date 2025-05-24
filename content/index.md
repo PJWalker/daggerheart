@@ -7,20 +7,18 @@ title: Daggerheart Campaign Docs
 
 %%
 
-Hello – this is both the main place. It will grow and evolve with the campaign. 
-
-Assuming I haven’t messed anything up, everything visible on this site right now is reasonable for a player character to know – but there’s no reason to assume everyone knows all of it.
-
+# Links
 # [Owlbear Rodeo](https://www.owlbear.rodeo/room/FQgvZ2o7kSdb/TheBonedCalm)
-You don’t *need* an account to join, but you should probably make an account to keep your name between sessions.
+
+# Daggerheart
 
 # Using this site
-The best way to look for things is using the site-search – open it up with command+K/control+K and type what you’re looking for.
+The best way to look for things is using the site-search – open it up with command+K/control+K and type what you’re looking for. It is kind of garbage on phones though.
 
 I’ve turned on comment sections – if you want to use that to leave your own extra info to characters/locations/etc, feel free.
 
 > [!attention]
-> The comments are powered by GitHub discussions, and can take you over to that site. Please *don’t* browse the code over there – it includes all my ‘secret’ notes, which the site generator strips out before putting here.
+> The comments are powered by GitHub, and can take you over to that site. Please *don’t* browse the code over there – it includes all my ‘secret’ notes.
 # Setting
 The campaign will begin with its focus on [[Fanewick]] and the nearby area.
 The basic tone will be

@@ -2,6 +2,8 @@ A small, delicate flower. Its single golden petal curls & folds in upon itself a
 
 The maniflower is known to have powerful effects on when consumed, and, in the right hands, to have powerful effects o
 
+The flowers can also interfere with magical effects. In particular, they cannot be teleported.
+
 # Mood Board
 ![[Maniflower-1747404433582.webp]]
 

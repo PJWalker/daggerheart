@@ -1,3 +1,7 @@
+---
+tags:
+  - npc
+---
 ![[Trixie & Flixie Glitterwing-1746997650114.webp]] ![[Trixie & Flixie Glitterwing-1746997669483.webp]]
 
 Welcome to the home of the lovely [[Vinaeya]]
@@ -5,7 +9,13 @@ Our saviour, our cleric, our benevolent mayor
 She's been gone for weeks though, maybe lost in prayer.
 …I have a new game, will you be its first player?
 
-(In faerie – Flixie: WTF are you doing? She said to just let them in if they — Trixie: She didn’t say we couldn’t have any fun first. Flixie: oh, fine just on with it then)
+I guess you could go in to drop off the package –
+If you answer my riddles, I’ll grant you safe passage.
+
+We’ll need to confirm that our teams are the same,
+So to test you all out, you can all play my game!
+
+(In faerie – Flixie: WTF are you doing? She said to just ask if they — Trixie: She didn’t say we couldn’t have any fun with them first. Flixie: oh, fine just on with it then)
 
 ***
 
@@ -26,7 +36,7 @@ but you’ll solve them much faster than to you it seems
 
 # Do we have to?
 I don't make up the rules – that’s Ikla in the sky.
-But if you don't play my game, we will start to cry.
+But if you don't play my game, I will start to cry.
 
 The tears of a fairy, have an embedded charm,
 If you just gaze upon them, they’ll bring you much harm.
@@ -45,7 +55,7 @@ The key, the key – it’s under that stone
 Just take it now, please, and leave us alone!
 # Persuaded
 A key, a key – there’s one under the stone
-You can just pick that up, and enter the home
+You could just pick that up, and enter her home
 But I’ve got lots of riddles; I’ll give them for free
 Cause without [[Vinaeya]] I’m getting lonely.
 # Flixie
@@ -59,7 +69,7 @@ Friend to all from the [[giants]] to the smallest whelp
 If you e’er need assistance, she’s happy to help
 and her Havenite friends(?) called her out for a quest
 That was 5 weeks ago… and we don’t know the rest.
-# [[Haven|Havenites]] 
+# [[Places/Haven/index|Havenites]] 
 They came wrapped in their armor; charged her with a crime 
 he said stuff about treason, said she was a consignee
 It seemed quite complicated; so a lot whizzed right by me
@@ -88,7 +98,7 @@ Isn’t this so much better than making me mope?
 ***
 
 Well then, without any further adieu
-I’ll move right along, here riddle number two:
+I’ll move right along, to question number two:
 
 ## Key
 I’ve been cut just once, and I did not bleed;
@@ -116,12 +126,10 @@ their name it sounds just barely different from me.
 They made their oasis in body of snake
 But now all around them the land it doth bake
 — [[The First Circle]] / [[The Circle]] / [[Fanewick]] 
-
 ## Your Word
 You must give us this thing, in order to keep it. 
 It’s not what you bring; you need only speak it. 
 **— My Word**
-
 ## Letter
 I start with an L, and I end with an R, 
 Put me in an envelope and I’ll go far. 
@@ -151,14 +159,6 @@ Now don’t you go blaming me for doxxing you
 [[Ikla]] up there paints me each day of his life
 But in fantasies I am followed by Strife.
 **— Cloud**
-## Harold
-I could be a Neighbour; or be three by three
-being woven together like they’re A B C
-**— Harold**
-## Uzumaki
-I’m named for the Spiral; a permanent mark
-A lighthouse abandoned; don’t read in the dark
-**— Uzumaki**
 ## Map
 I’ve seen the world, but never roam
 Upon my face you’ll find your home.
@@ -170,16 +170,6 @@ It bifurcates time splitting cold out from hot.
 
 The cycle of light and dark, it’s called lilnon
 5 days light is present, the next five it’s gone.
-## Verdance
-You maybe can catch it, but never can throw
-And then when you have it you grow and you grow
-**—[[The Verdance]]**
-
-It is quite a mystery, so it’s hard to hint.
-But, () he’s looking quite big, don’t you think?
-
-I don’t know the details, but it’s called Verdance
-Look - a 3ft tall mother with her 6ft 5 child
 ## Dictionary
 I’ll help you decide between two kinds of grey
 With me, yesterday will come after today
@@ -191,7 +181,7 @@ A growing collection, with these endless springs
 ## Mushroom 
 I am a room, that you cannot enter;
 I’m strewn across the southeastern splendour
-**—Mushroom** ([[Azael]] )
+**—Mushroom** ([[Places/Hush/index]] )
 ## Pencil
 We’ll get out the message; when I take your hand
 The further I go, the shorter I stand.

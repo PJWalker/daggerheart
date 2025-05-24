@@ -3,7 +3,7 @@ aliases:
   - Wickan
   - Wickans
 ---
-A large township at the edges of the [[Fane Forest]]
+A large township at the edges of the [[Places/Fanewoods/index]]
 
 In Fanewick, knowledge is the most valuable commodity and those who have expertise have the most power. This economy of information functions primarily on gifting and trading, and wisdom would be considered acceptable collateral for a weapon or warm meal. 
 

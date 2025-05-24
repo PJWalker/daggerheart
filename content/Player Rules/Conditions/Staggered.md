@@ -1,0 +1,1 @@
+All attack rolls you make are at disadvantage.

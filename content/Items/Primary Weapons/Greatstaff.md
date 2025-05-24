@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 [[Magic Weapon]]  
 Trait: [[Knowledge]]  
 Range: [[Very Far]]  

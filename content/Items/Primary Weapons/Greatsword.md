@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 Trait: Strength  
 Range: Melee  
 Damage: `dice:1d10+3` physical  

@@ -6,7 +6,7 @@ Phylax is an extremely powerful [[Wizard|wizard]], and together with the [[Haven
 
 As she saw what she her gaze was causing, [[Nikta - Shepherd of Seasons|Nikta]] found a new burst of motivation to escape, but in the battle that ensued, her eye of reaping was split into three.
 
-One of these fell into the [[The Crater]]. One remains secluded with [[Archmage Phylax]] in [[Haven]]. The other is… somewhere else.
+One of these fell into the [[The Crater]]. One remains secluded with [[Archmage Phylax]] in [[Places/Haven/index]]. The other is… somewhere else.
 
 As the power of reaping ceased to be focused on [[Mount Iatus]], the eruption remained fixed atop & around the city as it cooled.
 

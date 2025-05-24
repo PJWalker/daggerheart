@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 Trait: [[Presence]]  
 Range: [[Melee]]  
 Damage: `dice:1d8` physical  

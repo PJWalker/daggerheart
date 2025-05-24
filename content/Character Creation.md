@@ -1,4 +1,3 @@
-
 We’re starting at level one, so the character’s history should reflect that. These are fledgling adventurers, or unlikely heroes, at the *start* of their journey. They aren’t battle-hardened commanders.
 
 We’re going to start at a gathering in honour of [[Vinaeya Starfen]] – to justify coming together at all, I’d like everyone to either:
@@ -54,7 +53,7 @@ This is particularly true if your character is established to be *from* [[Fanewi
 More broadly, [[PC|PCs]] of a normal age range will have grown up in a period of peace that appears to be coming to a close. They are not veteran soldiers.
 
 # Relationships
-[[Vinaeya Starfen]] grew up in [[Haven]], and served much of her life as an ambassador to [[Fanewick]] - she has recently retired from that role, and continues to live in her bungalow near [[Fanewick]].
+[[Vinaeya Starfen]] grew up in [[Places/Haven/index]], and served much of her life as an ambassador to [[Fanewick]] - she has recently retired from that role, and continues to live in her bungalow near [[Fanewick]].
 
 Your character should have some connection to Vinaeya that gives you a reason to be willing to do her a big favour. This is what’ll get all the players into the same room.
 
