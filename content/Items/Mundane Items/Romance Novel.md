@@ -1,4 +1,5 @@
 ---
 tags:
   - mundane
+publish: "true"
 ---

@@ -7,4 +7,4 @@ Range: [[Melee]]
 Damage: `dice:1d12+3` physical  
 Burden: Two-Handed  
 Feature: [[Heavy]]
-![[Glossary/Features/Heavy|Heavy]]
+![[Heavy|Heavy]]

@@ -1,7 +1,0 @@
-Connections represent the relationships and personal history between your character and their fellow party members.
-
-Once your group is comfortable with their finished (or almost-finished) PCs, summarise your characters for each other. At minimum, share their name, pronouns, character description, Experiences, and the answers to the background questions—but feel free to include any details you’d like the other players to know.
-
-Then, work together to decide how your characters are connected and how they feel about each other. The Connections section of your character guide provides inspiration—we recommend you pick at least one question to ask another player for their character to answer—but you’re welcome to create new questions. You can always turn down a question or relationship suggested by another player if it’s not a good fit or not a relationship you’re interested in exploring. While it’s great to create connections with every character, it’s perfectly okay if you’re not sure about some of them yet—and you can always discover your relationships through play. These connections are a starting point to build on during the game.
-
-After the party’s connections are complete, you’re ready to play! The rest of this chapter contains resources to use when building your character, such as information on domains, classes, ancestries, and communities.

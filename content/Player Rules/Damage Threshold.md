@@ -1,1 +1,0 @@
-An [[Armor]]’s **damage thresholds** indicates how much damage a character can endure before marking HP. Add your character’s level to both values and record the total for both numbers in the corresponding fields. 

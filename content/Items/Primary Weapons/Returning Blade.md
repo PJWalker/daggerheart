@@ -8,4 +8,4 @@ Range: [[Close]]
 Damage: `dice:1d8` Magic  
 Burden: One-Handed  
 Feature: [[Returning]]
-![[Glossary/Features/Returning|Returning]]
+![[Returning|Returning]]

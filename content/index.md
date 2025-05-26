@@ -19,12 +19,7 @@ I’ve turned on comment sections – if you want to use that to leave your own 
 
 > [!attention]
 > The comments are powered by GitHub, and can take you over to that site. Please *don’t* browse the code over there – it includes all my ‘secret’ notes.
-# Setting
-The campaign will begin with its focus on [[Fanewick]] and the nearby area.
-The basic tone will be
 
-## Gods & Religion
-The gods of this world are demonstrably real, and several minor deities are commonly in contact with the [[The Mortal Realm]]. You will likely meet and talk to some.
 
 ***
 

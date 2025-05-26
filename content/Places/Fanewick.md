@@ -10,11 +10,11 @@ In Fanewick, knowledge is the most valuable commodity and those who have experti
 [[Lady's Veil]] are endemic to the area
 
 ---
-* [[Loreborne]] community members often manifest as smaller groups of historians, artisans, and storytellers within larger villages. These are usually the wealthiest members of the Fanewick.
-* [[Ridgeborne]], [[Wildborne]], and [[Wanderborne]] are commonly seen in Fanewick.
-* [[Highborne]] are essentially non-existent here.
+* [[Rules/Communities/Loreborne]] community members often manifest as smaller groups of historians, artisans, and storytellers within larger villages. These are usually the wealthiest members of the Fanewick.
+* [[Rules/Communities/Ridgeborne]], [[Rules/Communities/Wildborne]], and [[Rules/Communities/Wanderborne]] are commonly seen in Fanewick.
+* [[Rules/Communities/Highborne]] are essentially non-existent here.
 ---
-* [[Clank|Clanks]] from Fanewick are generally made from wood & stone
+* [[Rules/Ancestries/Clank|Clanks]] from Fanewick are generally made from wood & stone
 
 
 

@@ -1,1 +1,0 @@
-[[Armor]] feature: Before you mark your last armor slot, roll `dice:1d6`. On a 6, use the armor without marking the slot.

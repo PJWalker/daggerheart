@@ -19,14 +19,14 @@ class DiceRoller extends HTMLElement {
     const rollSpan = this.shadow.querySelector(".result") as HTMLSpanElement
     formulaSpan.innerHTML = this.formula
     this.onclick = () => {
-      this.roller.roll()
-      rollSpan.innerHTML = `: <span class="number">${this.roller.total}</span> ↺`
+      this.roller!.roll()
+      rollSpan.innerHTML = `: <span class="number">${this.roller!.total}</span> ↺`
     }
   }
   attributeChangedCallback(_:any, __:any, newValue:string) {
     this.formula = newValue.trim()
     this.roller = new DiceRoll(this.formula)
-    const formulaSpan = this.shadow.querySelector(".formula") as HTMLElement
+    const formulaSpan = this.shadow!.querySelector(".formula") as HTMLElement
     formulaSpan.innerHTML = this.formula
   }
 }

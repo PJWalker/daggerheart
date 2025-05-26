@@ -1,1 +1,0 @@
-Mark a [[Stress]] to crack the whip, forcing all adversaries within [[melee]] range back to [[Close]] range.

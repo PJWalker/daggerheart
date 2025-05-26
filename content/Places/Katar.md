@@ -1,5 +1,5 @@
 
-A scrubland/savana region north of [[Places/Haven/index]]. IDK if I’m keeping this name, but it’s where most of the [[Katari]] are from, so…
+A scrubland/savana region north of [[Places/Haven/index]]. IDK if I’m keeping this name, but it’s where most of the [[Rules/Ancestries/Katari]] are from, so…
 
 # Mood board
 ![[Katar-1746720445259.webp]]

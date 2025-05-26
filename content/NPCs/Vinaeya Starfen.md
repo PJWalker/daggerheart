@@ -6,7 +6,7 @@ tags:
 ---
 ![[Vinaeya.webp]]
 
-A [[Faun]] [[woman]], 117 years of age.
+A [[Rules/Ancestries/Faun]] [[woman]], 117 years of age.
 
 Grew up in Haven. 
 * A former member of the [[Haven Emissaries]]

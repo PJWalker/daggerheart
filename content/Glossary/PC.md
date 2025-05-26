@@ -1,5 +1,0 @@
----
-aliases:
-  - PCs
----
-Player Character
