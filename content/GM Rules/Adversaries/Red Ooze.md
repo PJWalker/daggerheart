@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** 6/11 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +1 | **Ooze Appendage:** Melee | 1d8+3 mag  
 
-## FEATURES
+# Features
 
 ***Creeping Fire - Passive:*** The Ooze can only move within Very Close range as their normal movement. They light any flammable object they touch on fire.
 

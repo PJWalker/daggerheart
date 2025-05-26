@@ -1,4 +1,4 @@
-# ELDER BOW
+# Elder Bow
 
 **Trait:** Instinct; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
 

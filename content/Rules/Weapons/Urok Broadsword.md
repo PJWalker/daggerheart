@@ -1,4 +1,4 @@
-# UROK BROADSWORD
+# Urok Broadsword
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
 

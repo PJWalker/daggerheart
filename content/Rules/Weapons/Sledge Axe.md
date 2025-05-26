@@ -1,4 +1,4 @@
-# SLEDGE AXE
+# Sledge Axe
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+13 phy; **Burden:** Two-Handed
 

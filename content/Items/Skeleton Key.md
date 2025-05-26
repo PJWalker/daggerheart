@@ -1,4 +1,3 @@
 ---
-tags:
-  - common
+tags: [common]
 ---

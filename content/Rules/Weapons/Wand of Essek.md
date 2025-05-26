@@ -1,4 +1,4 @@
-# WAND OF ESSEK
+# Wand of Essek
 
 **Trait:** Knowledge; **Range:** Far; **Damage:** d8+13 mag; **Burden:** One-Handed
 

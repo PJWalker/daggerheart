@@ -1,14 +1,12 @@
-# COMBAT
-
 Though Daggerheart relies on the same flow of collaborative storytelling in and out of combat, physical conflicts rely more heavily on several key mechanics related to attacking, maneuvering, and taking damage.
 
-## EVASION
+# Evasion
 
 **Evasion** represents a character’s ability to avoid attacks and other unwanted effects. Any roll made against a PC has a Difficulty equal to the target’s Evasion. A PC’s Base Evasion is determined by their class, but can be modified by domain cards, equipment, conditions, and other effects.
 
 > ***Note:*** *attacks rolled against adversaries use the target’s Difficulty instead of Evasion.*
 
-## HIT POINTS & DAMAGE THRESHOLDS
+# Hit Points & Damage Thresholds
 
 **Hit Points (HP)** represent a character’s ability to withstand physical injury. When a character takes damage, they mark 1 to 3 HP, based on their **damage thresholds**:
 
@@ -27,5 +25,5 @@ When a character marks their last Hit Point, they fall. If a PC falls, they make
 Characters can clear Hit Points by taking downtime moves (see: Downtime) or by activating relevant special abilities or effects.
 
 > ***Optional Rule: Massive Damage***
->
+> 
 > *If a character ever takes damage equal to twice their Severe threshold, they mark 4 HP instead of 3.*

@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6  
 > **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag  
 
-## FEATURES
+# Features
 
 ***Unprotected Mind - Passive:*** The Demon’s standard attack deals direct damage.
 

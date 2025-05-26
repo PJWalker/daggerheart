@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +3 | **Longbow:** Far | 2d10+3 phy  
 
-## FEATURES
+# Features
 
 ***Ghost - Passive:*** The Captain has resistance to physical damage. Mark a Stress to move up to Close range through solid objects.
 

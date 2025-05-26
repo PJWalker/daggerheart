@@ -1,4 +1,4 @@
-# SHORTSTAFF
+# Shortstaff
 
 **Trait:** Instinct; **Range:** Close; **Damage:** d8+1 mag; **Burden:** One-Handed
 

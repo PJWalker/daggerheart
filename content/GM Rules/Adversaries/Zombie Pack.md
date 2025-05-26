@@ -5,7 +5,7 @@
 > **Difficulty:** 8 | **Thresholds:** 6/12 | **HP:** 6 | **Stress:** 3  
 > **ATK:** -1 | **Bite:** Melee | 1d10+2 phy  
 
-## FEATURES
+# Features
 
 ***Horde (1d4+2) - Passive:*** When the Zombies have marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead.
 

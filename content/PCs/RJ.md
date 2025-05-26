@@ -1,4 +1,3 @@
 ---
-tags:
-  - pc
+tags: [pc]
 ---

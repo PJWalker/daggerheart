@@ -1,4 +1,4 @@
-# GAMBESON ARMOR
+# Gambeson Armor
 
 **Base Thresholds:** 5 / 11; **Base Score:** 3
 

@@ -1,4 +1,4 @@
-# CODEX-TOUCHED
+# Codex-touched
 
 > **Level 7 Codex Ability**  
 > **Recall Cost:** 2

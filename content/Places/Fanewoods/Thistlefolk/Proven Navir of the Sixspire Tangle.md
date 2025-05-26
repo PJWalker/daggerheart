@@ -1,6 +1,5 @@
 ---
-tags:
-  - npc
+tags: [npc]
 ---
 Wildborne Fungril (they/them) - Quiet, Focussed, Dedicated
 Experience: Navigation +2; Engineering +1;

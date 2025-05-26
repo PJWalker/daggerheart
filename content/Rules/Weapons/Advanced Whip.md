@@ -1,4 +1,4 @@
-# ADVANCED WHIP
+# Advanced Whip
 
 **Trait:** Presence; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
 

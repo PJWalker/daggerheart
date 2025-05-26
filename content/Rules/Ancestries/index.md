@@ -10,7 +10,7 @@ Some ancestries are described using the term **“humanoid.”** This does not i
 
 The core ruleset includes the following ancestries: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungirl, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simian, and Mixed Ancestry.
 
-#### ANCESTRY FEATURES
+# Ancestry Features
 
 Each ancestry grants two **ancestry features.** While some features specify the anatomy of any player character of that ancestry’s anatomy, players determine their characters’ physical form. Work with the GM to re-flavor any implied traits that don’t align with your character concept.
 
@@ -37,7 +37,7 @@ If you’d like to make a character who combines more than one ancestry, see “
 - [Ribbit](Ribbit.md)
 - [Simiah](Rules/Ancestries/Simiah.md)
 
-## MIXED ANCESTRY
+# Mixed Ancestry
 
 Families within the world of Daggerheart are as unique as the peoples and cultures that inhabit it. Anyone’s appearance and abilities can be shaped by blood, magic, proximity, or a variety of other factors.
 

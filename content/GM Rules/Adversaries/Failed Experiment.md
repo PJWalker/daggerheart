@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 12/23 | **HP:** 3 | **Stress:** 3  
 > **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 phy  
 
-## FEATURES
+# Features
 
 ***Warped Fortitude - Passive:*** The Experiment is resistant to physical damage.
 

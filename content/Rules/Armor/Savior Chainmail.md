@@ -1,4 +1,4 @@
-# SAVIOR CHAINMAIL
+# Savior Chainmail
 
 **Base Thresholds:** 18 / 48; **Base Score:** 8
 

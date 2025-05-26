@@ -39,7 +39,7 @@ Estia’s where we’ll hold her wake
 
 Dear, 
 
-Vinaeya is _dying_ to see you again – so we’re throwing a party!
+Vinaeya is *dying* to see you again – so we’re throwing a party!
 Given recent disturbances, I’m sure you’ll understand the need to keep things discreet. That means no blabbing – and sadly no plus-ones allowed – but we’re not going to let those Havenites stop us from having fun! 
 
 We hope you’ll find many new friends among our special guests.

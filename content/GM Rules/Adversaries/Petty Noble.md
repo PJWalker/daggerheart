@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 3 | **Stress:** 5  
 > **ATK:** -3 | **Rapier:** Melee | 1d6+1 phy  
 
-## FEATURES
+# Features
 
 ***My Land, My Rules - Passive:*** All social actions made against the Noble on their land have disadvantage.
 

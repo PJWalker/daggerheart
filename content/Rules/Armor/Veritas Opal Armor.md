@@ -1,4 +1,4 @@
-# VERITAS OPAL ARMOR
+# Veritas Opal Armor
 
 **Base Thresholds:** 13 / 36; **Base Score:** 6
 

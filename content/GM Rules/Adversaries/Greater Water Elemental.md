@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 17/34 | **HP:** 5 | **Stress:** 5  
 > **ATK:** +3 | **Crashing Wave:** Very Close | 3d4+1 mag  
 
-## FEATURES
+# Features
 
 ***Water Jet - Action:*** Mark a Stress to attack a target within Very Close range. On a success, deal 2d4+7 physical damage and the target’s next action has disadvantage. On a failure, the target must mark a Stress.
 

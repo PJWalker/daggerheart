@@ -1,4 +1,3 @@
 ---
-aliases:
-  - Xuria
+aliases: [Xuria]
 ---

@@ -1,4 +1,4 @@
-# PRIMER SHARD
+# Primer Shard
 
 **Trait:** Instinct; **Range:** Very Close; **Damage:** d4 phy; **Burden:** One-Handed
 

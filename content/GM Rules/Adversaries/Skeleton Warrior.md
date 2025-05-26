@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 2  
 > **ATK:** 0 | **Sword:** Melee | 1d6+2 phy  
 
-## FEATURES
+# Features
 
 ***Only Bones - Passive:*** The Warrior is resistant to physical damage.
 

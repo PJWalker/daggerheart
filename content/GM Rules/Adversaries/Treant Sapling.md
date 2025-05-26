@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** +0 | **Branches:** Melee | 8 phy  
 
-## FEATURES
+# Features
 
 ***Minion (6) - Passive:*** The Sapling is defeated when they take any damage. For every 6 damage a PC deals to the Sapling, defeat an additional Minion within range the attack would succeed against.
 

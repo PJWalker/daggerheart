@@ -2,7 +2,7 @@ Infernirs are humanoids who possess sharp canine teeth, pointed ears, and horns.
 
 Infernirs possess a “dread visage” that manifests both involuntarily, such as when they experience fear or other strong emotions, or purposefully, such as when they wish to intimidate an adversary. This visage can briefly modify their appearance in a variety of ways, including lengthening their teeth and nails, changing the colors of their eyes, twisting their horns, or enhancing their height. On average, infernirs live up to 350 years, with some attributing this lifespan to their demonic lineage.
 
-## ANCESTRY FEATURES
+# Ancestry Features
 
 ***Fearless:*** When you roll with Fear, you can **mark 2 Stress** to change it into a roll with Hope instead.
 

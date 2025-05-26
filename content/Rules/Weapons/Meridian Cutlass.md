@@ -1,4 +1,4 @@
-# MERIDIAN CUTLASS
+# Meridian Cutlass
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d10+5 phy; **Burden:** One-Handed
 

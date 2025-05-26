@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** +3 | **Longsword:** Melee | 3 phy  
 
-## FEATURES
+# Features
 
 ***Minion (4) - Passive:*** The Sellsword is defeated when they take any damage. For every 4 damage a PC deals to the Sellsword, defeat an additional Minion within range the attack would succeed against.
 

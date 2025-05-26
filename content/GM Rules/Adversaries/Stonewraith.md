@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 11/22 | **HP:** 6 | **Stress:** 3  
 > **ATK:** +3 | **Bite and Claws:** Melee | 2d8+6 phy  
 
-## FEATURES
+# Features
 
 ***Stonestrider - Passive:*** The Stonewraith can move through stone and earth as easily as air. While within stone or earth, they are Hidden and immune to all damage.
 

@@ -6,7 +6,7 @@ Spend a Fear immediately to interrupt the PCs and spotlight an adversary to beg
 # Spend Consistently
 Each time your turn comes around, make a GM move, then spend a Fear to make an additional move. If you gained Fear from a PC’s roll, consider spending that one as well, either on an additional GM move or a Fear Feature. Your pool of Fear will slowly deplete, but this method will provide significant power every time play returns to you.
 
-# Come Out Strong
+# Come out Strong
 You might choose to spend enough Fear to spotlight a majority of the adversaries during your first GM turn. This is a big move that can put the PCs on the back foot at the beginning of the fight, giving them the opportunity to feel like they’re turning the fight around.
 
 # Draw Blood

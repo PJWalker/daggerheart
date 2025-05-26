@@ -1,6 +1,5 @@
 ---
-tags:
-  - npc
+tags: [npc]
 ---
 %%
 Wildborne Dwarf (she/her)

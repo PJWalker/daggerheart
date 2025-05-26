@@ -5,7 +5,7 @@
 > **Difficulty:** 17  
 > **Potential Adversaries:** Mercenaries (Harrier, Sellsword, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
 
-## FEATURES
+# Features
 
 ***Secret Entrance - Passive:*** A PC can find or recall a secret way into the castle with a successful Instinct or Knowledge Roll.
 

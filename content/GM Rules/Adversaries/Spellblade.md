@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 8/14 | **HP:** 6 | **Stress:** 3  
 > **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/mag  
 
-## FEATURES
+# Features
 
 ***Arcane Steel - Passive:*** Damage dealt by the Spellblade’s standard attack is considered both physical and magic.
 

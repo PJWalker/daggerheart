@@ -1,5 +1,4 @@
 ---
-tags:
-  - mundane
+tags: [mundane]
 publish: "true"
 ---

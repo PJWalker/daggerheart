@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3  
 > **ATK:** -3 | **Wand:** Far | 1d4+3 phy  
 
-## FEATURES
+# Features
 
 ***Devastating Retort - Passive:*** A PC who rolls less than 17 on an action roll targeting the Advisor must mark a Stress.
 

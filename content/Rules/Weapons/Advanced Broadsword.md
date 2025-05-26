@@ -1,4 +1,4 @@
-# ADVANCED BROADSWORD
+# Advanced Broadsword
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
 

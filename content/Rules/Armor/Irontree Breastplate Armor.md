@@ -1,4 +1,4 @@
-# IRONTREE BREASTPLATE ARMOR
+# Irontree Breastplate Armor
 
 **Base Thresholds:** 9 / 20; **Base Score:** 4
 

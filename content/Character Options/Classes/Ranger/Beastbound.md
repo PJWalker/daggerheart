@@ -1,40 +1,40 @@
 Play the Beastbound if you want to form a deep bond with an animal ally.
 
-## SPELLCAST TRAIT
+# Spellcast Trait
 
 Agility
 
-## FOUNDATION FEATURE
+# Foundation Feature
 
 ***Companion:*** You have an animal companion of your choice (at the GM’s discretion). They stay by your side unless you tell them otherwise.
 
 Take the Ranger Companion sheet. When you level up your character, choose a level-up option for your companion from this sheet as well.
 
-## SPECIALIZATION FEATURES
+# Specialization Features
 
 ***Expert Training:*** Choose an additional level-up option for your companion.
 
 ***Battle-Bonded:*** When an adversary attacks you while they’re within your companion’s Melee range, you gain a +2 bonus to your Evasion against the attack.
 
-## MASTERY FEATURES
+# Mastery Features
 
 ***Advanced Training:*** Choose two additional level-up options for your companion.
 
 ***Loyal Friend:*** Once per long rest, when the damage from an attack would mark your companion’s last Stress or your last Hit Point and you’re within Close range of each other, you or your companion can rush to the other’s side and take that damage instead.
 
-# RANGER COMPANION
+# Ranger Companion
 
 When you choose the Beastbound Ranger subclass, take a companion sheet. This sheet is for tracking important information about your character’s companion and can be tucked beneath the right side of your character sheet for ease of viewing.
 
-### STEP 1: NAME YOUR COMPANION
+## Step 1: name Your Companion
 
 Work with the GM to decide what kind of animal you have as your companion. Give them a name and add a picture of them to the companion sheet.
 
-### STEP 2: WRITE THEIR EVASION
+## Step 2: Write Their Evasion
 
 Fill in their Evasion, which starts at 10.
 
-### STEP 3: CHOOSE THEIR COMPANION EXPERIENCE
+## Step 3: Choose Their Companion Experience
 
 Create two Experiences for your companion based on their training and the history you have together.
 
@@ -42,28 +42,28 @@ Start with +2 in both Experiences. Whenever you gain a new Experience, your comp
 
 > **Example Companion Experiences:** *Expert Climber, Fetch, Friendly, Guardian of the Forest, Horrifying, Intimidating, Loyal Until the End, Navigation, Nimble, Nobody Left Behind, On High Alert, Protector, Playful Companion, Scout, Seize Animal, Trusted Mount, Vigilant, We Always Find Them, You Can’t Hit What You Can’t Find*
 
-### STEP 4: CHOOSE THEIR ATTACK AND RECORD DAMAGE DIE
+## Step 4: Choose Their Attack and Record Damage Die
 
 Finally, describe your companion’s method of dealing damage (their standard attack) and record it in the “Attack & Damage” section. At level 1, your companion’s damage die is a d6 and their range is Melee.
 
-## WORKING WITH YOUR COMPANION
+# Working with Your Companion
 
 The following sections will run you through the basics of working with your companion.
 
-### USING SPELLCAST ROLLS, HOPE, AND EXPERIENCES
+## Using Spellcast Rolls, Hope, and Experiences
 
 Make a Spellcast Roll to connect with your companion and command them to take action. Spend a Hope to add an applicable Companion Experience to the roll. On a success with Hope, if your next action builds on their success, you gain advantage on the roll.
 
-### ATTACKING WITH YOUR COMPANION
+## Attacking with Your Companion
 
 When you command your companion to attack, they gain any benefits that would normally only apply to you (such as the effects of “Ranger’s Focus”). On a success, their damage roll uses your Proficiency and their damage die.
 
-### TAKING DAMAGE AS STRESS
+## Taking Damage as Stress
 
 - When your companion would take any amount of damage, they mark a Stress. When they mark their last Stress, they drop out of the scene (by hiding, fleeing, or a similar action). They remain unavailable until the start of your next long rest, where they return with 1 Stress cleared.
 - When you choose a downtime move that clears Stress on yourself, your companion clears an equal number of Stress.
 
-## LEVELING UP YOUR COMPANION
+# Leveling up Your Companion
 
 When your character levels up, choose one available option for your companion from the following list and mark it on your sheet:
 

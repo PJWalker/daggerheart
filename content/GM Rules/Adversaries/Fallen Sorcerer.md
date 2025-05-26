@@ -5,7 +5,7 @@
 > **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 mag  
 
-## FEATURES
+# Features
 
 ***Conflagration - Action:*** Spend a Fear to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take 2d10+6 direct magic damage.
 

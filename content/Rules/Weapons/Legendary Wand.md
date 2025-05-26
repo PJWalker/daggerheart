@@ -1,4 +1,4 @@
-# LEGENDARY WAND
+# Legendary Wand
 
 **Trait:** Knowledge; **Range:** Far; **Damage:** d6+10 mag; **Burden:** One-Handed
 

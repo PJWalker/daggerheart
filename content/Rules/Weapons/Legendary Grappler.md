@@ -1,4 +1,4 @@
-# LEGENDARY GRAPPLER
+# Legendary Grappler
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d6+6 phy; **Burden:** One-Handed
 

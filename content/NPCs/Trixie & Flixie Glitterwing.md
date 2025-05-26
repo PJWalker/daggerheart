@@ -1,6 +1,6 @@
 ---
-tags:
-  - npc
+tags: [npc]
+draft: "true"
 ---
 ![[Trixie & Flixie Glitterwing-1746997650114.webp]] ![[Trixie & Flixie Glitterwing-1746997669483.webp]]
 
@@ -34,7 +34,7 @@ but you’ll solve them much faster than to you it seems
 
 ***
 
-# Do we have to?
+# Do We Have To?
 I don't make up the rules – that’s Ikla in the sky.
 But if you don't play my game, I will start to cry.
 
@@ -64,12 +64,12 @@ She' puts me to sleep then complains ‘bout my snore
 
 So to see all you people was quite the nice sight
 but… if you don’t want to play then, I’ll bid you goodnight.
-# [[Vinaeya Starfen|Vinaeya]] 
+# [[Vinaeya Starfen|Vinaeya]]
 Friend to all from the [[giants]] to the smallest whelp
 If you e’er need assistance, she’s happy to help
 and her Havenite friends(?) called her out for a quest
 That was 5 weeks ago… and we don’t know the rest.
-# [[Places/Haven/index|Havenites]] 
+# [[Places/Haven/index|Havenites]]
 They came wrapped in their armor; charged her with a crime 
 he said stuff about treason, said she was a consignee
 It seemed quite complicated; so a lot whizzed right by me
@@ -78,7 +78,7 @@ promised. she’s… honest.
 Oh I’m gonna vomit.
 
 (Glitter vomit)
-# Sympathy 
+# Sympathy
 Thank you, but… really I shouldn’t be worried.
 She’s a powerful woman, she needn’t be hurried.
 But… why did she send for you all with that letter
@@ -118,7 +118,7 @@ Eponymously he’s what some call the moon
 
 That’s the perfect answer you got it in one,
 but our game isn’t over, it’s barely begun.
-## Ferry 
+## Ferry
 They take you from one side to other of sea,
 their name it sounds just barely different from me.
 **—[[Ferriers|Ferry]]**
@@ -178,13 +178,13 @@ With me, yesterday will come after today
 Don’t want to be showy, but I’ve got many rings
 A growing collection, with these endless springs
 **—Tree**
-## Mushroom 
+## Mushroom
 I am a room, that you cannot enter;
 I’m strewn across the southeastern splendour
 **—Mushroom** ([[Places/Hush/index]] )
 ## Pencil
 We’ll get out the message; when I take your hand
 The further I go, the shorter I stand.
-## The letter S
+## The Letter S
 It’s weird, I can see, though I am not an I.
 Most of what you assess; not what you let go by.

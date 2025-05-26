@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +1 | **Cutlass:** Melee | 1d12+2 phy  
 
-## FEATURES
+# Features
 
 ***Swashbuckler - Passive:*** When the Captain marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.
 

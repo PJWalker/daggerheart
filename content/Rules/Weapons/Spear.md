@@ -1,4 +1,4 @@
-# SPEAR
+# Spear
 
 **Trait:** Finesse; **Range:** Very Close; **Damage:** d10+2 phy; **Burden:** Two-Handed
 

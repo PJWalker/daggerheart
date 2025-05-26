@@ -1,4 +1,4 @@
-# PARRYING DAGGER
+# Parrying Dagger
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
 

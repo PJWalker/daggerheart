@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy  
 
-## FEATURES
+# Features
 
 ***Execute Them! - Action:*** Spend a Fear per PC in the party to have the group condemned for crimes real or imagined. A PC who succeeds on a Presence Roll can demand trial by combat or another special form of trial.
 

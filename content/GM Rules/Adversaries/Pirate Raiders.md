@@ -5,7 +5,7 @@
 > **Difficulty:** 12 | **Thresholds:** 5/11 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +1 | **Cutlass:** Melee | 1d8+2 phy  
 
-## FEATURES
+# Features
 
 ***Horde (1d4+1) - Passive:*** When the Raiders have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead.
 

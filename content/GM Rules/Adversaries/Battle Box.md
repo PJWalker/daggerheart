@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 10/20 | **HP:** 8 | **Stress:** 6  
 > **ATK:** +2 | **Slam:** Melee | 2d6+3 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** The Box can be spotlighted up to two times per turn. Spend Fear as usual to spotlight them.
 

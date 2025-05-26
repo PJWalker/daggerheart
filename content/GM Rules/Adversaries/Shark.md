@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3  
 > **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 phy  
 
-## FEATURES
+# Features
 
 ***Terrifying - Passive:*** When the Shark makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

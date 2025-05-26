@@ -1,4 +1,4 @@
-# ADVANCED SHORTBOW
+# Advanced Shortbow
 
 **Trait:** Agility; **Range:** Far; **Damage:** d6+9 phy; **Burden:** Two-Handed
 

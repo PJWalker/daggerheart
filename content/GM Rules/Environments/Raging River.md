@@ -5,7 +5,7 @@
 > **Difficulty:** 10  
 > **Potential Adversaries:** Beasts (Bear, Glass Snake), Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper)
 
-## FEATURES
+# Features
 
 ***Dangerous Crossing - Passive:*** Crossing the river requires the party to complete a Progress Countdown (4). A PC who rolls a failure with Fear is immediately targeted by the “Undertow” action without requiring a Fear to be spent on the feature.
 

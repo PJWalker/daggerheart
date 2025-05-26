@@ -5,7 +5,7 @@
 > **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5  
 > **ATK:** +3 | **Bite:** Close | 2d12+2 phy  
 
-## FEATURES
+# Features
 
 ***Many-Headed Menace - Passive:*** The Hydra begins with three heads and can have up to five. When the Hydra takes Major or greater damage, they lose a head.
 

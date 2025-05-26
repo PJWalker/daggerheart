@@ -1,6 +1,5 @@
 ---
-tags:
-  - common
+tags: [common]
 publish: "true"
 ---
 Base Thresholds: 8/17

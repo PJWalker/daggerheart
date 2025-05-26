@@ -18,12 +18,12 @@ This doesn’t need to be specific and isn’t required to begin, but having a b
 # Traits
 # Background
 
-* Where did you grow up? Did you leave? Why?
-* What is your ancestry and community’s ‘place’ within the area you grew up? How has that affected you?
-* Why are you in Fanewick at the moment? (There’s a catch-all answer, but maybe you have some specific business.)
-* What from your upbringing will prove useful as an adventurer? What will you need to leave behind? 
-* What does your character want to achieve? Why?
-* How does your class help you to achieve your goals?
+- Where did you grow up? Did you leave? Why?
+- What is your ancestry and community’s ‘place’ within the area you grew up? How has that affected you?
+- Why are you in Fanewick at the moment? (There’s a catch-all answer, but maybe you have some specific business.)
+- What from your upbringing will prove useful as an adventurer? What will you need to leave behind? 
+- What does your character want to achieve? Why?
+- How does your class help you to achieve your goals?
 
 # Experiences
 Consi
@@ -33,20 +33,20 @@ There’s no set list of experiences to
 > Your experiences are *always* a part of your character, even when you’re not explicitly invoking them. Having experiences that have both positive and negative aspects 
 > (Also, )
 
-#  Organisations
+# Organisations
 You may decide to be a member of, or associated with: 
-* The [[Ferriers]] 
-* [[Haven Emissaries]] 
+- The [[Ferriers]] 
+- [[Haven Emissaries]] 
 
 # Token
 Please find/make/draw a token to represent your character on the tabletop.
 
-Most of my NPC tokens are from 2-minute-tabletop, so the easiest option is to make one that fits in is to use [their token editor](https://tools.2minutetabletop.com).  If you do, use a black 'base shadow', not a white outline.
+Most of my NPC tokens are from 2-minute-tabletop, so the easiest option is to make one that fits in is to use [their token editor](https://tools.2minutetabletop.com). If you do, use a black 'base shadow', not a white outline.
 
 ![[Tokens.webp]]
 
 # Backstory
-We’re starting at level one, so the character’s story need not reflect a *huge* amount of prior adventuring experience. I’m looking for either fledgling adventurers, *or* unlikely heroes.  but should suggest a motivation for it. 
+We’re starting at level one, so the character’s story need not reflect a *huge* amount of prior adventuring experience. I’m looking for either fledgling adventurers, *or* unlikely heroes. but should suggest a motivation for it. 
 
 This is particularly true if your character is established to be *from* [[Fanewick]], since the region will be challenging *despite* it being local.
 
@@ -58,28 +58,27 @@ More broadly, [[PC|PCs]] of a normal age range will have grown up in a period of
 Your character should have some connection to Vinaeya that gives you a reason to be willing to do her a big favour. This is what’ll get all the players into the same room.
 
 Ideas include:
-* You’re in her family (note: she’s a [[Rules/Ancestries/Faun]]) 
-* You’re a close friend
-* You owe her a debt
-* She has previously saved your life
-* She has promised something to you
-* You’re a paid assistant / security guard / etc to her
-* You are a particularly kind/selfless character who happens to be in her vicinity.
-* You received an order from your boss, patron, etc.
-* You have an existing bond to another party member (and *they* have a reason to help)
+- You’re in her family (note: she’s a [[Rules/Ancestries/Faun]]) 
+- You’re a close friend
+- You owe her a debt
+- She has previously saved your life
+- She has promised something to you
+- You’re a paid assistant / security guard / etc to her
+- You are a particularly kind/selfless character who happens to be in her vicinity.
+- You received an order from your boss, patron, etc.
+- You have an existing bond to another party member (and *they* have a reason to help)
 
 It’s also good for some of you guys to have pre-existing relationships to one another. I’ll start you guys off in a way that pushes you all together, but it’ll make perfect sense if there were existing pairs etc. 
 
-
 ***
 
-# CHARACTER CREATION
+# Character Creation
 
 Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
 
 > ***Note:*** *You can fill in your character’s name, pronouns, and Character Description details at any point of the character creation process.*
 
-## STEP 1: CHOOSE A CLASS AND SUBCLASS
+## Step 1: Choose a Class and Subclass
 
 **[Classes](Classes.md)** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
 
@@ -88,14 +87,14 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 **Subclasses** further refine a class archetype and reinforce its expression by granting access to unique **subclass features**. Each class comprises two subclasses. Select one of your class’s subclasses and take its **Foundation** card.
 
-## STEP 2: CHOOSE YOUR HERITAGE
+## Step 2: Choose Your Heritage
 
 Your character’s **heritage** combines two elements: **[ancestry](Ancestries.md)** and **[community](Communities.md)**.
 
 - A character’s **ancestry** represents their species or lineage; it grants them certain physical traits and two unique **ancestry features**. Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungirl, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simian. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 - Your character’s **community** represents their culture or environment of origin and grants them a **community feature**. Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne.
 
-## STEP 3: ASSIGN CHARACTER TRAITS
+## Step 3: Assign Character Traits
 
 Your character has six traits that represent their physical, mental, and social aptitude:
 
@@ -114,7 +113,7 @@ Your character has six traits that represent their physical, mental, and social 
 
 When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, -1 to your character’s traits in any order you wish.
 
-## STEP 4: RECORD ADDITIONAL CHARACTER INFORMATION
+## Step 4: Record Additional Character Information
 
 - Characters start a new campaign at **Level 1**. Record your level in the designated space at the top of your character sheet.
 - **Evasion** represents your character’s ability to avoid damage. Your character’s starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.
@@ -122,7 +121,7 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 - **Stress** reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion. Every PC starts with 6 Stress slots.
 - **Hope** is a metacurrency that fuels special moves and certain abilities or features. All PCs start with 2 Hope; mark these in the Hope field of your character sheet.
 
-## STEP 5: CHOOSE YOUR STARTING EQUIPMENT
+## Step 5: Choose Your Starting Equipment
 
 Choose your **[weapon(s)](Weapons.md)**:
 
@@ -142,13 +141,13 @@ Add the following items to the **Inventory** fields on your character sheet:
 - If applicable, whichever class-specific item you selected to carry your spells
 - Any other GM-approved items you’d like to have at the start of the game
 
-## STEP 6: CREATE YOUR BACKGROUND
+## Step 6: Create Your Background
 
 Develop your character’s **background** by answering the **background questions** in your character guide, modifying or replacing them if they don’t fit the character you want to play.
 
 > ***Note:*** *Your background has no explicit mechanical effect, but it greatly affects the character you’ll play and the prep the GM will do. Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape. If you wish, you can leave your character’s past more ambiguous for the time being and discover their backstory through play.*
 
-## STEP 7: CREATE YOUR EXPERIENCES
+## Step 7: Create Your Experiences
 
 An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life. When your PC makes a move, they can spend a Hope to add a relevant Experience’s modifier to the roll.
 
@@ -156,22 +155,22 @@ An Experience is a word or phrase used to encapsulate a specific set of skills, 
 - There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and “Highly Skilled” are too broad because they could apply to virtually any roll. Likewise, “Supersonic Flight” and “Invulnerable” imply game-breaking special abilities.*
 
 > **EXAMPLE EXPERIENCES**
->
+> 
 > **Backgrounds:** *Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler*
->
+> 
 > **Characteristics:** *Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive*
->
+> 
 > **Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Suashbuckler, Tactician*
->
+> 
 > **Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker*
->
+> 
 > **Phrases:** *Catch Me If You Can, Fake It Till You Make It, First Time’s the Charm, Hold the Line, I Won’t Let You Down, I’ll Catch You, I’ve Got Your Back, Knowledge Is Power, Nature’s Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep’s Clothing*
 
-## STEP 8: CHOOSE DOMAIN CARDS
+## Step 8: Choose Domain Cards
 
 Your class has access to two of the nine [Domains](Domains.md) included in the core set. Choose two cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
 
-## STEP 9: CREATE YOUR CONNECTIONS
+## Step 9: Create Your Connections
 
 Connections are the relationships between the PCs. To create connections, follow these steps:
 

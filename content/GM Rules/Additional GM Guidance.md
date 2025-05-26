@@ -1,16 +1,16 @@
-# ADDITIONAL GM GUIDANCE
+# Additional Gm Guidance
 
 This section provides additional guidance for preparing and running a session of Daggerheart.
 
-## STORY BEATS
+## Story Beats
 
 In storytelling, a beat is a moment that changes the trajectory of the narrative—a shift in the world, a significant action or reaction, an emotional revelation, or an important decision. Take turns with the players, narrating a beat and then letting them react and carry the scene forward with their own beats. When preparing for a session, plan in terms of the moments that give shape to each scene or sequence, rather than pre-scripting specific details or exchanges.
 
-## PREPARING COMBAT ENCOUNTERS
+## Preparing Combat Encounters
 
 Build the hurdles the PCs face around the question of “What helps tell the story?” Enemies, environments, and hazards are the tools for heightening tension and creating drama. Ensure that combat is being used to give players more information about the unfolding story, revealing the world, the plot, or the characters.
 
-## BATTLES AND NARRATIVE
+## Battles and Narrative
 
 Dynamic battles create suspense by forcing players to choose between their various objectives, engaging their character’s motivations and weaknesses, and creating the crucible that the players use to forge their characters into legendary heroes. When preparing combat encounters:
 
@@ -19,7 +19,7 @@ Dynamic battles create suspense by forcing players to choose between their vario
 - Use dynamic environments to bring the battleground to life
 - Add enemies that can interact with the PCs’ features and special abilities
 
-## SESSION REWARDS
+## Session Rewards
 
 Reward players at the end of a session with:
 
@@ -29,11 +29,11 @@ Reward players at the end of a session with:
 - Gold
 - Access to new equipment or enhancements
 
-## CRAFTING SCENES
+## Crafting Scenes
 
 Whenever you start a session, arrive at a new place, or change the situation, tell the players what they need to know by thinking with all of your senses and sharing something unique or unexpected about the fiction.
 
-## ENGAGING YOUR PLAYERS
+## Engaging Your Players
 
 Keep your players engaged by:
 
@@ -61,7 +61,7 @@ Keep your players engaged by:
 |    **11**    | Destroy a piece of architecture, a statue, a shrine, or a weapon.     |
 |    **12**    | Investigate a situation to confirm or deny existing information.      |
 
-## PHASED BATTLES
+## Phased Battles
 
 Make battles by shifting the nature of its enemies or environment mid-combat:
 

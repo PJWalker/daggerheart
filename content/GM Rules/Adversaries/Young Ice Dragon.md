@@ -5,7 +5,7 @@
 > **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6  
 > **ATK:** +7 | **Bite and Claws:** Close | 4d10 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (3) - Passive:*** The Dragon can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

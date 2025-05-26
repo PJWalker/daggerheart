@@ -1,4 +1,4 @@
-# IMPROVED SHORTSWORD
+# Improved Shortsword
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+2 phy; **Burden:** One-Handed
 

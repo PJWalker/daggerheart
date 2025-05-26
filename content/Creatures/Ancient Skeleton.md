@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 
 ![[Ancient Skeleton.webp]]
 T1 Standard

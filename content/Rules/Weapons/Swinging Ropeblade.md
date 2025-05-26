@@ -1,4 +1,4 @@
-# SWINGING ROPEBLADE
+# Swinging Ropeblade
 
 **Trait:** Presence; **Range:** Close; **Damage:** d8+9 phy; **Burden:** One-Handed
 

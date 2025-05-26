@@ -2,7 +2,7 @@ Elves are typically tall humanoids with pointed ears and acutely attuned senses.
 
 Some elves possess what is known as a “mystic form,” which occurs when an elf has dedicated themself to the study or protection of the natural world so deeply that their physical form changes. These characteristics can include celestial freckles, the presence of leaves, vines, or flowers in their hair, eyes that flicker like fire, and more. Sometimes these traits are inherited from parents, but if an elf changes their environment or magical focus, their appearance changes over time. Because elves live for about 350 years, these traits can shift more than once throughout their lifespan.
 
-## ANCESTRY FEATURES
+# Ancestry Features
 
 ***Quick Reactions:*** **Mark a Stress** to gain advantage on a reaction roll.
 

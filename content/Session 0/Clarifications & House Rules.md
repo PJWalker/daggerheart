@@ -19,5 +19,5 @@ Within owlbear, double-tapping m gives you the ‘movement’ tool, which shows 
 
 # Groups of Enemies
 A ‘group’ is a 10ft circle.
-# Hope / Fear rolls
+# Hope / Fear Rolls
 With the way I’ve set up the VTT you can only get the duality dice as a package. If the rules say to roll just Hope, or just Fear – roll the standard blue D12.

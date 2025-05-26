@@ -10,7 +10,7 @@ The map should continue around the table like this until it feels like it is pop
 
 After the table feels happy with the details they’ve added, take the map back and begin the adventure. Maybe it’s somewhere the players have already added, or maybe it’s a new place—either way, this will help you orient yourself for the campaign moving forward.
 
-### Filling Space, Leaving Blanks
+# Filling Space, Leaving Blanks
 
 As part of the prep for your next session, you’ll want to review the map your table built together. Think about how the locations your players created might affect the region, and add anything you think might be important or relevant to the sheet. For example, if someone labeled a spot with “The Healing Fields,” you might consider adding a town nearby that specializes in creating 
 

@@ -1,5 +1,3 @@
-# DOWNTIME
-
 Between conflicts, the party can take a **rest** to recover expended resources and deepen their bonds. During a rest, each PC can make up to two downtime moves.
 
 When the party rests, they must choose between a short rest and a long rest. If a party takes three short rests in a row, their next rest must be a long rest.
@@ -25,18 +23,18 @@ A **long rest** is when the characters make camp and relax or sleep for several 
 
 At the end of a long rest, any features or effects with a limited number of uses per rest or per long rest refresh and any features or effects that last until your next rest or until your next long rest expire.
 
-## DOWNTIME CONSEQUENCES
+# Downtime Consequences
 
 On a short rest, the GM gains `dice:1d4` Fear. 
 On a long rest, they gain Fear equal to `dice:1d4` + the number of PCs, and they can advance a **long-term countdown** of their choice.
 
-## USING DOWNTIME
+# Using Downtime
 
 Use downtime scenes as a pressure release valve to vary the intensity of the story and give the PCs room to breathe.
 
 Empower your players to frame their own downtime scenes. Ask the players what it looks like as they tend to their wounds or unwind together, encouraging them to take the reins and work with other players whose characters are involved.
 
-## PROJECTS DURING DOWNTIME
+# Projects during Downtime
 
 The Work on a Project downtime move requires more GM input than other downtime moves and is best suited for long-term endeavors the PCs wish to undertake.
 
@@ -44,6 +42,6 @@ These projects are typically tracked using a Progress Countdown. When deciding t
 
 Simple projects advance their countdown each time a player uses the Work on a Project move, but complex projects require a roll.
 
-## EXTENDED DOWNTIME
+# Extended Downtime
 
 When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 Fear per PC and advance any long-term countdowns as appropriate.

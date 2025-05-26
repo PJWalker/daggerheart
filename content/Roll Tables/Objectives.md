@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 `dice:1d12`
 
 | 1d12   | Objective                                                             |     |
@@ -14,5 +18,4 @@
 | **10** | Harass the opponent to deplete their resources or keep them occupied. |     |
 | **11** | Destroy a piece of architecture, a statue, a shrine, or a weapon.     |     |
 | **12** | Investigate a situation to confirm or deny existing information.      |     |
-
 

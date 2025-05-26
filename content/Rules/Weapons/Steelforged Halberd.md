@@ -1,4 +1,4 @@
-# STEELFORGED HALBERD
+# Steelforged Halberd
 
 **Trait:** Strength; **Range:** Very Close; **Damage:** d8+4 phy; **Burden:** Two-Handed
 

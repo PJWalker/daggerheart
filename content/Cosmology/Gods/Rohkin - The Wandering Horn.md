@@ -1,7 +1,5 @@
 ---
-aliases:
-  - Rohkin
-  - Rohkina
+aliases: [Rohkin, Rohkina]
 ---
 Rohkin watches over the many herds of horned creatures that reside in the [[Fanewick]].
 

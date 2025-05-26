@@ -5,7 +5,7 @@
 > **Difficulty:** 18 | **Thresholds:** 35/58 | **HP:** 11 | **Stress:** 5  
 > **ATK:** +8 | **Heart-Shattering Sword:** Very Close | 4d12+13 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (3) - Passive:*** The Undefeated Champion can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

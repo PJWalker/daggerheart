@@ -5,7 +5,7 @@
 > **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 2  
 > **ATK:** +2 | **Sword and Shield:** Melee | 10 phy  
 
-## FEATURES
+# Features
 
 ***Minion (13) - Passive:*** The Soldier is defeated when they take any damage. For every 13 damage a PC deals to the Soldier, defeat an additional Minion within range the attack would succeed against.
 

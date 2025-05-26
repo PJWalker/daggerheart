@@ -1,4 +1,4 @@
-# RETURNING BLADE
+# Returning Blade
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d8 mag; **Burden:** One-Handed
 

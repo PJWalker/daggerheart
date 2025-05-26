@@ -5,7 +5,7 @@
 > **Difficulty:** 17  
 > **Potential Adversaries:** Mercenaries (Sellsword, Harrier, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
 
-## FEATURES
+# Features
 
 ***Adrift on a Sea of Steel - Passive:*** Traversing a battlefield during an active combat is extremely dangerous. A PC must succeed on an Agility Roll to move at all, and can only go up to Close range on a success. If an adversary is within Melee range of them, they must mark a Stress to make an Agility Roll to move.
 

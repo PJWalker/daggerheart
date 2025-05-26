@@ -1,10 +1,10 @@
 Play the Syndicate if you want to have a web of contacts everywhere you go.
 
-## SPELLCAST TRAIT
+# Spellcast Trait
 
 Finesse
 
-## FOUNDATION FEATURE
+# Foundation Feature
 
 ***Well-Connected:*** When you arrive in a prominent town or environment, you know somebody who calls this place home. Give them a name, note how you think they could be useful, and choose one fact from the following list:
 
@@ -14,7 +14,7 @@ Finesse
 - We used to be together. It’s a long story.
 - We didn’t part on great terms.
 
-## SPECIALIZATION FEATURE
+# Specialization Feature
 
 ***Contacts Everywhere:*** Once per session, you can briefly call on a shady contact. Choose one of the following benefits and describe what brought them here to help you in this moment:
 
@@ -22,7 +22,7 @@ Finesse
 - On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die.
 - The next time you deal damage, they snipe from the shadows, adding 2d8 to your damage roll.
 
-## MASTERY FEATURE
+# Mastery Feature
 
 ***Reliable Backup:*** You can use your “Contacts Everywhere” feature three times per session. The following options are added to the list of benefits you can choose from when you use that feature:
 

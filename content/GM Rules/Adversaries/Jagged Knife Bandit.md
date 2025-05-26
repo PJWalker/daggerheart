@@ -5,7 +5,7 @@
 > **Difficulty:** 12 | **Thresholds:** 8/14 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +1 | **Daggers:** Melee | 1d8+1 phy  
 
-## FEATURES
+# Features
 
 ***Climber - Passive:*** The Bandit climbs just as easily as they run.
 

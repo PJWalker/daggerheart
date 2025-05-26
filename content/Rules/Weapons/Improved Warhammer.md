@@ -1,4 +1,4 @@
-# IMPROVED WARHAMMER
+# Improved Warhammer
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+6 phy; **Burden:** Two-Handed
 

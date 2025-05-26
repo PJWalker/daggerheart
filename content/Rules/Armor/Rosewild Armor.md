@@ -1,4 +1,4 @@
-# ROSEWILD ARMOR
+# Rosewild Armor
 
 **Base Thresholds:** 11 / 23; **Base Score:** 5
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 12/28 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +2 | **Warhammer:** Very Close | 2d12+3 phy  
 
-## FEATURES
+# Features
 
 ***Battering Ram - Action:*** Mark a Stress to have the Brawler charge at an inanimate object within Close range they could feasibly smash (such as a wall, cart, or market stand) and destroy it. All targets within Very Close range of the object must succeed on an Agility Reaction Roll or take 2d4+3 physical damage from the shrapnel.
 

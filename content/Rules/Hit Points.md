@@ -1,6 +1,5 @@
 ---
-aliases:
-  - HP
+aliases: [HP]
 ---
 Hit Points (HP) represent a character’s ability to withstand physical injury. When a character takes damage, they lose 1 to 3 HP, based on their [[damage thresholds]]:
 

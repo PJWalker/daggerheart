@@ -1,6 +1,5 @@
 ---
-tags:
-  - uncommon
+tags: [uncommon]
 ---
 
 A small box that can only be opened once per long rest. 

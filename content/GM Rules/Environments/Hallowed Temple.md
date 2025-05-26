@@ -5,7 +5,7 @@
 > **Difficulty:** 13  
 > **Potential Adversaries:** Guards (Archer Guard, Bladed Guard, Head Guard)
 
-## FEATURES
+# Features
 
 ***A Place of Healing - Passive:*** A PC who takes a rest in the Hallowed Temple automatically clears all HP.
 

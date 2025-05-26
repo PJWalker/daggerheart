@@ -1,10 +1,10 @@
-# ATTACKING
+# Attacking
 
-## ATTACK ROLLS
+## Attack Rolls
 
 An **attack roll** is an action roll intended to inflict harm. The trait that applies to an attack roll is specified by the weapon or spell being used. Unarmed attack rolls use either Strength or Finesse (GM’s choice). An attack roll’s Difficulty, unless otherwise noted, is equal to the Difficulty score of its target.
 
-## DAMAGE ROLLS
+## Damage Rolls
 
 On a successful attack, roll damage. Damage is calculated from the **damage roll** listed in the attack’s description with the format “xdy+[modifier]” *(e.g., for a spell that inflicts “1d8+2” damage, you roll an eight-sided die and add 2 to the result; the damage dealt is equal to the total).*
 
@@ -16,15 +16,15 @@ For weapons, the number of damage dice you roll is equal to your **Proficiency**
 
 Successful unarmed attacks inflict [Proficiency]d4 damage.
 
-## CRITICAL DAMAGE
+## Critical Damage
 
 When you get a critical success (i.e., you roll matching values on your Duality Dice) on an attack roll, you deal extra damage. Make the damage roll as usual, but add the maximum possible result of the damage dice to the final total. For instance, if an attack would normally deal 2d8+1 damage, a critical success would deal 2d8+1+16.
 
-## DAMAGE TYPES
+## Damage Types
 
 There are two damage types: **physical damage (phy)** and **magic damage (mag)**. Unless stated otherwise, mundane weapons and unarmed attacks deal physical damage, and spells deal magic damage.
 
-## RESISTANCE, IMMUNITY, AND DIRECT DAMAGE
+## Resistance, Immunity, and Direct Damage
 
 If a target has **resistance** to a damage type, they reduce incoming damage of that type by half before comparing it to their Hit Point Thresholds. If the target has additional ways of reducing incoming damage, such as marking Armor Slots, they apply the resistance effect first. The effects of multiple resistances to the same damage type do not stack.
 
@@ -34,11 +34,11 @@ If an attack deals both physical and magic damage, a character can only benefit 
 
 **Direct damage** is damage that can’t be reduced by marking Armor Slots.
 
-## MULTI-TARGET ATTACK ROLLS
+## Multi-target Attack Rolls
 
 If a spell or ability allows you to target multiple adversaries, make one attack roll and one damage roll, then apply the same attack roll result individually.
 
-## MULTIPLE DAMAGE SOURCES
+## Multiple Damage Sources
 
 Damage dealt simultaneously from multiple sources is always totaled before it’s compared to its target’s damage thresholds.
 

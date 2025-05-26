@@ -5,7 +5,7 @@
 > **Difficulty:** 14  
 > **Potential Adversaries:** Ghosts (Spectral Archer, Spectral Captain, Spectral Guardian), (ghostly versions of other adversaries (see “Ghostly Form”))
 
-## FEATURES
+# Features
 
 ***Buried Knowledge - Passive:*** The city has countless mysteries to unfold. A PC who seeks knowledge about the fallen city can make an Instinct or Knowledge Roll to learn about this place and discover (potentially haunted) loot.
 

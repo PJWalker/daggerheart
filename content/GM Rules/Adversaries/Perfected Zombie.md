@@ -5,7 +5,7 @@
 > **Difficulty:** 20 | **Thresholds:** 40/70 | **HP:** 9 | **Stress:** 4  
 > **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 phy  
 
-## FEATURES
+# Features
 
 ***Terrifying - Passive:*** On successful attack, all PCs in Far range lose Hope and you gain Fear.
 

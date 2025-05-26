@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6  
 > **ATK:** +2 | **Rune-Covered Rod:** Far | 2d4+3 mag  
 
-## FEATURES
+# Features
 
 ***Enervating Blast - Action:*** Spend a Fear to make a standard attack against a target within range. On a success, the target must mark a Stress.
 

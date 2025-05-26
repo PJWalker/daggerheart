@@ -5,7 +5,7 @@
 > **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (3) - Passive:*** Can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

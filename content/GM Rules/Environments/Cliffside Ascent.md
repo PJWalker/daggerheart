@@ -5,7 +5,7 @@
 > **Difficulty:** 12  
 > **Potential Adversaries:** Construct, Deeproot Defender, Giant Scorpion, Glass Snake
 
-## FEATURES
+# Features
 
 ***The Climb - Passive:*** Climbing up the cliffside uses a Progress Countdown (12). It ticks down according to the following criteria when the PCs make an action roll to climb:
 

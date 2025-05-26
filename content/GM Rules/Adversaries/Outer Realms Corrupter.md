@@ -5,7 +5,7 @@
 > **Difficulty:** 19 | **Thresholds:** 27/47 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +7 | **Corroding Pseudopod:** Very Close | 4d8+5 mag  
 
-## FEATURES
+# Features
 
 ***Will-Shattering Touch - Passive:*** When a PC takes damage from the Corrupter, they lose a Hope.
 

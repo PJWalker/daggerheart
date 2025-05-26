@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy  
 
-## FEATURES
+# Features
 
 ***Chevalier - Passive:*** While the Knight is on a mount, they gain a +2 bonus to their Difficulty. When they take Severe damage, they’re knocked from their mount and lose this benefit until they’re next spotlighted.
 

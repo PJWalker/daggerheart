@@ -1,9 +1,9 @@
 ---
-aliases:
+aliases: []
 ---
 A region of swamp and rainforest to the east, with scattered communities throughout. 
-* Most [[Faerie|Faeries]], [[Rules/Ancestries/Elf|Elves]], [[Rules/Ancestries/Fungril|Fungrils]], and [[Rules/Ancestries/Simiah]] are from here.
-* [[Ribbet|Ribbets]], [[Rules/Ancestries/Clank|Clanks]] and [[Rules/Ancestries/Halfling|Halflings]] are also common
+- Most [[Faerie|Faeries]], [[Rules/Ancestries/Elf|Elves]], [[Rules/Ancestries/Fungril|Fungrils]], and [[Rules/Ancestries/Simiah]] are from here.
+- [[Ribbet|Ribbets]], [[Rules/Ancestries/Clank|Clanks]] and [[Rules/Ancestries/Halfling|Halflings]] are also common
 
 A wild and untamed land, the fanewild is dangerous to those unfamiliar with its ways, but a cornucopia to those who respect its ways. The woods are dark and twisting, filled with Faint Divinities that perform small miracles and services for its inhabitants, but are just as likely to lure travellers off narrow paths to their ruin. 
 
@@ -11,18 +11,17 @@ Seemingly mundane expanses of field hide bogs that will engulf entire armies, co
 
 [[Lady's Veil]] are endemic to the area
 
-## Building a Wilder
-*  [[Rules/Communities/Wanderborne]] & [[Rules/Communities/Wildborne]] (🤯) are common in Fanewild
-* [[Rules/Communities/Highborne]] are essentially non-existent here.
+# Building a Wilder
+-  [[Rules/Communities/Wanderborne]] & [[Rules/Communities/Wildborne]] (🤯) are common in Fanewild
+- [[Rules/Communities/Highborne]] are essentially non-existent here.
 ---
 
-* [[Rules/Ancestries/Fungril]] from the Fanewild are notably bigger than others
-* [[Drakona]], [[Rules/Ancestries/Faun|Fauns]], [[Rules/Ancestries/Firbolg|Firbolgs]] & [[Inferis]] living in the Fanewild may have noticed their horns growing faster and longer.
-# Mood board
+- [[Rules/Ancestries/Fungril]] from the Fanewild are notably bigger than others
+- [[Drakona]], [[Rules/Ancestries/Faun|Fauns]], [[Rules/Ancestries/Firbolg|Firbolgs]] & [[Inferis]] living in the Fanewild may have noticed their horns growing faster and longer.
+# Mood Board
 ![[Fanewick-1746705000456.webp]]
 
 ![[Fanewick-1746704691459.webp]]
-
 
 ![[Fanewick-1746705649827.webp]]
 (Note: Lulu is not in the campaign)
@@ -30,7 +29,6 @@ Seemingly mundane expanses of field hide bogs that will engulf entire armies, co
 ![[Fanewick-1746705685594.webp]]
 
 ![[Fanewick-1746705807739.webp]]
-
 
 ![[Fanewick-1746705944888.webp]]
 

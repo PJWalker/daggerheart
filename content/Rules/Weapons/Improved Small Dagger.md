@@ -1,4 +1,4 @@
-# IMPROVED SMALL DAGGER
+# Improved Small Dagger
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8+2 phy; **Burden:** One-Handed
 

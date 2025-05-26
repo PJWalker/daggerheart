@@ -5,7 +5,7 @@
 > **Difficulty:** 16  
 > **Potential Adversaries:** Beasts (Bear, Glass Snake), Elementals (Elemental Spark), Verdant Defenders (Dryad, Oak Treant, Stag Knight)
 
-## FEATURES
+# Features
 
 ***Chaos Magic Locus - Passive:*** When a PC makes a Spellcast Roll, they must roll two Fear Dice and take the higher result.
 

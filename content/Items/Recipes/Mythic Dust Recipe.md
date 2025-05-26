@@ -1,4 +1,3 @@
 ---
-tags:
-  - legendary
+tags: [legendary]
 ---

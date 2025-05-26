@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 If a [[Maniflower]] is used with fear, roll `dice:2d12`and incur the corresponding effect:
   
 | Roll | Effect                                                                                                      |

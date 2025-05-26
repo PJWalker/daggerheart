@@ -5,7 +5,7 @@
 > **Difficulty:** 14  
 > **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
 
-## FEATURES
+# Features
 
 ***Desecrated Ground - Passive:*** Cultists dedicated this place to the Fallen Gods, and their foul influence seeps into it. Reduce the PCs’ Hope Die to a d10 while in this environment. The desecration can be removed with a Progress Countdown (6).
 

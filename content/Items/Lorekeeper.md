@@ -1,4 +1,3 @@
 ---
-tags:
-  - uncommon
+tags: [uncommon]
 ---

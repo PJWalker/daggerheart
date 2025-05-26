@@ -1,4 +1,4 @@
-# CHANNELING ARMOR
+# Channeling Armor
 
 **Base Thresholds:** 13 / 36; **Base Score:** 5
 

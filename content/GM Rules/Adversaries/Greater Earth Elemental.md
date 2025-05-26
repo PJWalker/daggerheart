@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 10 | **Stress:** 4  
 > **ATK:** +7 | **Boulder Fist:** Very Close | 3d10+1 phy  
 
-## FEATURES
+# Features
 
 ***Slow - Passive:*** When you spotlight the Elemental and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Elemental and they have a token on their stat block, clear the token and they can act.
 

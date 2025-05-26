@@ -1,4 +1,4 @@
-# IMPACT GAUNTLET
+# Impact Gauntlet
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+11 phy; **Burden:** One-Handed
 

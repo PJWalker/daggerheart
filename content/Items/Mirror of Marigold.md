@@ -1,7 +1,5 @@
 ---
-tags:
-  - consumable
-  - legendary
+tags: [consumable, legendary]
 ---
 Spend hope to negate all incoming damage, shattering the mirror. 
 

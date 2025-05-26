@@ -1,4 +1,4 @@
-# IMPROVED ROUND SHIELD
+# Improved round Shield
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d4+2 phy; **Burden:** One-Handed
 

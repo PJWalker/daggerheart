@@ -1,5 +1,4 @@
 ---
-tags:
-  - linker-exclude
+tags: [linker-exclude]
 ---
 −1 to [[Evasion]]

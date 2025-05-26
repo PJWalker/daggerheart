@@ -1,4 +1,4 @@
-# RAPIER
+# Rapier
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
 

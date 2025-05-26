@@ -12,6 +12,5 @@ If you decide that your character is a descendant of multiple ancestries and you
 
 Your character's heritage might include more than two ancestries, but you still only choose features from two. You can represent additional ancestries through their appearance or backstory
 
-
 https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#MixedAncestry
 

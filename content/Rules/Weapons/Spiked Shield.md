@@ -1,4 +1,4 @@
-# SPIKED SHIELD
+# Spiked Shield
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
 

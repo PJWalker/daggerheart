@@ -1,4 +1,4 @@
-# LEGENDARY SHORTSWORD
+# Legendary Shortsword
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
 

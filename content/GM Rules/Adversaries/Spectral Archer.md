@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 6/14 | **HP:** 3 | **Stress:** 3  
 > **ATK:** +3 | **Longbow:** Far | 2d10+2 phy  
 
-## FEATURES
+# Features
 
 ***Ghost - Passive:*** The Archer has resistance to physical damage. Mark a Stress to move up to Close range through solid objects.
 

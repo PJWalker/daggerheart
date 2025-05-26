@@ -1,8 +1,12 @@
+---
+draft: "true"
+---
+
 Phylax studied the growth of these flowers and understood that the cyclical reaping was limiting their growth – [[Nikta - Shepherd of Seasons|Nikta]] needed to be stopped. He had attempted to convince [[King Alexander Huberius]] of this, but he instead heeded [[Vinaeya Starfen|Vinaeya]]’s warnings about the need for balance.
 
-But when [[Vinaeya Starfen|Vinaeya]]  research, [[Lord Regent Vasali]] was much easier to convince. So they arranged an expedition to [[Nikta - Shepherd of Seasons|Nikta]] to get her onside.
+But when [[Vinaeya Starfen|Vinaeya]] research, [[Lord Regent Vasali]] was much easier to convince. So they arranged an expedition to [[Nikta - Shepherd of Seasons|Nikta]] to get her onside.
 
-Phylax is an extremely powerful [[Character Options/Classes/Wizard/index|wizard]], and together with the [[Haven Emissaries]]  they were able to capture [[Nikta - Shepherd of Seasons|Nikta]] and warp her vision such that her eye of sowing would gaze solely upon Haven. However, this meant her right eye was in turn fixed upon the mountain. 
+Phylax is an extremely powerful [[Character Options/Classes/Wizard/index|wizard]], and together with the [[Haven Emissaries]] they were able to capture [[Nikta - Shepherd of Seasons|Nikta]] and warp her vision such that her eye of sowing would gaze solely upon Haven. However, this meant her right eye was in turn fixed upon the mountain. 
 
 As she saw what she her gaze was causing, [[Nikta - Shepherd of Seasons|Nikta]] found a new burst of motivation to escape, but in the battle that ensued, her eye of reaping was split into three.
 

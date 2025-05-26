@@ -1,4 +1,6 @@
-# THE WITHERWILD
+---
+draft: "true"
+---
 
 ***When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land.***
 
@@ -6,25 +8,25 @@
 
 **COMPLEXITY RATING:** ●
 
-## THE PITCH
+# The Pitch
 
 Read this section to your players to introduce them to the campaign.
 
 > *Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. When Haven invaded the wilds and forced the land into eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
 
-## TONE & FEEL
+# Tone & Feel
 
 Adventurous, Dynamic, Epic, Heroic, Thrilling, Uncanny, Whimsical
 
-## THEMES
+# Themes
 
 Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and Change, Survival
 
-## TOUCHSTONES
+# Touchstones
 
 *Princess Mononoke, The Legend of Zelda, The Dark Crystal, Nausicaä of the Valley of the Wind*
 
-## OVERVIEW
+# Overview
 
 *If your group decides to play this campaign, give your players the following information before character creation.*
 
@@ -44,97 +46,97 @@ In the year since, Haven has conquered the bogs, turning them into fields to har
 
 Prior to the Serpent’s Sickness and the Shepherd’s endless growth, your party lived a peaceful life in Fanewick or a life of toil and conquest in Haven. But when the danger demands a response, even the unprepared—and unwilling—must make a stand.
 
-## COMMUNITIES
+# Communities
 
 *All communities are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players and choose one or more of the questions to ask them during your session zero.*
 
-#### LOREBORNE AND HIGHBORNE
+## Loreborne and Highborne
 
 In Fanewick, knowledge is the most valuable commodity, and those who have expertise have the most power. This economy of information functions primarily through gifting and trading, and wisdom would be considered acceptable collateral for a weapon or warm meal. As such, loreborne community members are the wealthiest in Fanewick and might be smaller, distinct groups of hunters, historians, or artisans within larger villages.
 
 > *What knowledge did your community teach you that you must now protect or share?*
->
+> 
 > *What are you able to accomplish because of your upbringing that others outside your community do not understand?*
->
+> 
 > *You once traded important knowledge for something terrible. What did you impart and what did you gain in return?*
 
 In Haven, the wealthiest members are highborne, having inherited riches built in the walled city over generations. While the highborne of Haven were more insulated from the Serpent’s Sickness, none were immune.
 
 > *Who have you lost to the Serpent’s Sickness? How did it affect you?*
->
+> 
 > *How did your family make their wealth? Have you rejected or embraced their core set of ethics?*
->
+> 
 > *You grew up in a world of abundance but were kept from learning something about the world. What was this knowledge and when did you discover it?*
 
-#### RIDGEBORNE, UNDERBORNE, AND WILDBORNE
+## Ridgeborne, Underborne, and Wildborne
 
 Characters from these communities were likely raised in Fanewick’s deadly environs, which have only become more dangerous as the Witherwild grows. Each community has unique customs, some freely shared and others kept secret, that allow them safe passage through dangerous terrain and the Faint Divinities’ territories.
 
 In exchange for protection from the Witherwild for themselves and their families, some Wicklings from these groups have been forced to take jobs as farmers in Haven’s flower fields. Though it is backbreaking work performed for a nation destroying their land, the farmers are offered safety by the Haven fires that burn back the ever-creeping Witherwild.
 
 > *What Faint Divinities do you give tribute to, and how have you been rewarded in kind?*
->
+> 
 > *You displeased a god of Fanewick. What did you do, and what misfortune befell you or a loved one?*
->
+> 
 > *You fled the place of your birth. What circumstances drove you to leave?*
 
-#### ORDERBORNE
+## Orderborne
 
 Players might choose to build orderborne characters if they want to play current or former members of the Haven Army that invaded Fanewick. Though the army brings violence into this land, they also carry overwhelming grief for a homeland succumbing to disease.
 
 > *What regrets do you carry with you from your conquest of foreign soil?*
->
+> 
 > *What kindness did an enemy combatant bestow upon you in an hour of need? How did this change your view of the people of Fanewick?*
->
+> 
 > *You were charged with planting a rumor in a Fanewick community. What is the rumor, and do you plan to carry out this mission?*
 
-#### SLYBORNE
+## Slyborne
 
 As the Haven Army is the current martial power in Fanewick, those who wish to play slyborne characters might come from Fanewick rebel groups seeking to expel the invading forces from their lands. Depending on the tactics their group employs, a character from a slyborne community might align with or go against their upbringing.
 
 > *Who among the Haven Army do you wish to exact revenge upon and why?*
->
+> 
 > *You joined an insurgent group working to free this land from Haven’s grasp. What has given you doubts about the leadership’s methods?*
->
+> 
 > *Someone you love is a member of the Haven Army. How have you used your position in the rebellion to protect them?*
 
-#### SEABORNE
+## Seaborne
 
 Both Fanewick and Haven have a coastal border. The majority of Fanewick’s seaborne communities live in small seaside groups and focus on local travel to neighboring regions, while Haventies tend to live in large ports that ship and receive goods from distant lands.
 
 > *You recently traveled by sea over a vast distance. What went terribly wrong on that passage, and how has it changed you?*
->
+> 
 > *Growing up on the sea taught you a skill few have. What did you learn, and how did it save your life?*
->
+> 
 > *You used to sail with a companion. Who were they, and how do you remain connected?*
 
-#### WANDERBORNE
+## Wanderborne
 
 Wanderborne communities can be found in both Fanewick and Haven, though safe travel has been severely restricted due to the military occupation and the expansion of the Witherwild. Whether a wanderborne character comes from Fanewick, Haven, or elsewhere, the player should determine their character’s personal views on the invasion of Fanewick, and how that aligns or departs from their community’s views.
 
 > *What do you do to keep your small community safe, independent, and hidden from Haven’s forces?*
->
+> 
 > *Because of your community’s transience, you have loved ones in both Fanewick and Haven. How has this affected your relationship with the invasion?*
->
+> 
 > *Your community travels to protect something. What is it, and why does it keep you from settling down?*
 
-## ANCESTRIES
+# Ancestries
 
 *All ancestries are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players.*
 
-#### CLANKS
+## Clanks
 
 Clanks from Haven are commonly made from iron and steel, while clanks from Fanewick are typically constructed from wood and stone.
 
-#### FUNGRIL
+## Fungril
 
 Since the Witherwild spread throughout Fanewick, some fungril inhabiting the forests have grown noticeably larger than fungril from other regions.
 
-#### DRAKONA, FAUNS, FIRBOLGS, AND INFERNIS
+## Drakona, Fauns, Firbolgs, and Infernis
 
 After the Witherwild corrupted Fanewick, some drakona, fauns, firbolgs, and infernis have noticed their horns growing faster and longer.
 
-#### GALAPA AND RIBBETS
+## Galapa and Ribbets
 
 Many families of galapa and ribbets who lived in the bogs of Fanewick were displaced when Haven’s army invaded.
 
@@ -142,91 +144,91 @@ Many families of galapa and ribbets who lived in the bogs of Fanewick were displ
 
 Anyone, but especially those from Haven, may carry the Serpent’s Sickness, which stiffens their movements and gives them limited time to survive without a cure.
 
-## CLASSES
+# Classes
 
 *All classes are available, but some have unique aspects within a Witherwild campaign. As needed, provide the following information to your players.*
 
-#### DRUIDS, RANGERS, AND SORCERERS
+## Druids, Rangers, and Sorcerers
 
 Druids, rangers, and sorcerers are commonly found throughout Fanewick. If players choose one of these classes, they should consider how their character’s connection to the natural world might be impacted by the Witherwild.
 
-#### WARRIORS AND WIZARDS
+## Warriors and Wizards
 
 Warriors and wizards are prevalent in Haven. A large wizarding school in Haven teaches fighters and healers, and the Haven Army is largely composed of warriors and School of War wizards. If a PC is either of these classes, consider their personal relationship to the Haven Army.
 
-#### VENGEANCE GUARDIAN
+## Vengeance Guardian
 
 Many Wicklings who seek revenge on Haven or to expel them from Fanewick become Vengeance guardians. If players choose this subclass, they should consider what ideals or institutions their character protects.
 
-#### SYNDICATE ROGUE
+## Syndicate Rogue
 
 The Haven Army sends spies into Fanewick communities to gain information and undermine their actions and public perception. When selecting the Syndicate rogue subclass, players should consider how their character might be connected to or impacted by these covert operatives.
 
-## PLAYER PRINCIPLES
+# Player Principles
 
 *If your group decides to play this campaign, give your players the following information before character creation.*
 
-#### MAKE THE INVASION PERSONAL
+## Make the Invasion Personal
 
 Consider how Haven’s invasion of Fanewick deeply impacts your character. Let these details inform what they want and what they’re willing to do to get it. Everyone has lost a loved one to the Witherwild or the Serpent’s Sickness, and more are dying by the day. Consider how the growing conflict caused your character to act in ways they aren’t proud of, or transformed personal truths they once believed were unshakable.
 
-#### TREAT DEATH WITH IMPORTANCE
+## Treat Death with Importance
 
 Taking a life should not be done without consideration, desperation, and consequences. As your character journeys, they should remember those they’ve lost and those they’ve slain, allowing each death to affect their choices in the future.
 
-#### EMBRACE VULNERABILITY
+## Embrace Vulnerability
 
 Find your character’s humanity and showcase it whenever you can. They should be as vulnerable during quiet moments as they are vicious during violent ones, opening up to their allies even if they close themselves off to everyone else.
 
-## GM PRINCIPLES
+# Gm Principles
 
 *Keep the following guidance in mind while you GM this campaign.*
 
-#### PAINT THE WORLD IN CONTRAST
+## Paint the World in Contrast
 
 Subvert expectations by giving space for the nightmarish to charm and the beautiful to terrify. Give the PCs visions of the natural beauty of Fanewick that has run roughshod across the region, breaking the bounds of the bogs and forests and devastating homes and communities. Show the grim and ordered life behind Haven’s walls, but also show the culture, art, and progress that has come out of centuries of safety. Contrast the capricious nature of the Faint Divinities with the devotion of the Wicklings and Haventies fighting to save their home. In a place of long nights and days, dual seasons, and two nations in conflict, look for ways to highlight bold dualities.
 
-#### SHOW THEM TRUE DANGER
+## Show Them True Danger
 
 Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what’s truly at stake, use the PCs’ origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past—when your players create and are invested in their character’s backstory, they have something to fight for.
 
-#### OFFER ALTERNATIVES TO VIOLENCE
+## Offer Alternatives to Violence
 
 By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. For example, showing compassion—rather than swordpoint—to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn’t only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
 
-#### CREATE MULTIDIMENSIONAL ALLIES AND ADVERSARIES
+## Create Multidimensional Allies and Adversaries
 
 No adversary or ally is all good or all bad, and they each have multidimensional lives. Even the most congenial ally should be hiding darkness inside them, hoping their failings will go undiscovered. Those painted as evil should sometimes do the right thing, even if it’s for the wrong reason. Just because a PC or NPC is from Haven doesn’t make them a villain, and, conversely, not all the inhabitants of Fanewick are virtuous. Finding the nuance, complications, and deeper motivations of the people of Haven and Fanewick will lead to richer interactions, more complex moral choices, and a deeper sense of attachment to the world for the players.
 
-## DISTINCTIONS
+# Distinctions
 
 *Use this information to prepare your campaign. You can also share it with your players as needed.*
 
-#### THE WEEKS OF DAY AND NIGHT
+## The Weeks of Day and Night
 
 The day and night cycle occurs weekly, meaning the sun rises for an entire week before setting into a nighttime of the same length. This has an impact on everything from agriculture to trade, as many merchants refuse to travel through the night.
 
 But this cycle doesn’t just affect Wicklings; it’s dictated how Fanewick’s wondrous ecology has evolved. Days and nights are accompanied by entirely different natural soundscapes as Fanewick’s nocturnal denizens sleep through the long days and stalk the woods in times of darkness while their diurnal counterparts sleep. The plants similarly live on this strange day-night loop, and many live out their entire life cycles in a week. Sun rose vines make a thorny ascent to the top of the tree canopy over the course of the week, only to wilt under the light of the moon. Conversely, night bloom, a bioluminescent flower that emits the smell of burnt sugar and decay, only blossoms when evening falls, illuminating patches of forest—a godsend to anyone forced to travel in the dark.
 
-#### THE SERPENT’S SICKNESS
+## The SERPENT’S Sickness
 
 The plague sweeping across Haven spares no one. Since the initial outbreak, Haven officials have worked tirelessly to quarantine those in the early stages of the disease, but the effort has done little to stop its spread. Due to the rarity of the crimson lady’s veil, many citizens began to carry or consume all manner of flowers and snake sheddings in an attempt to protect or cure themselves.
 
 In the initial stages, victims are afflicted with a hacking cough laden with dust that resembles powdered bone. Then a scaled rash erupts across their skin, cracking their flesh in a unique and painful pattern that resembles a snake’s skin. Not long after, the victims’ bodies harden until their organs solidify and cease to function. The final stages of the Serpent’s Sickness is so quick that many transform into statues where they stand, leaving all of Haven a cenotaph to a once-great power.
 
-#### LADY’S VEIL
+## LADY’S Veil
 
 These small flowers grow in patches of sun throughout Fanewick. For every ten thousand blossoms of white-petaled flowers, one blooms a unique and vibrant red. These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. Even so, they were only foraged until the Haventies discovered crimson lady’s veil—the only known cure for Serpent’s Sickness.
 
 Thus, the Haven Army invaded Fanewick and began cultivating the flowers on massive farms that have overtaken the region’s bogs. Though the theft of the Reaping Eye has created an indefinite growing season, the red flowers remain just as rare, and Fanewick is permeated by a sickly sweet smell as the Haven Army races to mass-produce a cure for the Serpent’s Sickness.
 
-#### THE WITHERWILD
+## The Witherwild
 
 This corruption, empowered by the endless spring, is spreading throughout Fanewick. Some believe the overgrowth began in the forest, while others claim it sprang from the bogs. But no matter its origins, this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into Withered beings. Plants spring to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws. Even harmless creatures that were once hunted for food have become dangerous and formidable adversaries.
 
 When a person is corrupted by the Witherwild, either from a purposeful attack or accidental harm (see the upcoming “Corruption from the Witherwild” section), they are transformed. They become a nightmarish hybrid—their body warped and intertwined with plant or beast. The Witherwild slowly replaces the personality of its victims with the same drive to consume exhibited by the rest of the corrupted Fanewick. Though the Withered may retain a semblance of who they are for a time, they eventually face the final loss of their personhood. Some Wicklings believe the Withered are gifted this power by Nikta’s wrath to drive the forces of Haven from Fanewick and return the Shepherd’s Reaping Eye.
 
-#### THE GODS OF FANEWICK
+## The Gods of Fanewick
 
 Gods in this land aren’t ethereal concepts that exist in another realm; instead, they are tangible and as inescapable as the seasons. Many communities, and some larger families, even have their own small god or tutelary spirit who watches over them.
 
@@ -249,12 +251,12 @@ Fanewick’s various divinities each have their own opinion concerning the Withe
 These are but a small slice of the hundreds, if not thousands, of gods watching, lurking, relaxing, hunting, and playing throughout Fanewick.
 
 > *What Faint Divinities do the PCs acknowledge and pay tribute to, if any?*
->
+> 
 > *How has the Witherwild changed the outlook, personality, and dispositions of the Faint Divinities the characters encounter?*
->
+> 
 > *Which gods ally themselves with Haven to preserve the endless spring? Which align with Fanewick?*
 
-## THE INCITING INCIDENT
+# The Inciting Incident
 
 *You can use the prompt below to start your campaign, or create your own.*
 
@@ -268,11 +270,11 @@ The party is sent an invitation from Haven to meet with Kreil. But is his inform
 
 Kreil advises the party to start their hunt for the Fanewraith in the treetop village of Alula, where he suspects she runs her operation.
 
-## CAMPAIGN MECHANICS
+# Campaign Mechanics
 
 *The following mechanics are unique to this campaign.*
 
-#### CORRUPTION FROM THE WITHERWILD
+## Corruption from the Witherwild
 
 Adversaries and environments in this campaign can gain Wither tokens. When a PC takes damage from a Withered adversary or environment, describe how the Witherwild changed or impacted how they would normally appear or operate. You also gain about 20 Wither tokens (these can be the same as the tokens you use for Fear).
 
@@ -280,14 +282,14 @@ Any time a PC takes Severe damage from a Withered adversary or environment, gain
 
 At the end of each session, clear all Wither tokens from the PCs’ sheets and gain an equal amount of Fear. If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
 
-#### SESSION ZERO QUESTIONS
+## Session Zero Questions
 
 *Ask any of these questions to your players, or make your own.*
 
 > *What dangerous animal comes out during the week of night that isn’t out during the week of day?*
->
+> 
 > *What unique trait (such as appearance, smell, or taste) does anything tainted by the Witherwild have?*
->
+> 
 > *What superstitions does your character or their community have about traversing Fanewick during the long nights?*
->
+> 
 > *Your character has witnessed something beautiful that came from the Witherwild. What is it and how has it transformed their view of the corruption?*

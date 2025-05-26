@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4  
 > **ATK:** +3 | **Rapier:** Melee | 3d8 phy  
 
-## FEATURES
+# Features
 
 ***Draining Bite - Action:*** Make an attack against a target within Melee range. On a success, deal 4d physical damage. A target who marks HP from this attack loses a Hope and must mark a Stress. The Vampire then clears a HP.
 

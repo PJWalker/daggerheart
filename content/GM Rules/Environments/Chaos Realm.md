@@ -5,7 +5,7 @@
 > **Difficulty:** 20  
 > **Potential Adversaries:** Outer Realms Monstrosities (Abomination, Corruptor, Thrall)
 
-## FEATURES
+# Features
 
 ***Impossible Architecture - Passive:*** Up is down, down is right, right is a stairway. Gravity and directionality themselves are in flux, and any attempt to move through this realm is an odyssey unto itself, requiring a Progress Countdown (8). On a failure, a PC must mark a Stress in addition to the roll’s other consequences.
 

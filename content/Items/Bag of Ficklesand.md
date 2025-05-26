@@ -1,6 +1,5 @@
 ---
-tags:
-  - uncommon
+tags: [uncommon]
 ---
 
  This small bag of sand that can be convinced to be much heavier or lighter than it should be with a [[Presence]] (10) action. 

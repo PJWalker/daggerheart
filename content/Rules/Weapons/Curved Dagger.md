@@ -1,4 +1,4 @@
-# CURVED DAGGER
+# Curved Dagger
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
 

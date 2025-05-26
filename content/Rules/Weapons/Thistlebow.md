@@ -1,4 +1,4 @@
-# THISTLEBOW
+# Thistlebow
 
 **Trait:** Instinct; **Range:** Far; **Damage:** d6+13 mag; **Burden:** Two-Handed
 

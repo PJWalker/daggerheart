@@ -1,4 +1,4 @@
-# FUSION GLOVES
+# Fusion Gloves
 
 **Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
 

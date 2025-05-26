@@ -1,4 +1,4 @@
-# BLUNDERBUSS
+# Blunderbuss
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
 

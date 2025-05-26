@@ -1,4 +1,4 @@
-# ADVANCED RAPIER
+# Advanced Rapier
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
 

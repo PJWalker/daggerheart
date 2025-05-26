@@ -5,7 +5,7 @@
 > **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** Can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight.
 

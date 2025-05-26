@@ -1,19 +1,19 @@
 ---
 title: Adversaries
 ---
-## ADVERSARY STAT BLOCKS
+# Adversary Stat Blocks
 
 All the information required to run an adversary is contained in their stat block. An adversary’s stat block includes their:
 
-### NAME
+## Name
 
 Each stat block has a unique **name**. Abilities that affect adversaries with a certain name include all adversaries who use that stat block, regardless of their in-story name.
 
-### TIER
+## Tier
 
 Each adversary is designed to oppose PCs of a certain **tier**. If you confront the party with an adversary from another tier, adjust their stats.
 
-### TYPE
+## Type
 
 The adversary’s type appears alongside their tier. An adversary’s **type** represents the role they play in a conflict. The adversary types are:
 
@@ -28,31 +28,31 @@ The adversary’s type appears alongside their tier. An adversary’s **type** r
 - **Standards:** representative of their fictional group.
 - **Supports:** enhance their allies and disrupt their opponents.
 
-### DESCRIPTION
+## Description
 
-### MOTIVES & TACTICS
+## Motives & Tactics
 
-### DIFFICULTY
+## Difficulty
 
 The Difficulty of any roll made against the adversary, unless otherwise noted.
 
-### DAMAGE THRESHOLDS, HIT POINTS, AND STRESS
+## Damage Thresholds, Hit Points, and Stress
 
 These systems function the same way they do for PCs. The numbers listed after “Threshold” are the adversary’s Major and Severe Thresholds.
 
-### ATTACK MODIFIER
+## Attack Modifier
 
 When you attack with the adversary, apply this bonus or penalty to your attack roll.
 
-### STANDARD ATTACK
+## Standard Attack
 
 A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s **name**, its effective **range**, and the **damage** it deals on a success. Using an adversary’s **standard attack** is a GM move.
 
-### EXPERIENCE (OPTIONAL)
+## Experience (OPTIONAL)
 
 The GM can spend a Fear to add an adversary’s relevant Experience to raise their attack roll or increase the Difficulty of a roll made against them.
 
-#### EXAMPLE EXPERIENCES
+### Example Experiences
 
 - Acrobatics
 - Ambusher
@@ -73,7 +73,7 @@ The GM can spend a Fear to add an adversary’s relevant Experience to raise the
 - Stealth
 - Tracker
 
-### FEATURE(S)
+## FEATURE(S)
 
 There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
@@ -81,13 +81,13 @@ There are three kinds of adversary features: **actions, reactions, and passives.
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
 - **Passives:** special abilities that remain in effect by default and require no resources or triggers to activate.
 
-### FEAR FEATURE(S)
+## Fear FEATURE(S)
 
 High-impact effects that cost a Fear to activate.
 
-## EXAMPLE ADVERSARY FEATURES
+# Example Adversary Features
 
-### ACTIONS
+## Actions
 
 ***Haymaker - Action:*** Make an attack against a target within Very Close range. On a success, deal X direct physical damage.
 
@@ -95,7 +95,7 @@ High-impact effects that cost a Fear to activate.
 
 ***More Where That Came From - Action:*** Summon three Jagged Knife Lackeys, who appear at Far range.
 
-### REACTIONS
+## Reactions
 
 ***Heavy Hitter - Reaction:*** When this adversary deals damage with a standard attack, you can spend a Fear to gain a +X bonus to the damage roll.
 
@@ -103,7 +103,7 @@ High-impact effects that cost a Fear to activate.
 
 ***Momentum - Reaction:*** When this adversary makes a successful attack against a PC, you gain a Fear.
 
-### PASSIVES
+## Passives
 
 ***Horde (X) - Passive:*** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
 
@@ -117,11 +117,11 @@ High-impact effects that cost a Fear to activate.
 
 ***Armored Carapace - Passive:*** When this adversary takes physical damage, reduce it by X.
 
-### FEAR FEATURES
+## Fear Features
 
 ***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
 
-## BUILDING BALANCED ENCOUNTERS
+# Building Balanced Encounters
 
 When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Battle Points** and make the following adjustments:
 
@@ -141,11 +141,11 @@ Then spend your Battle Points to add an adversary to the encounter:
 - **Spend 4 points** for each Bruiser adversary.
 - **Spend 5 points** for each Solo adversary.
 
-## DEFEATED ADVERSARIES
+# Defeated Adversaries
 
 When an adversary marks their last Hit Point, they are defeated: incapacitated, tied up, routed, killed, or anything else the table decides makes sense.
 
-## ADVERSARY STAT BLOCK BENCHMARKS
+# Adversary Stat Block Benchmarks
 
 | **ADVERSARY STATISTIC** | **TIER 1**                 | **TIER 2**                  | **TIER 3**                  | **TIER 4**                  |
 | ------------------- | ---------------------- | ----------------------- | ----------------------- | ----------------------- |
@@ -154,11 +154,11 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 | Difficulty          | 11                     | 14                      | 17                      | 20                      |
 | Damage Thresholds   | Major 7 /<br>Severe 12 | Major 10 /<br>Severe 20 | Major 20 /<br>Severe 32 | Major 25 /<br>Severe 45 |
 
-## ADVERSARIES BY TIER
+# Adversaries by Tier
 
 This section contains the following stat blocks:
 
-### TIER 1 (LEVEL 1)
+## Tier 1 (LEVEL 1)
 
 - [Acid Burrower](Acid%20Burrower.md)
 - [Bear](Bear.md)
@@ -212,7 +212,7 @@ This section contains the following stat blocks:
 - [Shambling Zombie](Shambling%20Zombie.md)
 - [Zombie Pack](Zombie%20Pack.md)
 
-### TIER 2 (LEVELS 2–4)
+## Tier 2 (LEVELS 2–4)
 
 - [Archer Squadron](Archer%20Squadron.md)
 - [Apprentice Assassin](Apprentice%20Assassin.md)
@@ -251,7 +251,7 @@ This section contains the following stat blocks:
 - [Stonewraith](Stonewraith.md)
 - [War Wizard](War%20Wizard.md)
 
-### TIER 3 (LEVELS 5–7)
+## Tier 3 (LEVELS 5–7)
 
 - [Adult Flickerfly](Adult%20Flickerfly.md)
 - [Demon of Avarice](Demon%20of%20Avarice.md)
@@ -277,7 +277,7 @@ This section contains the following stat blocks:
 - [Vault Guardian Turret](Vault%20Guardian%20Turret.md)
 - [Young Ice Dragon](Young%20Ice%20Dragon.md)
 
-### TIER 4 (LEVELS 8–10)
+## Tier 4 (LEVELS 8–10)
 
 - [Arch-Necromancer](Arch-Necromancer.md)
 - [Fallen Shock Troop](Fallen%20Shock%20Troop.md)

@@ -1,4 +1,4 @@
-# ARCANE GAUNTLETS
+# Arcane Gauntlets
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+3 mag; **Burden:** Two-Handed
 

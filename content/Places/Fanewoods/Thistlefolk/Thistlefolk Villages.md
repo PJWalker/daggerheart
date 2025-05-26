@@ -1,6 +1,5 @@
 ---
-tags:
-  - location
+tags: [location]
 ---
 Though functionally invisible to outsiders, the villages within the bramble are vibrant, sprawling, and eclectic.
 

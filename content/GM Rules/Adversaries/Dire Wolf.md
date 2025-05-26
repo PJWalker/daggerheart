@@ -5,7 +5,7 @@
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +2 | **Claws:** Melee | 1d6+2 phy  
 
-## FEATURES
+# Features
 
 ***Pack Tactics - Passive:*** If the Wolf makes a successful standard attack and another Dire Wolf is within Melee range of the target, deal 1d6+5 physical damage instead of their standard damage and you gain a Fear.
 

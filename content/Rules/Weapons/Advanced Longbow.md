@@ -1,4 +1,4 @@
-# ADVANCED LONGBOW
+# Advanced Longbow
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d8+9 phy; **Burden:** Two-Handed
 

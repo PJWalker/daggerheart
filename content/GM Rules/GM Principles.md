@@ -1,4 +1,4 @@
-# Play to Find Out What Happens
+# Play to Find out what Happens
 Be surprised by what the characters do, the choices they make, and the people they become.
 # Ask Questions & Incorporate the Answers
 Ensure the players’ ideas are included results in a narrative that supports the whole group’s creativity
@@ -6,19 +6,19 @@ Ensure the players’ ideas are included results in a narrative that supports th
 Use the fiction to drive mechanics, then connect the mechanics back to the fiction.
 # Cultivate Curiosity
 Follow what catches the players’ interest to foster an environment of creative inquiry.
-# Earn your Players’ Trust
+# Earn Your Players’ Trust
 Act in good faith, follow through on your promises, admit your mistakes.
 # Keep the Story Moving
 Advance the story through escalating action, new information, or changing circumstances after every action roll, whether it succeeds or fails.
-# Tell them what they would know
+# Tell Them what They Would Know
 Don’t hide obvious details or important information from the players.
-# Ground the world in motive
+# Ground the World in Motive
 NPCs and creatures should act based on clear, coherent goals. 
-# Reframe rather than reject
+# Reframe rather than Reject
 If a player’s suggestion or description is generally implausible or out of sync with what has been established in the game, try to find a way to reframe the situation and work with them rather than rejecting their idea outright. You might ask the table what it would take to accomplish a seemingly implausible task, or call out a more workable part of the suggestion and encourage the player to build on that aspect.
-# Work in moments and montages
+# Work in Moments and Montages
 When framing a scene, decide which beats should be savored and which shouldn’t linger.
-# Create a meta conversation
+# Create a Meta Conversation
 Ensure players always feel comfortable shifting out of character to discuss something. Whether as creative collaborators or friends enjoying a game together, players should feel empowered to utilize safety tools during the game or ask for clarifications concerning the story or rules.
 
 ***
@@ -26,9 +26,9 @@ Ensure players always feel comfortable shifting out of character to discuss some
 
 ## Undermining the Heroes
 If a roll doesn’t go well, show how it was impacted by an adversary’s prowess, environmental factors, or unexpected surprises, rather than the PC’s incompetence.
-## Always telling the players what to roll
+## Always Telling the Players what to Roll
 Let the players decide how to handle a challenge, and reward their creativity
-## Letting scenes drag
+## Letting Scenes Drag
 Shake it up or cut away when a scene has concluded, the table’s energy is flagging, or people are talking in circles.
 ## Singular Solutions
 Don’t get hung up on one right answer to a problem. If the players have a clever idea, make it work.

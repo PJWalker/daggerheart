@@ -1,4 +1,4 @@
-# ROUND SHIELD
+# Round Shield
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d4 phy; **Burden:** One-Handed
 

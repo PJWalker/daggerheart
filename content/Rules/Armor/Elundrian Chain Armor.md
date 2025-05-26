@@ -1,4 +1,4 @@
-# ELUNDRIAN CHAIN ARMOR
+# Elundrian Chain Armor
 
 **Base Thresholds:** 9 / 21; **Base Score:** 4
 

@@ -1,4 +1,4 @@
-# GILDED FALCHION
+# Gilded Falchion
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+4 phy; **Burden:** One-Handed
 

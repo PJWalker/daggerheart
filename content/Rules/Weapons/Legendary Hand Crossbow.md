@@ -1,4 +1,4 @@
-# LEGENDARY HAND CROSSBOW
+# Legendary Hand Crossbow
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+7 phy; **Burden:** One-Handed
 

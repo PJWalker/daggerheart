@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 3  
 > **ATK:** +3 | **Elemental Blast:** Far | 1d10+4 mag  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** The Elemental can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

@@ -1,4 +1,4 @@
-# IMPROVED SPEAR
+# Improved Spear
 
 **Trait:** Finesse; **Range:** Very Close; **Damage:** d10+5 phy; **Burden:** Two-Handed
 

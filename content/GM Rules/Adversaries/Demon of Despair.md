@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 18/35 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +3 | **Miasma Bolt:** Far | 3d6+4 mag  
 
-## FEATURES
+# Features
 
 ***Depths of Despair - Passive:*** The Demon deals double damage to PCs with 0 Hope.
 

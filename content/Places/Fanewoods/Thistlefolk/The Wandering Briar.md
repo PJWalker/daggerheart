@@ -1,6 +1,5 @@
 ---
-tags:
-  - location
+tags: [location]
 ---
 A living thicket of briars estimated to be more than fifty feet tall, one hundred feet thick, and about a mile long, it crawls its way through the endless forests of Fanewoods, frequently blocking routes and forcing travellers to take a different pathway to their destination. This moving tangle also serves as a home for a group of traveling Thistlefolk who live within its ever-shifting walls, known as the Wanderers.
 

@@ -1,4 +1,4 @@
-# IMPROVED MACE
+# Improved Mace
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d8+4 phy; **Burden:** One-Handed
 

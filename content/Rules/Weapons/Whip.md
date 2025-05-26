@@ -1,4 +1,4 @@
-# WHIP
+# Whip
 
 **Trait:** Presence; **Range:** Very Close; **Damage:** d6 phy; **Burden:** One-Handed
 

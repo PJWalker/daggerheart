@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 5 | **Stress:** 3  
 > **ATK:** 0 | **Shocking Bite:** Melee | 2d6+4 phy  
 
-## FEATURES
+# Features
 
 ***Horde (2d4+1) - Passive:*** When the Eels have marked half or more of their HP, their standard attack deals 2d4+1 physical damage instead.
 

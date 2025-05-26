@@ -5,7 +5,7 @@
 > **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8  
 > **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (3) - Passive:*** The Kraken can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

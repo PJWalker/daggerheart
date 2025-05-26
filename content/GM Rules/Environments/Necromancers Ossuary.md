@@ -5,7 +5,7 @@
 > **Difficulty:** 19  
 > **Potential Adversaries:** Arch-Necromancer’s Host (Perfected Zombie, Zombie Legion)
 
-## FEATURES
+# Features
 
 ***No Place for the Living - Passive:*** A feature or action that clears HP requires spending a Hope to use. If it already costs Hope, a PC must spend an additional Hope.
 

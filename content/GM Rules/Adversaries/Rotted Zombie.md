@@ -5,7 +5,7 @@
 > **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -3 | **Bite:** Melee | 2 phy  
 
-## FEATURES
+# Features
 
 ***Minion (3) - Passive:*** The Zombie is defeated when they take any damage. For every 3 damage a PC deals to the Zombie, defeat an additional Minion within range the attack would succeed against.
 

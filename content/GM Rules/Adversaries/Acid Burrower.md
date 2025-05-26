@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  
 > **ATK:** +3 | **Claws:** Very Close | 1d12+2 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (3) - Passive:*** The Burrower can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

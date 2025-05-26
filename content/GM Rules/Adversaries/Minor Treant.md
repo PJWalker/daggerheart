@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -2 | **Cleaved Branch:** Melee | 4 phy  
 
-## FEATURES
+# Features
 
 ***Minion (5) - Passive:*** The Treant is defeated when they take any damage. For every 5 damage a PC deals to the Treant, defeat an additional Minion within range the attack would succeed against.
 

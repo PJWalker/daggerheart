@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 3  
 > **ATK:** -2 | **Dagger:** Melee | 2d6+3 phy  
 
-## FEATURES
+# Features
 
 ***Gathering Secrets - Action:*** Spend a Fear to describe how the Spy knows a secret about a PC in the scene.
 

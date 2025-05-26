@@ -1,7 +1,6 @@
 ---
 publish: "true"
-aliases:
-  - Orcs
+aliases: [Orcs]
 ---
 https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Orc
 

@@ -1,4 +1,4 @@
-# LEGENDARY LONGBOW
+# Legendary Longbow
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d8+12 phy; **Burden:** Two-Handed
 

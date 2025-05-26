@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 4  
 > **ATK:** +3 | **Poisoned Throwing Dagger:** Close | 2d8+1 phy  
 
-## FEATURES
+# Features
 
 ***Grindeloth Venom - Passive:*** Targets who mark HP from the Assassin’s attacks are Vulnerable until they clear a HP.
 

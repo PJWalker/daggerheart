@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6  
 > **ATK:** +3 | **Wing Slash:** Very Close | 3d20 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (4) - Passive:*** The Flickerfly can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
 

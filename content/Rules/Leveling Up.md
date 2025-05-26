@@ -1,5 +1,3 @@
-# LEVELING UP
-
 Your party levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions). All party members level up at the same time.
 
 Daggerheart has 10 PC levels divided into 4 tiers:
@@ -11,7 +9,7 @@ Daggerheart has 10 PC levels divided into 4 tiers:
 
 Your tier affects your damage thresholds, tier achievements, and access to advancements.
 
-## STEP ONE: TIER ACHIEVEMENTS
+# Step One: Tier Achievements
 
 Take any applicable tier **achievements**.
 
@@ -19,7 +17,7 @@ Take any applicable tier **achievements**.
 - At level 5, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
 - At level 8, you gain a new Experience at +2, permanently increase your Proficiency by 1, and clear any marked traits.
 
-## STEP TWO: ADVANCEMENTS
+# Step Two: Advancements
 
 Choose any two **advancements** with at least one unmarked slot from your tier or below. Options with multiple slots can be chosen more than once. When you choose an advancement, mark one of its slots.
 
@@ -33,16 +31,15 @@ Choose any two **advancements** with at least one unmarked slot from your tier o
 - *When you choose to **increase your Proficiency:*** Fill in one of the open circles in the “Proficiency” section of your character sheet, then increase your weapon’s number of damage dice by 1. *The black box around this advancement’s slots indicates you must spend two advancements and mark both level-up slots in order to take it as an option.*
 - When you choose to **multiclass:*** Choose an additional class, select one of its domains, and gain its class feature. Add the appropriate **multiclass module** to your character sheet and take the foundation card from one of its subclasses. Then cross out the “upgraded subclass” advancement option in this tier and all other “multiclass” advancement options on your character sheet. *The black box around this advancement’s slots indicates you must spend two advancements and mark both level-up slots in order to take it as an option.*
 
-## STEP THREE: DAMAGE THRESHOLDS
+# Step Three: Damage Thresholds
 
 Increase all damage thresholds by 1.
 
-## STEP FOUR: DOMAIN CARDS
+# Step Four: Domain Cards
 
 Acquire a new domain card at your level or lower from one of your class’s domains and add it to your loadout or vault. If your loadout is already full, you can’t add the new card to it until you move another into your vault. You can also exchange one domain card you’ve previously acquired for a different domain card of the same level or lower.
 
-
-# MULTICLASSING
+# Multiclassing
 
 Starting at level 5, you can choose multiclassing as an option when leveling up. When you multiclass, you choose an additional class, gain access to one of its domains, and acquire its class feature. Take the appropriate multiclass module and add it to the right side of your character sheet, then choose a foundation card from one of its subclasses. If your foundation cards specify different Spellcast traits, you can choose which one to apply when making a Spellcast roll.
 

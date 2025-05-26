@@ -1,4 +1,4 @@
-# LEGENDARY QUARTERSTAFF
+# Legendary Quarterstaff
 
 **Trait:** Instinct; **Range:** Melee; **Damage:** d10+12 phy; **Burden:** Two-Handed
 

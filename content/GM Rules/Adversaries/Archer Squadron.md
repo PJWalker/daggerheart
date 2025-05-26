@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 3  
 > **ATK:** 0 | **Longbow:** Far | 2d6+3 phy  
 
-## FEATURES
+# Features
 
 ***Horde (1d6+3) - Passive:*** When the Squadron has marked half or more of their HP, their standard attack deals 1d6+3 physical damage instead.
 

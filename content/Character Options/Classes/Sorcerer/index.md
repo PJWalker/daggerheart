@@ -2,7 +2,6 @@
 title: Sorcerer
 ---
 
-
 Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer’s abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.
 
 > **• DOMAINS:** [index](Character%20Options/Abilities/Arcana/index.md) & [index](Character%20Options/Abilities/Midnight/index.md)  
@@ -10,11 +9,11 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 > **• STARTING HIT POINTS:** 6  
 > **• CLASS ITEMS:** A whispering orb or a family heirloom
 
-## SORCERER’S HOPE FEATURE
+# SORCERER’S Hope Feature
 
 ***Volatile Magic:*** Spend 3 Hope to reroll any number of your damage dice on an attack that deals magic damage.
 
-## CLASS FEATURES
+# Class Features
 
 ***Arcane Sense:*** You can sense the presence of magical people and objects within Close range.
 
@@ -25,11 +24,11 @@ Not all innate magic users choose to hone their craft, but those who do can beco
 - Gain Hope equal to the level of the card.
 - Enhance a spell that deals damage, gaining a bonus to your damage roll equal to twice the level of the card.
 
-## SORCERER SUBCLASSES
+# Sorcerer Subclasses
 
 Choose either the **[Elemental Origin](Elemental%20Origin.md)** or **[Primal Origin](Primal%20Origin.md)** subclass.
 
-## BACKGROUND QUESTIONS
+# Background Questions
 
 *Answer any of the following background questions. You can also create your own questions.*
 
@@ -37,7 +36,7 @@ Choose either the **[Elemental Origin](Elemental%20Origin.md)** or **[Primal Ori
 - What mentor taught you to control your untamed magic, and why are they no longer able to guide you?
 - You have a deep fear you hide from everyone. What is it, and why does it scare you?
 
-## CONNECTIONS
+# Connections
 
 *Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** +2 | **Cursed Axe:** Very Close | 12 phy  
 
-## FEATURES
+# Features
 
 ***Minion (12) - Passive:*** The Shock Troop is defeated when they take any damage. For every 12 damage a PC deals to the Shock Troop, defeat an additional Minion within range the attack would succeed against.
 

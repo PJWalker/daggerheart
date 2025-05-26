@@ -1,10 +1,14 @@
+---
+draft: "true"
+---
+
 # Merchant Cart
 
->This evening, your party finally made it to the Fanewoods, a sprawling forest of strange and diverse trees some say are even older than the Forgotten Gods.
->
->From within your carriage, behind the jostling of the caravan: the low calls of the cat-moths, the croak of the lemur-toads, the skittering of a family of squiriguanas in the underbrush. 
->
->One of you is driving the carriage. Who is it?
+> This evening, your party finally made it to the Fanewoods, a sprawling forest of strange and diverse trees some say are even older than the Forgotten Gods.
+> 
+> From within your carriage, behind the jostling of the caravan: the low calls of the cat-moths, the croak of the lemur-toads, the skittering of a family of squiriguanas in the underbrush. 
+> 
+> One of you is driving the carriage. Who is it?
 
 When a player volunteers their character as the carriage driver, you can ask them a question like:
 
@@ -12,17 +16,17 @@ When a player volunteers their character as the carriage driver, you can ask the
 
 Describe the trees the party passes, specifically including details from their answer.
 
->As the carriage swerves around a tight corner, you see an cart, turned over sideways across the the path. 
->
->You see fruits and vegetables scattered across the trail. 
->
->At the side of the carriage, you see a large creature with the body of a wolf, the face of an owl, and large wings adorning its back. 
->
->– A **[[Strixwolf Mother|strixwolf]]**
->
->It lifts its head – and as it registers your presence, its beak opens, dropping the dead human hand that had it had been gnawing upon.
->
->It stares at your caravan, then glances back to two small pups, batting around an apple behind her.
+> As the carriage swerves around a tight corner, you see an cart, turned over sideways across the the path. 
+> 
+> You see fruits and vegetables scattered across the trail. 
+> 
+> At the side of the carriage, you see a large creature with the body of a wolf, the face of an owl, and large wings adorning its back. 
+> 
+> – A **[[Strixwolf Mother|strixwolf]]**
+> 
+> It lifts its head – and as it registers your presence, its beak opens, dropping the dead human hand that had it had been gnawing upon.
+> 
+> It stares at your caravan, then glances back to two small pups, batting around an apple behind her.
 
 (Driver) what do you do?
 
@@ -73,8 +77,8 @@ So these guys have an *Ambush* feature which lets them make an attack immediatel
 
 > [!NOTE] Explaining Combat
 > When I make an attack, I roll a d20, add its attack modifier (+3), and then compare it to the target’s Evasion. If it hits, I make a damage roll (2d4+3)
->  
->  Then, you compare the incoming damage to your damage thresholds; use armor if you’d like, and then mark hit points.
+> 
+> Then, you compare the incoming damage to your damage thresholds; use armor if you’d like, and then mark hit points.
 
 When combat ends, they get into hush without any further incident
 
@@ -94,10 +98,10 @@ You know you need to find the [[Vinaeya Starfen]], to deliver the package from t
 
 What would you like to do?
 
-## NPCs to talk to
-* [[Fidget]]
-* [[Lausa Standworth]]
-* [[Halython Fives]]
+## Npcs to Talk to
+- [[Fidget]]
+- [[Lausa Standworth]]
+- [[Halython Fives]]
 
 Someone should point them to the Tavern.
 
@@ -121,9 +125,9 @@ You’ll find her house to the south, through the farmland. It’s hanging from 
 
 > Making your way past the homes of the village, then through the farmlands of Hush, you see a variety of crops that have begun to cultivate a thin layer of glowing blue moss over the top of their fruits and vegetables. They pulse softly like a heartbeat as you pass.
 > 
->Among the thriving groves, you notice that the Sablewood trees in this area have hundreds of unique faces carved into all sides, the eyes peering in every direction.
->
->One tree, taller than the rest, bears Vinaeya’s home, like an overripe fruit. It hangs from a braid of rope, as wide around as a giant’s forearm, tied to a massive branch and counterweighted by a cabin-sized bolder lying at the base of the tree. The stone is marked with a collection of symbols and the cabin windows flash with a soft, yellow-green light.
+> Among the thriving groves, you notice that the Sablewood trees in this area have hundreds of unique faces carved into all sides, the eyes peering in every direction.
+> 
+> One tree, taller than the rest, bears Vinaeya’s home, like an overripe fruit. It hangs from a braid of rope, as wide around as a giant’s forearm, tied to a massive branch and counterweighted by a cabin-sized bolder lying at the base of the tree. The stone is marked with a collection of symbols and the cabin windows flash with a soft, yellow-green light.
 
 - **If they try to call to [[Vinaeya Starfen|Vinaeya]] from below** there is no response, but the light within still flickers.
 - **If they try to cut the counterweight rope:** it immediately blasts them back a few feet, dealing a point of Stress
@@ -146,7 +150,7 @@ At some point, she’ll ask about the package, and open it.
 
 # The Ward Renewal
 ## The Open Vale
->On direction from the Vinaeya, your carriage pulls into a mysterious clearing in the shape of a perfect circle, the only area of the Fanewoods you’ve seen without trees to block out the sky. This is the Open Vale.
+> On direction from the Vinaeya, your carriage pulls into a mysterious clearing in the shape of a perfect circle, the only area of the Fanewoods you’ve seen without trees to block out the sky. This is the Open Vale.
 
  The open vale is where she first forged the ward pillars that reside on all four corners of Hush, keeping the village safe. She almost died in that ritual, but is reluctant to say more for fear of angering the Forgotten Gods. Engage the PCs in conversation, then…
 
@@ -154,7 +158,7 @@ At some point, she’ll ask about the package, and open it.
 
 > “I will need an hour of time to prepare. You all, enjoy the night air while you can. We’ll be very busy soon.”
 
-## Take A [[Short Rest]] 
+## Take a [[Short Rest]]
 Players can:
 - Tend to wounds
 - clear [[Stress]] 
@@ -165,13 +169,13 @@ They should describe how they do so.
 GM takes `dice:1d4` Fear. 
 
 # The Ritual
->Vinaeya lets out a shrill cry, “The keystone has finally responded! Quickly, surround me, the ritual must begin or I’ll lose the pathway! Hurry!” Her body begins glowing brighter and brighter still as her eyes roll backwards into her head and the entire carriage lifts a foot off the ground. 
+> Vinaeya lets out a shrill cry, “The keystone has finally responded! Quickly, surround me, the ritual must begin or I’ll lose the pathway! Hurry!” Her body begins glowing brighter and brighter still as her eyes roll backwards into her head and the entire carriage lifts a foot off the ground. 
 
 - 4x Ancient Skeletons go close to Vinaeya, 
 - 2x Forest Wraith far away. 
 - Begin a countdown - It’ll tick down when an adversary is defeated, and up when vinaeya is hit. When the countdown reaches 0, the ritual is complete.
 
->You feel a rumble as four ancient skeletons emerge from the ground, rusted swords in hand, disturbed by the forces of magic being used by Vinaeya. In the distance, two Forest Wraiths float ominously towards you. 
+> You feel a rumble as four ancient skeletons emerge from the ground, rusted swords in hand, disturbed by the forces of magic being used by Vinaeya. In the distance, two Forest Wraiths float ominously towards you. 
 # Combat
 ## Environment
 ### The Open Vale
@@ -181,9 +185,9 @@ Vengeance of the Vale - Action: Spend 1 fear; summon 2 [[Ancient Skeleton]]s fro
 4x [[Ancient Skeleton]] 
 ## Adversary Goal
 Interrupt the ritual & get to Vinaeya.
-### Player goal
+### Player Goal
 Protect Vinaeya until the ritual is complete
-# Combat complete
+# Combat Complete
 > As you deliver a powerful blow, the ritual ends! The carriage comes falling to the ground as the keystone vibrates with arcane energy. Then, all at once, a soundless explosion erupts from Vinaeya, dissipating any last enemies who might remain. The clearing is quiet once again. Back inside the treehouse, not but an hour later, the keystone sits suspended carefully above a rumbling fire in the hearth. Vinaeya, who looks even older now than she did before, sits cross-legged in an over-stuffed chair. There is an exhaustion in her voice as she speaks. “You fought hard. I’m not surprised, of course. The King keeps good company. I’m very glad you were there.”
 
 > “The keystone will need a week, maybe more, to allow the magic to settle. I’ll need to watch it carefully to ensure nothing cracks or becomes sentient or anything of the like. You know how it is. And in the meantime, after you rest and gather yourselves, have a nice hot meal and warm bath, I have one more thing to ask of you.” We pull out of Vinaeya’s home, out of the forest itself, to view the verdant expanse from above, and see twisting stone spires breaking through the treeline, each with a flame flickering within the tower like a beacon. She continues: “There’s a Spire, just west of here, maybe a few hours walk. I felt it on the way to the ritual. Its power was... strange. The light felt weaker than it should be. I think something might be terribly wrong with the Spirekeeper, and I fear what will happen if its fire is extinguished altogether. When you’re ready, come back, and I’ll give you my map so you can make it there safely. It’s good to have heroes in the Sablewood again.”

@@ -1,4 +1,4 @@
-# MIDAS SCYTHE
+# Midas Scythe
 
 **Trait:** Knowledge; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
 

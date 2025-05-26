@@ -1,4 +1,4 @@
-# RUNES OF FORTIFICATION
+# Runes of Fortification
 
 **Base Thresholds:** 17 / 43; **Base Score:** 6
 

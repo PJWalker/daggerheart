@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 19/33 | **HP:** 5 | **Stress:** 3  
 > **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 phy  
 
-## FEATURES
+# Features
 
 ***Blocking Shield - Passive:*** Creatures within Melee range of the Gaoler have disadvantage on attack rolls against them. Creatures trapped inside the Gaoler are immune to this feature.
 

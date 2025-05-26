@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +3 | **Fists:** Very Close | 3d8+1 mag  
 
-## FEATURES
+# Features
 
 ***Anger Unrelenting - Passive:*** The Demon’s attacks deal direct damage.
 

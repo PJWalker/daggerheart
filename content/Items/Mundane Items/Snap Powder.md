@@ -1,7 +1,5 @@
 ---
-tags:
-  - consumable
-  - mundane
+tags: [consumable, mundane]
 publish: "true"
 ---
 Cost: 1 handful

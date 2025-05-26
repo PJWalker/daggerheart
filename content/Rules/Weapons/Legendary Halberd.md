@@ -1,4 +1,4 @@
-# LEGENDARY HALBERD
+# Legendary Halberd
 
 **Trait:** Strength; **Range:** Very Close; **Damage:** d10+11 phy; **Burden:** Two-Handed
 

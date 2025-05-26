@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 15/27 | **HP:** 6 | **Stress:** 4  
 > **ATK:** +5 | **Tear at Flesh:** Very Close | 2d12+1 phy  
 
-## FEATURES
+# Features
 
 ***Terrifying - Passive:*** When the Hunter makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

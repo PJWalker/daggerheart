@@ -5,7 +5,7 @@
 > **Difficulty:** 12  
 > **Potential Adversaries:** Jagged Knife Bandits (Hexer, Kneebreaker, Lackey, Lieutenant, Shadow, Sniper), Masked Thief, Merchant
 
-## FEATURES
+# Features
 
 ***Rumors Abound - Passive:*** Gossip is the fastest-traveling currency in the realm. A PC can inquire about major events by making a Presence Roll. What they learn depends on the outcome of their roll, based on the following criteria:
 

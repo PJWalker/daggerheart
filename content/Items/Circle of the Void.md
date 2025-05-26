@@ -1,7 +1,5 @@
 ---
-tags:
-  - consumable
-  - rare
+tags: [consumable, rare]
 ---
 On use, mark a stress. Everything within far distance is immune to damage, and magical spells cannot be cast in this range. 
 

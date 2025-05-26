@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 3  
 > **ATK:** +3 | **Warp Blast:** Close | 1d12+6 mag  
 
-## FEATURES
+# Features
 
 ***Arcane Master - Passive:*** The Elemental is resistant to magic damage.
 

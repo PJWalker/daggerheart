@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +3 | **Sigil-Laden Staff:** Far | 2d12 mag  
 
-## FEATURES
+# Features
 
 ***Seize Your Moment - Action:*** Spend 2 Fear to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage.
 

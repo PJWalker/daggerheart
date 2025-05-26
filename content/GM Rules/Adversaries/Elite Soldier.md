@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 3  
 > **ATK:** +1 | **Spear:** Very Close | 2d8+4 phy  
 
-## FEATURES
+# Features
 
 ***Reinforce - Action:*** Mark a Stress to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal 2d10+2 physical damage and the ally can clear a Stress.
 

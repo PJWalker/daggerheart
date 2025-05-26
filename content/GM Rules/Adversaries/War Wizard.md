@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 11/23 | **HP:** 5 | **Stress:** 6  
 > **ATK:** +4 | **Staff:** Far | 2d10+4 mag  
 
-## FEATURES
+# Features
 
 ***Battle Teleport - Passive:*** Before or after making a standard attack, you can mark a Stress to teleport to a location within Far range.
 

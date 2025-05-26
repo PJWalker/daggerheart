@@ -1,4 +1,4 @@
-# DRAGONSCALE ARMOR
+# Dragonscale Armor
 
 **Base Thresholds:** 11 / 27; **Base Score:** 5
 

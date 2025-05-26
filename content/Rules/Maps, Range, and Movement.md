@@ -1,5 +1,3 @@
-# MAPS, RANGE, AND MOVEMENT
-
 You can play Daggerheart using “theater of the mind” or maps and miniatures. The conversions below from abstract ranges to physical measurements assume 1 inch of map represents about 5 feet of fictional space.
 
 Daggerheart uses the following **ranges** to translate fictional positioning into relative distance for the purposes of targeting, movement, and other game mechanics:
@@ -16,9 +14,9 @@ Range is measured from the source of an effect, such as the attacker or spellcas
 A weapon, spell, ability, item, or other effect’s stated range is a maximum range; unless otherwise noted, it can be used at closer distances.
 
 > ***Optional Rule: Defined Ranges***
->
+> 
 > *If your table would rather operate with more precise range rules, you can use a 1-inch grid battle map during combat. If you do, use the following guidelines for play:*
->
+> 
 > *- **Melee:** 1 square*
 > *- **Very Close:** 3 squares*
 > *- **Close:** 6 squares*
@@ -26,10 +24,9 @@ A weapon, spell, ability, item, or other effect’s stated range is a maximum ra
 > *- **Very Far:** 13+ squares*
 > *- **Out of Range:** Off the battlemap*
 
-## MOVEMENT UNDER PRESSURE
+# Movement under Pressure
 
 When you’re under pressure or in danger and make an action roll, you can move to a location within Close range as part of that action. If you’re not already making an action roll, or if you want to move farther than your Close range, you need to succeed on an Agility Roll to safely reposition yourself.
 
 An adversary can move within Close range for free as part of an action, or within Very Far range as a separate action.
-
 

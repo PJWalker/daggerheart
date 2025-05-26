@@ -5,7 +5,7 @@
 > **Difficulty:** 19 | **Thresholds:** 20/36 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +4 | **Perfect Spear:** Very Close | 3d10 phy  
 
-## FEATURES
+# Features
 
 ***Terrifying - Passive:*** When the Demon makes a successful attack, all PCs within Far range must lose a Hope and you gain a Fear.
 

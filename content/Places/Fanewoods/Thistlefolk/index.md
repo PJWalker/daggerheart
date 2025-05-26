@@ -1,7 +1,6 @@
 ---
 title: Thistlefolk
-tags:
-  - org
+tags: [org]
 ---
 
 Most Commonly Sighted: In the underbrush and bramble, off-trail.
@@ -15,12 +14,12 @@ Because the only Thistlefolk who emerge from the seclusion of their hidden villa
 In actuality, most of the Thistlefolk are quite peaceful and vulnerable, choosing to live within the safety of the bramble for their own protection from the large predator species who stalk the woods looking for an easy meal.
 
 # Principles
-* Insular
-* Reserved
-* Focused on preserving the safety of their home
+- Insular
+- Reserved
+- Focused on preserving the safety of their home
 
 Those who leave the bramble’s protection are viewed by some as brave, and others as foolish.
 
-* *The thorns only catch those who let them*
-* *Look over your shoulder - you never know who you are leading home*
-* *Combat the darkness of the world outside, with the brightness of life within*
+- *The thorns only catch those who let them*
+- *Look over your shoulder - you never know who you are leading home*
+- *Combat the darkness of the world outside, with the brightness of life within*

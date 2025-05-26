@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4  
 > **ATK:** +3 | **Ooze Appendage:** Melee | 3d8+1 mag  
 
-## FEATURES
+# Features
 
 ***Slow - Passive:*** When you spotlight the Ooze and they don’t have a token on their stat block, they can’t act yet. Place a token on their stat block and describe what they’re preparing to do. When you spotlight the Ooze and they have a token on their stat block, clear the token and they can act.
 

@@ -1,4 +1,4 @@
-# IMPROVED FULL PLATE ARMOR
+# Improved Full Plate Armor
 
 **Base Thresholds:** 13 / 28; **Base Score:** 5
 

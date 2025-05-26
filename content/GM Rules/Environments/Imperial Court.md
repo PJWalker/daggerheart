@@ -5,7 +5,7 @@
 > **Difficulty:** 20  
 > **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
 
-## FEATURES
+# Features
 
 ***All Roads Lead Here - Passive:*** While in the Imperial Court, a PC has disadvantage on Presence Rolls made to take actions that don’t fit the imperial way of life or support the empire’s dominance.
 

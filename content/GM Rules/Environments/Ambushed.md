@@ -5,7 +5,7 @@
 > **Difficulty:** Special (see “Relative Strength”)  
 > **Potential Adversaries:** Any
 
-## FEATURES
+# Features
 
 ***Relative Strength - Passive:*** The Difficulty of this environment equals that of the adversary with the highest Difficulty.
 

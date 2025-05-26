@@ -5,7 +5,7 @@
 > **Difficulty:** 18 | **Thresholds:** 29/55 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +10 | **Claws and Teeth:** Close | 4d12+15 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (4) - Passive:*** The Ashen Tyrant can be spotlighted up to four times per GM turn. Spend Fear as usual to spotlight them.
 

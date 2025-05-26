@@ -1,4 +1,4 @@
-# IMPROVED HAND RUNES
+# Improved Hand Runes
 
 **Trait:** Instinct; **Range:** Very Close; **Damage:** d10+3 mag; **Burden:** One-Handed
 

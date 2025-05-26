@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** 8/14 | **HP:** 7 | **Stress:** 3  
 > **ATK:** +2 | **Vines:** Close | 1d8+3 phy  
 
-## FEATURES
+# Features
 
 ***Ground Slam - Action:*** Slam the ground, knocking all targets within Very Close range back to Far range. Each target knocked back by this must mark a Stress.
 

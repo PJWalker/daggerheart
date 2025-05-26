@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Fulg
+aliases: [Fulg]
 ---
 A small god who favours tribute in the form of smooth, stacked river rocks. He grants an abundance of mollusc growth on the rocks, where they can be easily harvested. 
 

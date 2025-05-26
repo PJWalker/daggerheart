@@ -9,13 +9,13 @@ Every armor has a name, base damage thresholds, and a base Armor Score. Some arm
 
 While **unarmored**, your character’s base Armor Score is 0, their Major threshold is equal to their level, and their Severe threshold is equal to twice their level.
 
-## REDUCING INCOMING DAMAGE
+# Reducing Incoming Damage
 
 When you take damage, you can mark one Armor Slot to reduce the number of Hit Points you would mark by one. If your character has an Armor Score of 0, you can’t mark Armor Slots. If an effect temporarily increases your Armor Score, it increases your available Armor Slots by the same amount; when the effect ends, so does the availability of these Armor Slots.
 
-## ARMOR TABLES
+# Armor Tables
 
-## TIER 1 (LEVEL 1)
+# Tier 1 (LEVEL 1)
 
 | **NAME**                         | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                    |
 | ------------------------------------------------ | ------------------- | -------------- | ---------------------------------------------- |
@@ -24,7 +24,7 @@ When you take damage, you can mark one Armor Slot to reduce the number of Hit Po
 | [Chainmail Armor](Chainmail%20Armor.md)   | 7 / 15              | 4              | ***Heavy:*** -1 to Evasion                     |
 | [Full Plate Armor](Full%20Plate%20Armor.md) | 8 / 17              | 4              | ***Very Heavy:*** -2 to Evasion; -1 to Agility |
 
-## TIER 2 (LEVELS 2–4)
+# Tier 2 (LEVELS 2–4)
 
 | **NAME**                       | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                                                                                                                             |
 | ------------------------------ | ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +39,7 @@ When you take damage, you can mark one Armor Slot to reduce the number of Hit Po
 | [Tyris Soft Armor](Tyris%20Soft%20Armor.md)           | 8 / 18              | 5              | ***Quiet:*** You gain a +2 bonus to rolls you make to move silently.                                                                                    |
 | [Rosewild Armor](Rosewild%20Armor.md)             | 11 / 23             | 5              | ***Hopeful:*** When you would spend a Hope, you can mark an Armor Slot instead.                                                                         |
 
-## TIER 3 (LEVELS 5–7)
+# Tier 3 (LEVELS 5–7)
 
 | **NAME**                                                                 | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                                                                                      |
 | ------------------------------------------------------------------------ | ------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ When you take damage, you can mark one Armor Slot to reduce the number of Hit Po
 | [Monett’s Cloak](Monetts%20Cloak.md)                            | 16 / 39             | 6              | ***Magic:*** You can’t mark an Armor Slot to reduce physical damage.                                             |
 | [Runes of Fortification](Runes%20of%20Fortification.md)         | 17 / 43             | 6              | ***Painful:*** Each time you mark an Armor Slot, you must mark a Stress.                                         |
 
-## TIER 4 (LEVELS 8–10)
+# Tier 4 (LEVELS 8–10)
 
 | **NAME**                       | **BASE THRESHOLDS** | **BASE SCORE** | **FEATURE**                                                                                                                  |
 | ------------------------------ | ------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |

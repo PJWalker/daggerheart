@@ -1,4 +1,4 @@
-# AANTARI BOW
+# Aantari Bow
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+11 phy; **Burden:** Two-Handed
 

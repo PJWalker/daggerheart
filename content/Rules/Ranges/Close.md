@@ -1,6 +1,5 @@
 ---
-tags:
-  - linker-exclude
+tags: [linker-exclude]
 ---
 30ft
 

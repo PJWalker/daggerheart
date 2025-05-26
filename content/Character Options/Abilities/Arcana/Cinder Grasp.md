@@ -1,4 +1,4 @@
-# CINDER GRASP
+# Cinder Grasp
 
 > **Level 2 Arcana Spell**  
 > **Recall Cost:** 1

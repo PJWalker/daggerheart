@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 14/27 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +2 | **Battleaxe:** Very Close | 2d8+5 phy  
 
-## FEATURES
+# Features
 
 ***Ramp Up - Passive:*** You must spend a Fear to spotlight the Minotaur. While spotlighted, they can make their standard attack against all targets within range.
 

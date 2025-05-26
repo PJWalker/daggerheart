@@ -1,4 +1,4 @@
-# LEGENDARY TOWER SHIELD
+# Legendary Tower Shield
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d6+6 phy; **Burden:** One-Handed
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +8 | **Holy Sword:** Very Close | 4d10+10 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** The Seraph can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 

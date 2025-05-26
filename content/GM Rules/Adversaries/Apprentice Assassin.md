@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -1 | **Thrown Dagger:** Very Close | 4 phy  
 
-## FEATURES
+# Features
 
 ***Minion (6) - Passive:*** The Assassin is defeated when they take any damage. For every 6 damage a PC deals to the Assassin, defeat an additional Minion within range the attack would succeed against.
 

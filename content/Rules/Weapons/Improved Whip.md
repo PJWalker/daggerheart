@@ -1,4 +1,4 @@
-# IMPROVED WHIP
+# Improved Whip
 
 **Trait:** Presence; **Range:** Very Close; **Damage:** d6+2 phy; **Burden:** One-Handed
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3  
 > **ATK:** +4 | **Too Many Arms:** Very Close | 1d20 phy  
 
-## FEATURES
+# Features
 
 ***Destructive - Passive:*** When the Zombie takes Major or greater damage, they mark an additional HP.
 

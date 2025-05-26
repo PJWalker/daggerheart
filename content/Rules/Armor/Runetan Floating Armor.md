@@ -1,4 +1,4 @@
-# RUNETAN FLOATING ARMOR
+# Runetan Floating Armor
 
 **Base Thresholds:** 9 / 20; **Base Score:** 4
 

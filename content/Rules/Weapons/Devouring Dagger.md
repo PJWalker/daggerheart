@@ -1,4 +1,4 @@
-# DEVOURING DAGGER
+# Devouring Dagger
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
 

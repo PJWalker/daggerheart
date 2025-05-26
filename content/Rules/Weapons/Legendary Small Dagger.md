@@ -1,4 +1,4 @@
-# LEGENDARY SMALL DAGGER
+# Legendary Small Dagger
 
 **Trait:** Finesse; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
 

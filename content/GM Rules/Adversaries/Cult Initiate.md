@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** 0 | **Ritual Dagger:** Melee | 5 phy  
 
-## FEATURES
+# Features
 
 ***Minion (6) - Passive:*** The Initiate is defeated when they take any damage. For every 6 damage a PC deals to the Initiate, defeat an additional Minion within range the attack would succeed against.
 

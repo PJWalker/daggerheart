@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 25/45 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +2 | **Tentacles:** Close | 4d6+10 phy  
 
-## FEATURES
+# Features
 
 ***Horde (2d6+5) - Passive:*** When Legion has half or more HP marked, standard attack deals 2d6+5 physical damage instead.
 

@@ -12,14 +12,13 @@ title: Daggerheart Campaign Docs
 
 # Daggerheart
 
-# Using this site
+# Using This Site
 The best way to look for things is using the site-search – open it up with command+K/control+K and type what you’re looking for. It is kind of garbage on phones though.
 
 I’ve turned on comment sections – if you want to use that to leave your own extra info to characters/locations/etc, feel free.
 
 > [!attention]
 > The comments are powered by GitHub, and can take you over to that site. Please *don’t* browse the code over there – it includes all my ‘secret’ notes.
-
 
 ***
 

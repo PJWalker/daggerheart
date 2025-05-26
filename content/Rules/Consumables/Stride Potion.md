@@ -1,4 +1,4 @@
-# STRIDE POTION
+# Stride Potion
 
 You gain a +1 bonus to your next Agility Roll.
 

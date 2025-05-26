@@ -1,22 +1,22 @@
 Play the School of Knowledge if you want a keen understanding of the world around you.
 
-## SPELLCAST TRAIT
+# Spellcast Trait
 
 Knowledge
 
-## FOUNDATION FEATURES
+# Foundation Features
 
 ***Prepared:*** Take an additional domain card of your level or lower from a domain you have access to.
 
 ***Adept:*** When you Utilize an Experience, you can mark a Stress instead of spending a Hope. If you do, double your Experience modifier for that roll.
 
-## SPECIALIZATION FEATURES
+# Specialization Features
 
 ***Accomplished:*** Take an additional domain card of your level or lower from a domain you have access to.
 
 ***Perfect Recall:*** Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1.
 
-## MASTERY FEATURES
+# Mastery Features
 
 ***Brilliant:*** Take an additional domain card of your level or lower from a domain you have access to.
 

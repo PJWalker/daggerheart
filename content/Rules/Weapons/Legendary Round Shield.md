@@ -1,4 +1,4 @@
-# LEGENDARY ROUND SHIELD
+# Legendary round Shield
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
 

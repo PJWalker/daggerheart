@@ -1,6 +1,5 @@
 ---
-tags:
-  - mundane
+tags: [mundane]
 publish: "true"
 ---
 Base Thresholds: 6 / 13

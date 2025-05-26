@@ -1,4 +1,4 @@
-# LEGENDARY GLOWING RINGS
+# Legendary Glowing Rings
 
 **Trait:** Agility; **Range:** Very Close; **Damage:** d10+11 mag; **Burden:** One-Handed
 

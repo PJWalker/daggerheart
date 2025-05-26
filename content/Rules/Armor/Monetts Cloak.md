@@ -1,4 +1,4 @@
-# MONETT’S CLOAK
+# MONETT’S Cloak
 
 **Base Thresholds:** 16 / 39; **Base Score:** 6
 

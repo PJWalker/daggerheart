@@ -9,7 +9,7 @@ Amphibious
 Your natural scales act as protection, increasing your Armour Score by +1.
 
 It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.
-# Mood board
+# Mood Board
 ![[Coral-1746944844129.webp]]
 
 ![[Coral-1746944916997.webp]

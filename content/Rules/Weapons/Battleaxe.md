@@ -1,4 +1,4 @@
-# BATTLEAXE
+# Battleaxe
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
 

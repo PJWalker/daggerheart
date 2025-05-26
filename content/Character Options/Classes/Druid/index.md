@@ -2,7 +2,6 @@
 title: Druid
 ---
 
-
 Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
 
 > **• DOMAINS:** [index](Character%20Options/Abilities/Sage/index.md) & [index](Character%20Options/Abilities/Arcana/index.md)  
@@ -10,21 +9,21 @@ Becoming a druid is more than an occupation; it’s a calling for those who wish
 > **• STARTING HIT POINTS:** 6  
 > **• CLASS ITEMS:** A small bag of rocks and bones or a strange pendant found in the dirt
 
-## DRUID’S HOPE FEATURE
+# DRUID’S Hope Feature
 
 ***Evolution:*** Spend 3 Hope to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.
 
-## CLASS FEATURES
+# Class Features
 
 ***Beastform:*** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can’t use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform’s features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you’re in a Beastform, your armor becomes part of your body and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
 
 ***Wildtouch:*** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire—at will.
 
-## DRUID SUBCLASSES
+# Druid Subclasses
 
 Choose either the **[Warden of the Elements](Warden%20of%20the%20Elements.md)** or **[Warden of Renewal](Warden%20of%20Renewal.md)** subclass.
 
-## BACKGROUND QUESTIONS
+# Background Questions
 
 *Answer any of the following background questions. You can also create your own questions.*
 
@@ -32,7 +31,7 @@ Choose either the **[Warden of the Elements](Warden%20of%20the%20Elements.md)** 
 - Who was the first wild animal you bonded with? Why did your bond end?
 - Who has been trying to hunt you down? What do they want from you?
 
-## CONNECTIONS
+# Connections
 
 *Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
 
@@ -40,7 +39,7 @@ Choose either the **[Warden of the Elements](Warden%20of%20the%20Elements.md)** 
 - What animal do I say you remind me of?
 - What affectionate nickname have you given me?
 
-# BEASTFORM OPTIONS
+# Beastform Options
 
 When you use your “Beastform” feature, choose a creature category of your tier or lower. At the GM’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
 
@@ -53,9 +52,9 @@ Beastform categories are divided by tier. Each entry includes the following deta
 - **Advantage:** Your form makes you especially suited to certain actions. When you make an action or reaction roll related to one of the verbs listed for that creature category, you gain advantage on that roll. For example, an Agile Scout gains advantage on rolls made to sneak around, search for objects or creatures, and related activities.
 - **Features:** Each form includes unique features. For example, an Agile Scout excels at silent, dexterous movement—but they’re also fragile, making you more likely to drop out of Beastform.
 
-## TIER 1
+## Tier 1
 
-### AGILE SCOUT
+### Agile Scout
 
 (Fox, Mouse, Weasel, etc.)
 
@@ -66,7 +65,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
-### HOUSEHOLD FRIEND
+### Household Friend
 
 (Cat, Dog, Rabbit, etc.)
 
@@ -77,7 +76,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
-### NIMBLE GRAZER
+### Nimble Grazer
 
 (Deer, Gazelle, Goat, etc.)
 
@@ -88,7 +87,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
-### PACK PREDATOR
+### Pack Predator
 
 (Coyote, Hyena, Wolf, etc.)
 
@@ -99,7 +98,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Pack Hunting:*** When you succeed on an attack against the same target as an ally who acts immediately before you, add a d8 to your damage roll.
 
-### AQUATIC SCOUT
+### Aquatic Scout
 
 (Eel, Fish, Octopus, etc.)
 
@@ -110,7 +109,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
-### STALKING ARACHNID
+### Stalking Arachnid
 
 (Tarantula, Wolf Spider, etc.)
 
@@ -121,7 +120,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Webslinger:*** You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily Restrain a target within Close range by succeeding on a Finesse Roll against them.
 
-### MIGHTY STRIDER
+### Mighty Strider
 
 (Camel, Horse, Zebra, etc.)
 
@@ -132,9 +131,9 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Trample:*** Mark a Stress to move up to Close range in a straight line and make an attack against all targets within Melee range of the line. Targets you succeed against take d8+1 physical damage using your Proficiency and are temporarily Vulnerable.
 
-## TIER 2
+## Tier 2
 
-### ARMORED SENTRY
+### Armored Sentry
 
 (Armadillo, Pangolin, Turtle, etc.)
 
@@ -145,7 +144,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Cannonball:*** Mark a Stress to allow an ally to throw or launch you at an adversary. To do so, the ally makes an attack roll using Agility or Strength (their choice) against a target within Close Range. On a success, the adversary takes d12+2 physical damage using the thrower’s Proficiency. You can spend a Hope to target an additional adversary within Very Close range of the first. The second target takes half the damage dealt to the first target.
 
-### POWERFUL BEAST
+### Powerful Beast
 
 (Bear, Bull, Moose, etc.)
 
@@ -156,7 +155,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Thick Hide:*** You gain a +2 bonus to your damage thresholds.
 
-### STRIKING SERPENT
+### Striking Serpent
 
 (Cobra, Rattlesnake, Viper, etc.)
 
@@ -167,7 +166,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Warning Hiss:*** Mark a Stress to force any number of targets within Melee range to move back to Very Close range.
 
-### POUNCING PREDATOR
+### Pouncing Predator
 
 (Cheetah, Lion, Panther, etc.)
 
@@ -178,7 +177,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Takedown:*** Mark a Stress to move into Melee range of a target and make an attack roll against them. On a success, you gain a +2 bonus to your Proficiency for this attack and the target must mark a Stress.
 
-### WINGED BEAST
+### Winged Beast
 
 (Hawk, Owl, Raven, etc.)
 
@@ -189,9 +188,9 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Hollow Bones:*** You gain a -2 penalty to your damage thresholds.
 
-## TIER 3
+## Tier 3
 
-### GREAT PREDATOR
+### Great Predator
 
 (Dire Wolf, Velociraptor, Sabertooth Tiger, etc.)
 
@@ -202,7 +201,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Vicious Maul:*** When you succeed on an attack against a target, you can spend a Hope to make them temporarily Vulnerable and gain a +1 bonus to your Proficiency for this attack.
 
-### MIGHTY LIZARD
+### Mighty Lizard
 
 (Alligator, Crocodile, Gila Monster, etc.)
 
@@ -213,7 +212,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Snapping Strike:*** When you succeed on an attack against a target within Melee range, you can spend a Hope to clamp that opponent in your jaws, making them temporarily Restrained and Vulnerable.
 
-### GREAT WINGED BEAST
+### Great Winged Beast
 
 (Giant Eagle, Falcon, etc.)
 
@@ -224,7 +223,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
 
-### AQUATIC PREDATOR
+### Aquatic Predator
 
 (Dolphin, Orca, Shark, etc.)
 
@@ -235,7 +234,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Vicious Maul:*** When you succeed on an attack against a target, you can spend a Hope to make them Vulnerable and gain a +1 bonus to your Proficiency for this attack.
 
-### LEGENDARY BEAST
+### Legendary Beast
 
 (Upgraded Tier 1 Options)
 
@@ -245,7 +244,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 - A +1 bonus to the trait used by this form
 - A +2 bonus to Evasion
 
-### LEGENDARY HYBRID
+### Legendary Hybrid
 
 (Griffon, Sphinx, etc.)
 
@@ -253,9 +252,9 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Hybrid Features:*** To transform into this creature, mark an additional Stress. Choose any two Beastform options from Tiers 1–2. Choose a total of four advantages and two features from those options.
 
-## TIER 4
+## Tier 4
 
-### MASSIVE BEHEMOTH
+### Massive Behemoth
 
 (Elephant, Mammoth, Rhinoceros, etc.)
 
@@ -268,7 +267,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Undaunted:*** You gain a +2 bonus to all your damage thresholds.
 
-### TERRIBLE LIZARD
+### Terrible Lizard
 
 (Brachiosaurus, Tyrannosaurus, etc.)
 
@@ -279,7 +278,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Massive Stride:*** You can move up to Far range without rolling. You ignore rough terrain (at the GM’s discretion) due to your size.
 
-### MYTHIC AERIAL HUNTER
+### Mythic Aerial Hunter
 
 (Dragon, Pterodactyl, Roc, Wyvern, etc.)
 
@@ -290,7 +289,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Deadly Raptor:*** You can fly at will and move up to Far range as part of your action. When you move in a straight line into Melee range of a target from at least Close range and make an attack against that target in the same action, you can reroll all damage dice that rolled a result lower than your Proficiency.
 
-### EPIC AQUATIC BEAST
+### Epic Aquatic Beast
 
 (Giant Squid, Whale, etc.)
 
@@ -301,7 +300,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Unyielding:*** When you would mark an Armor Slot, roll a d6. On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
 
-### MYTHIC BEAST
+### Mythic Beast
 
 (Upgraded Tier 1 or Tier 2 Options)
 
@@ -312,7 +311,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 - A +3 bonus to Evasion
 - Your damage die increases by one size (d6 becomes d8, d8 becomes d10, etc.)
 
-### MYTHIC HYBRID
+### Mythic Hybrid
 
 (Chimera, Cockatrice, Manticore, etc.)
 

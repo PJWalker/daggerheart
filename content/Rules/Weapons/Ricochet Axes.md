@@ -1,4 +1,4 @@
-# RICOCHET AXES
+# Ricochet Axes
 
 **Trait:** Agility; **Range:** Far; **Damage:** d6+11 phy; **Burden:** Two-Handed
 

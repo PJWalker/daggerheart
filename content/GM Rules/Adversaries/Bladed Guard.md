@@ -5,7 +5,7 @@
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 5 | **Stress:** 2  
 > **ATK:** +1 | **Longsword:** Melee | 1d6+1 phy  
 
-## FEATURES
+# Features
 
 ***Shield Wall - Passive:*** A creature who tries to move within Very Close range of the Guard must succeed on an Agility Roll. If additional Bladed Guards are standing in a line alongside the first, and each is within Melee range of another guard in the line, the Difficulty increases by the total number of guards in the line.
 

@@ -1,4 +1,4 @@
-# WAND OF ENTHRALLMENT
+# Wand of Enthrallment
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+4 mag; **Burden:** One-Handed
 

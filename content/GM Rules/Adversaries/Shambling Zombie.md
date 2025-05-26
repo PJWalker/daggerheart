@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** 4/6 | **HP:** 4 | **Stress:** 1  
 > **ATK:** 0 | **Bite:** Melee | 1d6+1 phy  
 
-## FEATURES
+# Features
 
 ***Too Many to Handle - Passive:*** When the Zombie is within Melee range of a creature and at least one other Zombie is within Close range, all attacks against that creature have advantage.
 

@@ -3,7 +3,7 @@ Evasion represents a character’s ability to avoid attacks and other unwanted e
 > [!dnd]- For D&D players 
 > Evasion is mechanically the same as D&D’s AC.
 > But in daggerheart, [[armour]] is another seperate thing.
-> 
+>  
 
 > [!NOTE] Adversaries don’t have Evasion. Attacks against adversaries use the adversary’s *Difficulty*.
 

@@ -1,4 +1,4 @@
-# FLICKERFLY BLADE
+# Flickerfly Blade
 
 **Trait:** Agility; **Range:** Melee; **Damage:** d8+5 phy; **Burden:** One-Handed
 

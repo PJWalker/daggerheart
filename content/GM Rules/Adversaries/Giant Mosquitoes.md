@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** 5/9 | **HP:** 6 | **Stress:** 3  
 > **ATK:** -2 | **Proboscis:** Melee | 1d8+3 phy  
 
-## FEATURES
+# Features
 
 ***Horde (1d4+1) - Passive:*** When the Mosquitoes have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead.
 

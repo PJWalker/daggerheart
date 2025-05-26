@@ -1,4 +1,4 @@
-# HARROWBONE ARMOR
+# Harrowbone Armor
 
 **Base Thresholds:** 9 / 21; **Base Score:** 4
 

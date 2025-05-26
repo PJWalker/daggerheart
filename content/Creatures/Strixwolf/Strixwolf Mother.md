@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Difficulty 10
 Thresholds: 4/8
 HP: 3

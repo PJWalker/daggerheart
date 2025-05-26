@@ -1,4 +1,4 @@
-# SCEPTER OF ELIAS
+# Scepter of Elias
 
 **Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** One-Handed
 

@@ -1,4 +1,4 @@
-# WARHAMMER
+# Warhammer
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+3 phy; **Burden:** Two-Handed
 

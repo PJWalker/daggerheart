@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** +0 | **Burst of Fire:** Close | 5 mag  
 
-## FEATURES
+# Features
 
 ***Minion (9) - Passive:*** The Elemental is defeated when they take any damage. For every 9 damage a PC deals to the Elemental, defeat an additional Minion within range the attack would succeed against.
 

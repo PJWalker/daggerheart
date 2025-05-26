@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 2  
 > **ATK:** +1 | **Warhammer:** Very Close | 5 phy  
 
-## FEATURES
+# Features
 
 ***Minion (7) - Passive:*** The Recruit is defeated when they take any damage. For every 7 damage a PC deals to the Recruit, defeat an additional Minion within range the attack would succeed against.
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 9 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2  
 > **ATK:** +2 | **Shortbow:** Far | 1d8+1 phy  
 
-## FEATURES
+# Features
 
 ***Opportunist - Passive:*** When two or more adversaries are within Very Close range of a creature, all damage they each deal to that creature is doubled.
 

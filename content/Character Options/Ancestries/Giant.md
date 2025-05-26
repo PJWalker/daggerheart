@@ -1,7 +1,6 @@
 ---
 publish: "true"
-aliases:
-  - Giants
+aliases: [Giants]
 ---
 https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Giant
 

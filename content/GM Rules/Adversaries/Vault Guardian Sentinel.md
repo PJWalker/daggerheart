@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 21/40 | **HP:** 6 | **Stress:** 3  
 > **ATK:** +3 | **Charged Mace:** Very Close | 2d12+1 phy  
 
-## FEATURES
+# Features
 
 ***Kinetic Slam - Passive:*** Targets who take damage from the Sentinel’s standard attack are knocked back to Very Close range.
 

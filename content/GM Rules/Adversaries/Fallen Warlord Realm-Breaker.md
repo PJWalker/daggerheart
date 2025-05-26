@@ -5,7 +5,7 @@
 > **Difficulty:** 20 | **Thresholds:** 36/66 | **HP:** 8 | **Stress:** 5  
 > **ATK:** +7 | **Barbed Whip:** Close | 4d8+7 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** The Realm-Breaker can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

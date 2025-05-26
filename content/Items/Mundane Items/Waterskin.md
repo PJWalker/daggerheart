@@ -1,7 +1,6 @@
 ---
 publish: "true"
-tags:
-  - mundane
+tags: [mundane]
 ---
 
 Cost: 4 Coin

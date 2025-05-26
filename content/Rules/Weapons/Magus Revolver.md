@@ -1,4 +1,4 @@
-# MAGUS REVOLVER
+# Magus Revolver
 
 **Trait:** Finesse; **Range:** Very Far; **Damage:** d6+13 mag; **Burden:** One-Handed
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 8/16 | **HP:** 5 | **Stress:** 4  
 > **ATK:** +2 | **Energy Blast:** Close | 2d8+3 mag  
 
-## FEATURES
+# Features
 
 ***Levitation - Passive:*** The Skull levitates several feet off the ground and can’t be Restrained.
 

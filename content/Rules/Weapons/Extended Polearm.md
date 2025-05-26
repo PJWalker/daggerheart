@@ -1,4 +1,4 @@
-# EXTENDED POLEARM
+# Extended Polearm
 
 **Trait:** Finesse; **Range:** Very Close; **Damage:** d8+10 phy; **Burden:** Two-Handed
 

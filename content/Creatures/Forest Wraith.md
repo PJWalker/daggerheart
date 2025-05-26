@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 ![[Forest Wraith.webp]]
 
 T1 Bruiser
@@ -8,7 +12,7 @@ Major 7 | Severe 14
 HP: 6
 Stress: 3
 
-## Features
+# Features
 
 Spectral Body — Resistant to physical damage
 

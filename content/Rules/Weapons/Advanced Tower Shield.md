@@ -1,4 +1,4 @@
-# ADVANCED TOWER SHIELD
+# Advanced Tower Shield
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d6+4 phy; **Burden:** One-Handed
 

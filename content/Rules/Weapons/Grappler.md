@@ -1,4 +1,4 @@
-# GRAPPLER
+# Grappler
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d6 phy; **Burden:** One-Handed
 

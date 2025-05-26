@@ -1,4 +1,4 @@
-# BLADEFARE ARMOR
+# Bladefare Armor
 
 **Base Thresholds:** 16 / 39; **Base Score:** 6
 

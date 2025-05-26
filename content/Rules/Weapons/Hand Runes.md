@@ -1,4 +1,4 @@
-# HAND RUNES
+# Hand Runes
 
 **Trait:** Instinct; **Range:** Very Close; **Damage:** d10 mag; **Burden:** One-Handed
 

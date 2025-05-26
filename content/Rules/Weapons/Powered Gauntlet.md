@@ -1,4 +1,4 @@
-# POWERED GAUNTLET
+# Powered Gauntlet
 
 **Trait:** Knowledge; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
 

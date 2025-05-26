@@ -5,7 +5,7 @@
 > **Difficulty:** 15 | **Thresholds:** 12/25 | **HP:** 7 | **Stress:** 5  
 > **ATK:** +5 | **Serrated Dagger:** Close | 2d10+2 phy  
 
-## FEATURES
+# Features
 
 ***Won’t See It Coming - Passive:*** The Assassin deals direct damage while they’re Hidden.
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 16 | **Thresholds:** 12/24 | **HP:** 6 | **Stress:** 5  
 > **ATK:** +2 | **Longbow:** Far | 2d8+4 phy  
 
-## FEATURES
+# Features
 
 ***Two as One - Passive:*** When the Beastmaster is spotlighted, you can also spotlight a Tier 1 animal adversary currently under their control.
 

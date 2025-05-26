@@ -1,7 +1,5 @@
 ---
-tags:
-  - consumable
-  - rare
+tags: [consumable, rare]
 ---
 On use, roll `dice:1d6`:
 - On a 5-6: clear 2HP

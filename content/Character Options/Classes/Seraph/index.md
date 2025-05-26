@@ -2,7 +2,6 @@
 title: Seraph
 ---
 
-
 Seraphs are divine fighters and healers imbued with sacred purpose. A wide array of deities exist within the realms, and thus numerous kinds of seraphs are appointed by these gods. Their ethos traditionally aligns with the domain or goals of their god, such as defending the weak, exacting vengeance, protecting a land or artifact, or upholding a particular faith. Some seraphs ally themselves with an army or locale, much to the satisfaction of their rulers, but other crusaders fight in opposition to the follies of the Mortal Realm. It is better to be a seraph’s ally than their enemy, as they are terrifying foes to those who defy their purpose.
 
 > **• DOMAINS:** [index](Character%20Options/Abilities/Splendor/index.md) & [index](Character%20Options/Abilities/Valor/index.md)  
@@ -10,19 +9,19 @@ Seraphs are divine fighters and healers imbued with sacred purpose. A wide array
 > **• STARTING HIT POINTS:** 7  
 > **• CLASS ITEMS:** A bundle of offerings or a sigil of your god
 
-## SERAPH’S HOPE FEATURE
+# SERAPH’S Hope Feature
 
 ***Life Support:*** Spend 3 Hope to clear a Hit Point on an ally within Close range.
 
-## CLASS FEATURE
+# Class Feature
 
 ***Prayer Dice:*** At the beginning of each session, roll a number of d4s equal to your subclass’s Spellcast trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within Far range. You can use a spent die’s value to reduce incoming damage, add to a roll’s result after the roll is made, or gain Hope equal to the result. At the end of each session, clear all unspent Prayer Dice.
 
-## SERAPH SUBCLASSES
+# Seraph Subclasses
 
 Choose either the **[Divine Wielder](Divine%20Wielder.md)** or **[Winged Sentinel](Winged%20Sentinel.md)** subclass.
 
-## BACKGROUND QUESTIONS
+# Background Questions
 
 *Answer any of the following background questions. You can also create your own questions.*
 
@@ -30,7 +29,7 @@ Choose either the **[Divine Wielder](Divine%20Wielder.md)** or **[Winged Sentine
 - How did your appearance change after taking your oath?
 - In what strange or unique way do you communicate with your god?
 
-## CONNECTIONS
+# Connections
 
 *Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
 

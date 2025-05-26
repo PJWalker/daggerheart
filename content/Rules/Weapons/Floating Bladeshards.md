@@ -1,4 +1,4 @@
-# FLOATING BLADESHARDS
+# Floating Bladeshards
 
 **Trait:** Instinct; **Range:** Close; **Damage:** d8+9 mag; **Burden:** One-Handed
 

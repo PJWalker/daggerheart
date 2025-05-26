@@ -5,7 +5,7 @@
 > **Difficulty:** 10  
 > **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Masked Thief, Merchant
 
-## FEATURES
+# Features
 
 ***Tip the Scales - Passive:*** PCs can gain advantage on a Presence Roll by offering a handful of gold as part of the interaction.
 

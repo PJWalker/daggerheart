@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 4  
 > **ATK:** +4 | **Fist Slam:** Melee | 1d20 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** The Construct can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

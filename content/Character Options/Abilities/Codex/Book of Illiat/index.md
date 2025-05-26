@@ -8,5 +8,3 @@ title: Book of Illiat
 ![[Slumber]]
 ![[Telepathy]]
 
-
-

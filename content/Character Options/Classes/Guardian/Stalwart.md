@@ -1,18 +1,18 @@
 Play the Stalwart if you want to take heavy blows and keep fighting.
 
-## FOUNDATION FEATURES
+# Foundation Features
 
 ***Unwavering:*** Gain a permanent +1 bonus to your damage thresholds.
 
 ***Iron Will:*** When you take physical damage, you can mark an additional Armor Slot to reduce the severity.
 
-## SPECIALIZATION FEATURES
+# Specialization Features
 
 ***Unrelenting:*** Gain a permanent +2 bonus to your damage thresholds.
 
 ***Partners-in-Arms:*** When an ally within Very Close range takes damage, you can mark an Armor Slot to reduce the severity by one threshold.
 
-## MASTERY FEATURES
+# Mastery Features
 
 ***Undaunted:*** Gain a permanent +3 bonus to your damage thresholds.
 

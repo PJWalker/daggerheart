@@ -1,4 +1,4 @@
-# IMPROVED ARCANE GAUNTLETS
+# Improved Arcane Gauntlets
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+6 mag; **Burden:** Two-Handed
 

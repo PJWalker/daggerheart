@@ -3,11 +3,11 @@ title: Domain Cards
 ---
 PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
 
-## DOMAIN CARDS
+# Domain Cards
 
 Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
-
-### DOMAIN CARD ANATOMY
+	
+## Domain Card Anatomy
 
 Each domain card includes six elements:
 
@@ -31,7 +31,7 @@ Each domain card includes six elements:
 - **Feature**  
   The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.
 
-### LOADOUT & VAULT
+## Loadout & Vault
 
 Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you’ve acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault**. Vault cards are inactive and do not influence play.
 
@@ -43,7 +43,7 @@ To move a card from your vault to your loadout at any other time, you must mark 
 
 When you gain a new domain card at level-up, you can immediately move it into your loadout for free. If your loadout is already full, you must also move a card from your loadout to your vault to make space.
 
-### USAGE LIMITS
+## Usage Limits
 
 If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.
 

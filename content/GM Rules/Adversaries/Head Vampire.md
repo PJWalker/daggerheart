@@ -5,7 +5,7 @@
 > **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6  
 > **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy  
 
-## FEATURES
+# Features
 
 ***Terrifying - Passive:*** When the Vampire makes a successful attack, all PCs within Far range lose a Hope and you gain a Fear.
 

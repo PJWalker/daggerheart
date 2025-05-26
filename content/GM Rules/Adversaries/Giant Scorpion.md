@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 6 | **Stress:** 3  
 > **ATK:** +1 | **Pincers:** Melee | 1d12+2 phy  
 
-## FEATURES
+# Features
 
 ***Double Strike - Action:*** Mark a Stress to make a standard attack against two targets within Melee range.
 

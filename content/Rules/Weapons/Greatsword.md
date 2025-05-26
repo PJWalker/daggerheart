@@ -1,4 +1,4 @@
-# GREATSWORD
+# Greatsword
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
 

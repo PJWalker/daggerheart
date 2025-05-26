@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 5 | **Stress:** 2  
 > **ATK:** +2 | **Rusty Greatsword:** Melee | 1d10+2 phy  
 
-## FEATURES
+# Features
 
 ***Terrifying - Passive:*** When the Knight makes a successful attack, all PCs within Close range lose a Hope and you gain a Fear.
 

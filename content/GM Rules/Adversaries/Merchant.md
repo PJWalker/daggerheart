@@ -5,7 +5,7 @@
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3  
 > **ATK:** -4 | **Club:** Melee | 1d4+1 phy  
 
-## FEATURES
+# Features
 
 ***Preferential Treatment - Passive:*** A PC who succeeds on a Presence Roll against the Merchant gains a discount on purchases. A PC who fails on a Presence Roll against the Merchant must pay more and has disadvantage on future Presence Rolls against the Merchant.
 

@@ -5,7 +5,7 @@
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
 > **ATK:** -4 | **Claws:** Melee | 1 phy  
 
-## FEATURES
+# Features
 
 ***Minion (3) - Passive:*** The Rat is defeated when they take any damage. For every 3 damage a PC deals to the Rat, defeat an additional Minion within range the attack would succeed against.
 

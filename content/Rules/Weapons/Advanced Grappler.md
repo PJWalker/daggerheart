@@ -1,4 +1,4 @@
-# ADVANCED GRAPPLER
+# Advanced Grappler
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
 

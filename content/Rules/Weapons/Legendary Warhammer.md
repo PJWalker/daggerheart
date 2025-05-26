@@ -1,4 +1,4 @@
-# LEGENDARY WARHAMMER
+# Legendary Warhammer
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d12+12 phy; **Burden:** Two-Handed
 

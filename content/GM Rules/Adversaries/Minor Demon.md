@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 4  
 > **ATK:** +3 | **Claws:** Melee | 1d8+6 phy  
 
-## FEATURES
+# Features
 
 ***Relentless (2) - Passive:*** The Demon can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them.
 

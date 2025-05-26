@@ -5,7 +5,7 @@
 > **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3  
 > **ATK:** 0 | **Thorns:** Melee | 1d6+3 phy  
 
-## FEATURES
+# Features
 
 ***Horde (1d4+2) - Passive:*** When the Swarm has marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead.
 

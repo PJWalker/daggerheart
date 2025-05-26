@@ -5,7 +5,7 @@
 > **Difficulty:** 14 | **Thresholds:** 8/19 | **HP:** 4 | **Stress:** 4  
 > **ATK:** +1 | **Claws and Beak:** Very Close | 2d6+3 phy  
 
-## FEATURES
+# Features
 
 ***Flight - Passive:*** While flying, the Eagle gains a +3 bonus to their Difficulty.
 

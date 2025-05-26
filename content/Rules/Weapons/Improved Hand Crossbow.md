@@ -1,4 +1,4 @@
-# IMPROVED HAND CROSSBOW
+# Improved Hand Crossbow
 
 **Trait:** Finesse; **Range:** Far; **Damage:** d6+3 phy; **Burden:** One-Handed
 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - consumable
-  - common
+tags: [common, consumable]
 ---
 On use: +1 to next [[Presence]] roll.

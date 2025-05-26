@@ -1,4 +1,4 @@
-# IMPROVED HALLOWED AXE
+# Improved Hallowed Axe
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
 

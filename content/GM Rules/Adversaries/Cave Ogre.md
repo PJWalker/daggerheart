@@ -5,7 +5,7 @@
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 3  
 > **ATK:** +1 | **Club:** Very Close | 1d10+2 phy  
 
-## FEATURES
+# Features
 
 ***Ramp Up - Passive:*** You must spend a Fear to spotlight the Ogre. While spotlighted, they can make their standard attack against all targets within range.
 

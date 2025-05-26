@@ -1,4 +1,4 @@
-# FULL FORTIFIED ARMOR
+# Full Fortified Armor
 
 **Base Thresholds:** 15 / 40; **Base Score:** 4
 

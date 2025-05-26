@@ -1,4 +1,4 @@
-# HAND CANNON
+# Hand Cannon
 
 **Trait:** Finesse; **Range:** Very Far; **Damage:** d6+12 phy; **Burden:** One-Handed
 

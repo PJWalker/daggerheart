@@ -1,4 +1,4 @@
-# HAMMER OF WRATH
+# Hammer of Wrath
 
 **Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
 

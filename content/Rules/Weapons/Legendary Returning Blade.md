@@ -1,4 +1,4 @@
-# LEGENDARY RETURNING BLADE
+# Legendary Returning Blade
 
 **Trait:** Finesse; **Range:** Close; **Damage:** d8+9 mag; **Burden:** One-Handed
 

@@ -1,4 +1,4 @@
-# LONGBOW
+# Longbow
 
 **Trait:** Agility; **Range:** Very Far; **Damage:** d8+3 phy; **Burden:** Two-Handed
 

@@ -1,4 +1,4 @@
-# SIPHONING GAUNTLETS
+# Siphoning Gauntlets
 
 **Trait:** Presence; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
 

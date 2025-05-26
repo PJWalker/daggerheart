@@ -5,7 +5,7 @@
 > **Difficulty:** 20  
 > **Potential Adversaries:** Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie
 
-## FEATURES
+# Features
 
 ***Final Preparations - Passive:*** When the environment first takes the spotlight, designate one adversary as the Usurper seeking to overthrow the gods. Activate a Long-Term Countdown (8) as the Usurper assembles what they need to conduct the ritual. When it triggers, spotlight this environment to use the “Beginning of the End” feature. While this environment remains in play, you can hold up to 15 Fear.
 
