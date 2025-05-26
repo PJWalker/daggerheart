@@ -1,8 +1,8 @@
-***Tier 4 Event***  
-*A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.*  
+***Tier 4 Event***
+*A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.*
 **Impulses:** Collect power, overawe, silence dissent
 
-> **Difficulty:** 20  
+> **Difficulty:** 20
 > **Potential Adversaries:** Arch-Necromancer, Fallen Shock Troops, Mortal Hunter, Oracle of Doom, Perfected Zombie
 
 # Features

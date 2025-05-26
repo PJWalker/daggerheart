@@ -1,8 +1,8 @@
-***Tier 3 Event***  
-*A massive combat between two large groups of armed combatants.*  
+***Tier 3 Event***
+*A massive combat between two large groups of armed combatants.*
 **Impulses:** Seize people, land, and wealth, spill blood for greed and glory
 
-> **Difficulty:** 17  
+> **Difficulty:** 17
 > **Potential Adversaries:** Mercenaries (Sellsword, Harrier, Spellblade, Weaponmaster), Noble Forces (Archer Squadron, Conscript, Elite Soldier, Knight of the Realm)
 
 # Features

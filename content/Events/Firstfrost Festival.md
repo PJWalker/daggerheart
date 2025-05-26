@@ -1,6 +1,6 @@
 The people of Hush are currently celebrating the Firstfrost Festival.
 
-The name suggests it’s meant to mark when the first crystals of ice form in the fields, but, as everyone here is well aware, winter hasn’t come for the past 3 cycles. 
+The name suggests it’s meant to mark when the first crystals of ice form in the fields, but, as everyone here is well aware, winter hasn’t come for the past 3 cycles.
 
 You can surmise that the people here have decided its time for some fun regardless of the weather.
 

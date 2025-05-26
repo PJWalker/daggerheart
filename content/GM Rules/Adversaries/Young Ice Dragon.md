@@ -1,9 +1,9 @@
-***Tier 3 Solo***  
-*A glacier-blue dragon with four powerful limbs and frost-tinged wings.*  
+***Tier 3 Solo***
+*A glacier-blue dragon with four powerful limbs and frost-tinged wings.*
 **Motives & Tactics:** Avalanche, defend lair, fly, freeze, defend what is mine, maul
 
-> **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6  
-> **ATK:** +7 | **Bite and Claws:** Close | 4d10 phy  
+> **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6
+> **ATK:** +7 | **Bite and Claws:** Close | 4d10 phy
 
 # Features
 

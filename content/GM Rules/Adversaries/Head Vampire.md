@@ -1,9 +1,9 @@
-***Tier 3 Leader***  
-*A captivating undead dressed in aristocratic finery.*  
+***Tier 3 Leader***
+*A captivating undead dressed in aristocratic finery.*
 **Motives & Tactics:** Create thralls, charm, command, fly, intimidate
 
-> **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6  
-> **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy  
+> **Difficulty:** 17 | **Thresholds:** 22/42 | **HP:** 6 | **Stress:** 6
+> **ATK:** +5 | **Rapier:** Melee | 2d20+4 phy
 
 # Features
 

@@ -1,9 +1,9 @@
-***Tier 2 Horde (1/HP)***  
-*Unnatural hounds lit from within by hellfire.*  
+***Tier 2 Horde (1/HP)***
+*Unnatural hounds lit from within by hellfire.*
 **Motives & Tactics:** Cause fear, consume flesh, please masters
 
-> **Difficulty:** 15 | **Thresholds:** 11/23 | **HP:** 6 | **Stress:** 3  
-> **ATK:** 0 | **Claws and Fangs:** Melee | 2d8+2 phy  
+> **Difficulty:** 15 | **Thresholds:** 11/23 | **HP:** 6 | **Stress:** 3
+> **ATK:** 0 | **Claws and Fangs:** Melee | 2d8+2 phy
 
 # Features
 

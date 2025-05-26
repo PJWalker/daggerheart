@@ -2,13 +2,13 @@ We’re starting at level one, so the character’s history should reflect that.
 
 We’re going to start at a gathering in honour of [[Vinaeya Starfen]] – to justify coming together at all, I’d like everyone to either:
 1. Have an existing (relatively positive) relationship with Vinaeya
-2. Have an existing (relatively positive) relationship with another [[PC]] 
+2. Have an existing (relatively positive) relationship with another [[PC]]
 
 > [!example]
 > Contents
 
 # Brainstorming
-Before you make any definitive choices, you might want to briefly look at all of the materials available to you and formulate an idea for what kind of character you want to make. 
+Before you make any definitive choices, you might want to briefly look at all of the materials available to you and formulate an idea for what kind of character you want to make.
 
 This doesn’t need to be specific and isn’t required to begin, but having a basic concept to start from like “a circus performer who uses magic” or “a captain who lost their ship at sea” might help you make choices as you move through each step.
 
@@ -21,32 +21,32 @@ This doesn’t need to be specific and isn’t required to begin, but having a b
 - Where did you grow up? Did you leave? Why?
 - What is your ancestry and community’s ‘place’ within the area you grew up? How has that affected you?
 - Why are you in Fanewick at the moment? (There’s a catch-all answer, but maybe you have some specific business.)
-- What from your upbringing will prove useful as an adventurer? What will you need to leave behind? 
+- What from your upbringing will prove useful as an adventurer? What will you need to leave behind?
 - What does your character want to achieve? Why?
 - How does your class help you to achieve your goals?
 
 # Experiences
 Consi
-There’s no set list of experiences to 
+There’s no set list of experiences to
 
 > [!note]
-> Your experiences are *always* a part of your character, even when you’re not explicitly invoking them. Having experiences that have both positive and negative aspects 
+> Your experiences are *always* a part of your character, even when you’re not explicitly invoking them. Having experiences that have both positive and negative aspects
 > (Also, )
 
 # Organisations
-You may decide to be a member of, or associated with: 
-- The [[Ferriers]] 
-- [[Haven Emissaries]] 
+You may decide to be a member of, or associated with:
+- The [[Ferriers]]
+- [[Haven Emissaries]]
 
 # Token
 Please find/make/draw a token to represent your character on the tabletop.
 
-Most of my NPC tokens are from 2-minute-tabletop, so the easiest option is to make one that fits in is to use [their token editor](https://tools.2minutetabletop.com). If you do, use a black 'base shadow', not a white outline.
+Most of my NPC tokens are from 2-minute-tabletop, so the easiest option is to make one that fits in is to use [their token editor](https://tools.2minutetabletop.com). If you do, use a black ‘base shadow’, not a white outline.
 
 ![[Tokens.webp]]
 
 # Backstory
-We’re starting at level one, so the character’s story need not reflect a *huge* amount of prior adventuring experience. I’m looking for either fledgling adventurers, *or* unlikely heroes. but should suggest a motivation for it. 
+We’re starting at level one, so the character’s story need not reflect a *huge* amount of prior adventuring experience. I’m looking for either fledgling adventurers, *or* unlikely heroes. but should suggest a motivation for it.
 
 This is particularly true if your character is established to be *from* [[Fanewick]], since the region will be challenging *despite* it being local.
 
@@ -58,7 +58,7 @@ More broadly, [[PC|PCs]] of a normal age range will have grown up in a period of
 Your character should have some connection to Vinaeya that gives you a reason to be willing to do her a big favour. This is what’ll get all the players into the same room.
 
 Ideas include:
-- You’re in her family (note: she’s a [[Faun]]) 
+- You’re in her family (note: she’s a [[Faun]])
 - You’re a close friend
 - You owe her a debt
 - She has previously saved your life
@@ -68,7 +68,7 @@ Ideas include:
 - You received an order from your boss, patron, etc.
 - You have an existing bond to another party member (and *they* have a reason to help)
 
-It’s also good for some of you guys to have pre-existing relationships to one another. I’ll start you guys off in a way that pushes you all together, but it’ll make perfect sense if there were existing pairs etc. 
+It’s also good for some of you guys to have pre-existing relationships to one another. I’ll start you guys off in a way that pushes you all together, but it’ll make perfect sense if there were existing pairs etc.
 
 ***
 
@@ -98,17 +98,17 @@ Your character’s **heritage** combines two elements: **[ancestry](Ancestries.m
 
 Your character has six traits that represent their physical, mental, and social aptitude:
 
-- **Agility** (Use it to Sprint, Leap, Maneuver, etc.)  
+- **Agility** (Use it to Sprint, Leap, Maneuver, etc.)
   A high Agility means you’re fast on your feet, nimble on difficult terrain, and quick to react to danger. You’ll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.
-- **Strength** (Use it to Lift, Smash, Grapple, etc.)  
+- **Strength** (Use it to Lift, Smash, Grapple, etc.)
   A high Strength means you’re better at feats that test your physical prowess and stamina. You’ll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.
-- **Finesse** (Use it to Control, Hide, Tinker, etc.)  
+- **Finesse** (Use it to Control, Hide, Tinker, etc.)
   A high Finesse means you’re skilled at tasks that require accuracy, stealth, or the utmost control. You’ll make a Finesse Roll to use fine tools, escape notice, or strike with precision.
-- **Instinct** (Use it to Perceive, Sense, Navigate, etc.)  
+- **Instinct** (Use it to Perceive, Sense, Navigate, etc.)
   A high Instinct means you have a keen sense of your surroundings and a natural intuition. You’ll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.
-- **Presence** (Use it to Charm, Perform, Deceive, etc.)  
+- **Presence** (Use it to Charm, Perform, Deceive, etc.)
   A high Presence means you have a strong force of personality and a facility for social situations. You’ll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.
-- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)  
+- **Knowledge** (Use it to Recall, Analyze, Comprehend, etc.)
   A high Knowledge means you know information others don’t and understand how to apply your mind through deduction and inference. You’ll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.
 
 When you “roll with a trait,” that trait’s modifier is added to the roll’s total. Assign the modifiers +2, +1, +1, +0, +0, -1 to your character’s traits in any order you wish.
@@ -155,15 +155,15 @@ An Experience is a word or phrase used to encapsulate a specific set of skills, 
 - There’s no set list of Experiences to choose from, but an Experience can’t be too broadly applicable and it can’t grant your character specific mechanical benefits, such as magic spells or special abilities. *For example, “Lucky” and “Highly Skilled” are too broad because they could apply to virtually any roll. Likewise, “Supersonic Flight” and “Invulnerable” imply game-breaking special abilities.*
 
 > **EXAMPLE EXPERIENCES**
-> 
+>
 > **Backgrounds:** *Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler*
-> 
+>
 > **Characteristics:** *Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive*
-> 
+>
 > **Specialties:** *Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Suashbuckler, Tactician*
-> 
+>
 > **Skills:** *Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker*
-> 
+>
 > **Phrases:** *Catch Me If You Can, Fake It Till You Make It, First Time’s the Charm, Hold the Line, I Won’t Let You Down, I’ll Catch You, I’ve Got Your Back, Knowledge Is Power, Nature’s Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep’s Clothing*
 
 ## Step 8: Choose Domain Cards

@@ -1,9 +1,9 @@
-***Tier 4 Minion***  
-*A cursed soul bound to the Fallen’s will.*  
+***Tier 4 Minion***
+*A cursed soul bound to the Fallen’s will.*
 **Motives & Tactics:** Crush, dominate, earn relief, punish
 
-> **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** +2 | **Cursed Axe:** Very Close | 12 phy  
+> **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+> **ATK:** +2 | **Cursed Axe:** Very Close | 12 phy
 
 # Features
 

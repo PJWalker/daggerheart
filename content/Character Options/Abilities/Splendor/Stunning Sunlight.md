@@ -1,4 +1,4 @@
-> **Level 8 Splendor Spell**  
+> **Level 8 Splendor Spell**
 > **Recall Cost:** 2
 
 Make a Spellcast Roll to unleash powerful rays of burning sunlight against all adversaries in front of you within Far range. On a success, spend any number of Hope and force that many targets you succeeded against to make a Reaction Roll (14).

@@ -1,4 +1,4 @@
-When an adversary attacks a PC, you roll to determine the outcome. 
+When an adversary attacks a PC, you roll to determine the outcome.
 
 1. Roll `dice:1d20`+ the adversary’s attack bonus, along with any other required dice.
 2. If the role is less than the target’s Evasion, the attack misses.

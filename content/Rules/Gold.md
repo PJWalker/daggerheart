@@ -5,5 +5,5 @@ For example, if you have 9 handfuls and gain another, you instead mark 1 bag and
 You can’t have more than 1 chest, so if all your Gold slots are marked, you’ll need to spend some of your gold or store it somewhere else before you can acquire more.
 
 > ***Optional Rule: Gold Coins***
-> 
+>
 > *If your group wants to track gold with more granularity, you can add **coins** as your lowest denomination. Following the established pattern, 10 coins equal 1 handful.*

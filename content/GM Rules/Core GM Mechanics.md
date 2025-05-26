@@ -72,17 +72,17 @@ On a **Failure with Fear**, you describe how things go wrong, then make a GM mov
 
 *If you’re unsure how to resolve a roll, think about these quick phrases:*
 
-- **Success with Hope:** Yes, and... (You get what you want and gain a Hope.)
-- **Success with Fear:** Yes, but... (You get what you want, but there’s a consequence, and the GM gains a Fear.)
-- **Failure with Hope:** No, but... (Things don’t go as planned, but you gain a Hope.)
-- **Failure with Fear:** No, and... (Things don’t go as planned and it gets worse. The GM gains a Fear.)
+- **Success with Hope:** Yes, and… (You get what you want and gain a Hope.)
+- **Success with Fear:** Yes, but… (You get what you want, but there’s a consequence, and the GM gains a Fear.)
+- **Failure with Hope:** No, but… (Things don’t go as planned, but you gain a Hope.)
+- **Failure with Fear:** No, and… (Things don’t go as planned and it gets worse. The GM gains a Fear.)
 
 If the move you should make is not obvious from the fiction, draw inspiration from the “Example GM Moves” list:
 
 - Introduce a new obstacle or enemy
 - Ask the player what happens
 - Have the PC mark a Stress
-- Tell the players “everything is fine... for now.”
+- Tell the players “everything is fine… for now.”
 
 ### Soft and Hard Moves
 
@@ -91,7 +91,7 @@ If the move you should make is not obvious from the fiction, draw inspiration fr
 Use softer moves on rolls with Hope and harder moves on rolls with Fear.
 
 > **Example GM Moves**
-> 
+>
 > • Show how the world reacts
 > • Ask a question and build on the answer
 > • Make an NPC act in accordance with their motive
@@ -344,7 +344,7 @@ If you want an important NPC to mechanically interact with the system, you can g
 When the GM wants to leave an outcome entirely up to chance, they call for a fate roll. The GM establishes what’s at stake and how the roll will be interpreted. Then a player rolls one of their Duality Dice and interprets the result.
 
 > ***Examples:***
-> 
+>
 > - *“Roll your Fear Die. On a 4 or lower, the fire spreads beyond this house.”*
 > - *“I think it’s really up to chance whether reinforcements will make it to you in time. Go ahead and roll your Fear Die—that’ll determine the starting size of the countdown. When that triggers, reinforcements will arrive in your Far range.”*
 > - *“Go ahead and roll your Hope Die to see how big the crowd at the inn is tonight. The higher the roll, the bigger the crowd.”*

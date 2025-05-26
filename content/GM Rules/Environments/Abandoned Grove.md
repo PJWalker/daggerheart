@@ -1,8 +1,8 @@
-***Tier 1 Exploration***  
-*A former druidic grove lying fallow and fully reclaimed by nature.*  
+***Tier 1 Exploration***
+*A former druidic grove lying fallow and fully reclaimed by nature.*
 **Impulses:** Draw in the curious, echo the past
 
-> **Difficulty:** 11  
+> **Difficulty:** 11
 > **Potential Adversaries:** Beasts (Bear, Dire Wolf, Glass Snake), Grove Guardians (Minor Treant, Sylvan Soldier, Young Dryad)
 
 # Features

@@ -6,7 +6,7 @@ Phylax studied the growth of these flowers and understood that the cyclical reap
 
 But when [[Vinaeya Starfen|Vinaeya]] research, [[Lord Regent Vasali]] was much easier to convince. So they arranged an expedition to [[Nikta - Shepherd of Seasons|Nikta]] to get her onside.
 
-Phylax is an extremely powerful [[Character Options/Classes/Wizard/index|wizard]], and together with the [[Haven Emissaries]] they were able to capture [[Nikta - Shepherd of Seasons|Nikta]] and warp her vision such that her eye of sowing would gaze solely upon Haven. However, this meant her right eye was in turn fixed upon the mountain. 
+Phylax is an extremely powerful [[Character Options/Classes/Wizard/index|wizard]], and together with the [[Haven Emissaries]] they were able to capture [[Nikta - Shepherd of Seasons|Nikta]] and warp her vision such that her eye of sowing would gaze solely upon Haven. However, this meant her right eye was in turn fixed upon the mountain.
 
 As she saw what she her gaze was causing, [[Nikta - Shepherd of Seasons|Nikta]] found a new burst of motivation to escape, but in the battle that ensued, her eye of reaping was split into three.
 
@@ -30,8 +30,8 @@ We wanna figure out if we’re going to fight the owl or help them find her eye
 
 ***
 
-We start at the funeral, which [[Lord Regent Vasali]] attends. The funeral operators are confused by his presence – knowledge of the King’s absence is not yet widespread. His guards seem awkwardly interested in ensuring that She’s dead, and then he gets bored (Phylax just said we had to show up and make sure she’s dead; we did that; can we go home now?). 
+We start at the funeral, which [[Lord Regent Vasali]] attends. The funeral operators are confused by his presence – knowledge of the King’s absence is not yet widespread. His guards seem awkwardly interested in ensuring that She’s dead, and then he gets bored (Phylax just said we had to show up and make sure she’s dead; we did that; can we go home now?).
 
 This probably gets invaded by some jungle monstrosities, which the players will help fight off. During that fight they might realise that the body is fake. Then, the others involved in faking the death will fill the characters in on more detail and encourage them, if they wish to stand against Phylax, to go to Vinaeya’s hideout in the middle of the Fane.
 
-In doing so, they mention that the temple is to nikta, and within her domain, but that her presence has been feint recently. They try to convert the players. 
+In doing so, they mention that the temple is to nikta, and within her domain, but that her presence has been feint recently. They try to convert the players.

@@ -1,9 +1,9 @@
-***Tier 4 Minion***  
-*A vaguely humanoid form stripped of memory and identity.*  
+***Tier 4 Minion***
+*A vaguely humanoid form stripped of memory and identity.*
 **Motives & Tactics:** Destroy, disgust, disorient, intimidate
 
-> **Difficulty:** 17 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** +3 | **Claws and Teeth:** Very Close | 11 phy  
+> **Difficulty:** 17 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+> **ATK:** +3 | **Claws and Teeth:** Very Close | 11 phy
 
 # Features
 

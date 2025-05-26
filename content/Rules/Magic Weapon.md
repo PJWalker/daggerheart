@@ -1,1 +1,1 @@
-These weapons require the wielder to have a [[Spellcast Trait]] 
+These weapons require the wielder to have a [[Spellcast Trait]]

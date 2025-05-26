@@ -1,8 +1,8 @@
-***Tier 4 Traversal***  
-*An otherworldly space where the laws of reality are unstable and dangerous.*  
+***Tier 4 Traversal***
+*An otherworldly space where the laws of reality are unstable and dangerous.*
 **Impulses:** Annihilate certainty, consume power, defy logic
 
-> **Difficulty:** 20  
+> **Difficulty:** 20
 > **Potential Adversaries:** Outer Realms Monstrosities (Abomination, Corruptor, Thrall)
 
 # Features

@@ -25,7 +25,7 @@ At the end of a long rest, any features or effects with a limited number of uses
 
 # Downtime Consequences
 
-On a short rest, the GM gains `dice:1d4` Fear. 
+On a short rest, the GM gains `dice:1d4` Fear.
 On a long rest, they gain Fear equal to `dice:1d4` + the number of PCs, and they can advance a **long-term countdown** of their choice.
 
 # Using Downtime

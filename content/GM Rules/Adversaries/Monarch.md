@@ -1,9 +1,9 @@
-***Tier 3 Social***  
-*The sovereign ruler of a nation, unearthed in the privilege of tradition and wielding unmatched power in their domain.*  
+***Tier 3 Social***
+*The sovereign ruler of a nation, unearthed in the privilege of tradition and wielding unmatched power in their domain.*
 **Motives & Tactics:** Control vassals, destroy rivals, forge a legacy
 
-> **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy  
+> **Difficulty:** 16 | **Thresholds:** 16/32 | **HP:** 6 | **Stress:** 5
+> **ATK:** +0 | **Warhammer:** Melee | 3d6+3 phy
 
 # Features
 

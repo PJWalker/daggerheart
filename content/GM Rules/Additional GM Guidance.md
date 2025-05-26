@@ -68,4 +68,3 @@ Make battles by shifting the nature of its enemies or environment mid-combat:
 - Change the Terms of Engagement
 - Alter the Environment
 - Evolve the Opposition
-

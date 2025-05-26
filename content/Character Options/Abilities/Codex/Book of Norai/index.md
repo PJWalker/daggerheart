@@ -2,7 +2,7 @@
 title: Book of Norai
 ---
 
-> **Level 3 Codex Grimoire**  
+> **Level 3 Codex Grimoire**
 > **Recall Cost:** 2
 
 **Mystic Tether:** Make a Spellcast Roll against a target within Far range. On a success, they’re temporarily Restrained and must mark a Stress. If you target a flying creature, this spell grounds and temporarily Restrains them.

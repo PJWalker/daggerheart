@@ -1,9 +1,9 @@
-***Tier 3 Standard***  
-*An intelligent undead with blood-stained lips and a predator’s smile.*  
+***Tier 3 Standard***
+*An intelligent undead with blood-stained lips and a predator’s smile.*
 **Motives & Tactics:** Bite, charm, deceive, feed, intimidate
 
-> **Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4  
-> **ATK:** +3 | **Rapier:** Melee | 3d8 phy  
+> **Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4
+> **ATK:** +3 | **Rapier:** Melee | 3d8 phy
 
 # Features
 

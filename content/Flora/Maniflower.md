@@ -1,10 +1,10 @@
-A small, delicate flower. Its single golden petal curls & folds in upon itself as it sways in the wind. 
+A small, delicate flower. Its single golden petal curls & folds in upon itself as it sways in the wind.
 
 The maniflower is known to have powerful effects on when consumed, and, in the right hands, to have powerful effects o
 
 The flowers can also interfere with magical effects. In particular, they cannot be teleported.
 
- These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. They were only foraged but recently the Havenites discovered that the Crimson Veil is the only known cure for Ophid's Grasp.
+ These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. They were only foraged but recently the Havenites discovered that the Crimson Veil is the only known cure for Ophid’s Grasp.
 
 As a result, the [[Places/Haven/index|Havenites]] have been attempting to cultivate the flower. They have begun to successfully farm Lady’s veils, but are yet to see a single farmed Crimson Veil.
 

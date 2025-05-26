@@ -1,9 +1,9 @@
-***Tier 1 Minion***  
-*A decaying corpse ambling toward their prey.*  
+***Tier 1 Minion***
+*A decaying corpse ambling toward their prey.*
 **Motives & Tactics:** Eat flesh, hunger, maul, surround
 
-> **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1  
-> **ATK:** -3 | **Bite:** Melee | 2 phy  
+> **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+> **ATK:** -3 | **Bite:** Melee | 2 phy
 
 # Features
 

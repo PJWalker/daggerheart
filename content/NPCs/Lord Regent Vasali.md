@@ -7,5 +7,4 @@ draft: "true"
 - Standing in for [[King Alexander Huberius]], who is currently missing
 
 %%
-Appointed by [[Archmage Phylax]] after he assassinated [[King Alexander Huberius]] 
-
+Appointed by [[Archmage Phylax]] after he assassinated [[King Alexander Huberius]]

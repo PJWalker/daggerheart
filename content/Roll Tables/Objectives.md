@@ -18,4 +18,3 @@ draft: "true"
 | **10** | Harass the opponent to deplete their resources or keep them occupied. |     |
 | **11** | Destroy a piece of architecture, a statue, a shrine, or a weapon.     |     |
 | **12** | Investigate a situation to confirm or deny existing information.      |     |
-

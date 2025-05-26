@@ -1,9 +1,9 @@
-***Tier 2 Ranged***  
-*A ghostly fighter with an ethereal bow, unable to move on while their charge is vulnerable.*  
+***Tier 2 Ranged***
+*A ghostly fighter with an ethereal bow, unable to move on while their charge is vulnerable.*
 **Motives & Tactics:** Move through solid objects, stay out of the fray, rehash old battles
 
-> **Difficulty:** 13 | **Thresholds:** 6/14 | **HP:** 3 | **Stress:** 3  
-> **ATK:** +3 | **Longbow:** Far | 2d10+2 phy  
+> **Difficulty:** 13 | **Thresholds:** 6/14 | **HP:** 3 | **Stress:** 3
+> **ATK:** +3 | **Longbow:** Far | 2d10+2 phy
 
 # Features
 

@@ -1,4 +1,4 @@
-> **Level 7 Sage Spell**  
+> **Level 7 Sage Spell**
 > **Recall Cost:** 2
 
 Once per long rest, mark a Stress to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a d6 on this card with the 1 value facing up.

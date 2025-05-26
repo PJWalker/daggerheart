@@ -1,8 +1,8 @@
-***Tier 2 Event***  
-*A fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.*  
+***Tier 2 Event***
+*A fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.*
 **Impulses:** Profane the land, unite the Mortal Realm with the Circles Below
 
-> **Difficulty:** 14  
+> **Difficulty:** 14
 > **Potential Adversaries:** Cult of the Fallen (Cult Adept, Cult Fang, Cult Initiate, Secret-Keeper)
 
 # Features

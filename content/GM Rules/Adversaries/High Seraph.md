@@ -1,9 +1,9 @@
-***Tier 4 Leader***  
-*A divine champion, head of a hallowed host of warriors who enforce their god’s will.*  
+***Tier 4 Leader***
+*A divine champion, head of a hallowed host of warriors who enforce their god’s will.*
 **Motives & Tactics:** Enforce dogma, fly, pronounce judgment, smite
 
-> **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +8 | **Holy Sword:** Very Close | 4d10+10 phy  
+> **Difficulty:** 20 | **Thresholds:** 37/70 | **HP:** 7 | **Stress:** 5
+> **ATK:** +8 | **Holy Sword:** Very Close | 4d10+10 phy
 
 # Features
 

@@ -28,4 +28,3 @@ I’ve turned on comment sections – if you want to use that to leave your own 
 The whole rules PDF is [[here]], and the [[/Rules]] section has some of my own notes.
 
 Please **don’t** read the ‘Witherwild’ section of the rules, (pages 254-257). The campaign uses elements from it, though it has wound up different enough that the guide would be a weird combination of spoilers and confusing misinformation. The info that matters will be on this site.
-

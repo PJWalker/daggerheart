@@ -99,11 +99,11 @@ Features and effects that affect a trait roll also affect any action roll that u
 Spellcast Rolls are only made when a character uses a feature that requires one. A successful Spellcast Roll activates the effect as described by the feature.
 
 > ***Notes:***
-> 
+>
 > *A Spellcast Roll that can damage a target is also considered an attack roll.*
-> 
+>
 > *When you cast a spell, the text tells you when the effect ends. The GM can spend a Fear to end a temporary effect. If your spell doesn’t specify when it ends, it ends when you choose or at a natural moment of the story. You can choose to end your spell early.*
-> 
+>
 > *You can cast and maintain the effects of more than one spell at the same time.*
 
 ## Reaction Rolls
@@ -127,9 +127,9 @@ Each player can, once per session, initiate a **Tag Team Roll** between their ch
 On a successful Tag Team attack roll, both players roll damage and add the totals together to determine the damage dealt, which is resolved as if it came from a single source. If the attacks deal different types of damage, the players choose which type to deal.
 
 > ***Notes:***
-> 
+>
 > *A Tag Team Roll counts as a single action roll for the purposes of any countdowns or features that track action rolls.*
-> 
+>
 > *Though each player may only initiate one Tag Team Roll per session, one PC can be involved in multiple Tag Team Rolls.*
 
 # Advantage & Disadvantage
@@ -153,13 +153,13 @@ Every PC starts with 2 Hope at character creation and gains more throughout play
 
 Players can spend Hope to:
 
-- **Help an Ally**  
+- **Help an Ally**
   When you Help an Ally who is making an action roll, describe how you do so and roll an advantage die. Multiple players can spend Hope to help the same acting player, but that player only adds the highest result to their final total.
-- **Utilize an Experience**  
+- **Utilize an Experience**
   When you Utilize an Experience on a relevant roll, add its modifier to the result. You can spend multiple Hope to utilize multiple Experiences.
-- **Initiate a Tag Team Roll**  
+- **Initiate a Tag Team Roll**
   Spend 3 Hope to initiate a Tag Team roll, combining the actions of two PCs into one impressive act of synergy. When you make a Tag Team roll, both players roll their own rolls and choose which set of results to apply to the outcome.
-- **Activate a Hope Feature**  
+- **Activate a Hope Feature**
   A Hope Feature is any effect that allows (or requires) you to spend a specified amount of Hope to activate it. Class Hope features are class-specific features, detailed on your character sheet, that cost 3 Hope to activate.
 
 > ***Note:*** *When using a Hope Feature, if you rolled with Hope for that action, the Hope you gain from that roll can be spent on that feature (or toward it, if it requires spending multiple Hope).*

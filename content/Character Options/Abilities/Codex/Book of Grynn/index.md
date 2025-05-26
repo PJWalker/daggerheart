@@ -1,7 +1,7 @@
 ---
 title: Book of Grynn
 ---
-> **Level 4 Codex Grimoire**  
+> **Level 4 Codex Grimoire**
 > **Recall Cost:** 2
 
 **Arcane Deflection:** Once per long rest, spend a Hope to negate the damage of an attack targeting you or an ally within Very Close range.

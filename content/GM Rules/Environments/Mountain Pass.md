@@ -1,8 +1,8 @@
-***Tier 2 Traversal***  
-*Stony peaks that pierce the clouds, with a twisting path winding its way up and over through many switchbacks.*  
+***Tier 2 Traversal***
+*Stony peaks that pierce the clouds, with a twisting path winding its way up and over through many switchbacks.*
 **Impulses:** Exact a chilling toll in supplies and stamina, reveal magical slumber, slow down travel
 
-> **Difficulty:** 15  
+> **Difficulty:** 15
 > **Potential Adversaries:** Beasts (Bear, Giant Eagle, Glass Snake), Chaos Skull, Minotaur Wrecker, Mortal Hunter
 
 # Features

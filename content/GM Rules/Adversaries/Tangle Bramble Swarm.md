@@ -1,9 +1,9 @@
-***Tier 1 Horde (3/HP)***  
-*A cluster of animated, blood-drinking tumbleweeds, each the size of a large gourd.*  
+***Tier 1 Horde (3/HP)***
+*A cluster of animated, blood-drinking tumbleweeds, each the size of a large gourd.*
 **Motives & Tactics:** Digest, entangle, immobilize
 
-> **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3  
-> **ATK:** 0 | **Thorns:** Melee | 1d6+3 phy  
+> **Difficulty:** 12 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 3
+> **ATK:** 0 | **Thorns:** Melee | 1d6+3 phy
 
 # Features
 

@@ -1,9 +1,9 @@
-***Tier 2 Social***  
-*An accomplished manipulator and master of the social arts.*  
+***Tier 2 Social***
+*An accomplished manipulator and master of the social arts.*
 **Motives & Tactics:** Entice, maneuver, secure patrons
 
-> **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 3 | **Stress:** 4  
-> **ATK:** -3 | **Dagger:** Melee | 1d4+3 phy  
+> **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 3 | **Stress:** 4
+> **ATK:** -3 | **Dagger:** Melee | 1d4+3 phy
 
 # Features
 

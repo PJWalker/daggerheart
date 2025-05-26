@@ -1,4 +1,4 @@
-> **Level 8 Grace Spell**  
+> **Level 8 Grace Spell**
 > **Recall Cost:** 0
 
 Once per long rest, mark a Stress to create a projected copy of yourself that can appear anywhere you’ve been before.

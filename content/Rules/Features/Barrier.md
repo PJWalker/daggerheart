@@ -1,5 +1,5 @@
 ---
 tags: [linker-exclude]
 ---
-+N [[Armor Score]] 
--1 [[Evasion]] 
++N [[Armor Score]]
+-1 [[Evasion]]

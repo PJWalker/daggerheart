@@ -1,9 +1,9 @@
-***Tier 2 Social***  
-*An accomplished merchant with a large operation under their command.*  
+***Tier 2 Social***
+*An accomplished merchant with a large operation under their command.*
 **Motives & Tactics:** Abusive power, gather resources, mobilize minions
 
-> **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Rapier:** Melee | 1d6+2 phy  
+> **Difficulty:** 15 | **Thresholds:** 9/19 | **HP:** 5 | **Stress:** 3
+> **ATK:** +2 | **Rapier:** Melee | 1d6+2 phy
 
 # Features
 

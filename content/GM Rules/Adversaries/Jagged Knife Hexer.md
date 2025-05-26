@@ -1,9 +1,9 @@
-***Tier 1 Support***  
-*A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*  
+***Tier 1 Support***
+*A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*
 **Motives & Tactics:** Command, hex, profit
 
-> **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4  
-> **ATK:** +2 | **Staff:** Far | 1d6+2 mag  
+> **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4
+> **ATK:** +2 | **Staff:** Far | 1d6+2 mag
 
 # Features
 

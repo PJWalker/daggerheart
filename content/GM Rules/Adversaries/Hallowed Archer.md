@@ -1,9 +1,9 @@
-***Tier 4 Ranged***  
-*Spirit soldiers with sanctified bows.*  
+***Tier 4 Ranged***
+*Spirit soldiers with sanctified bows.*
 **Motives & Tactics:** Focus fire, obey, retribution, volley
 
-> **Difficulty:** 19 | **Thresholds:** 25/45 | **HP:** 3 | **Stress:** 2  
-> **ATK:** +4 | **Sanctified Longbow:** Far | 4d8+8 phy  
+> **Difficulty:** 19 | **Thresholds:** 25/45 | **HP:** 3 | **Stress:** 2
+> **ATK:** +4 | **Sanctified Longbow:** Far | 4d8+8 phy
 
 # Features
 

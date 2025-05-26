@@ -13,7 +13,7 @@ Advance the story through escalating action, new information, or changing circum
 # Tell Them what They Would Know
 Don’t hide obvious details or important information from the players.
 # Ground the World in Motive
-NPCs and creatures should act based on clear, coherent goals. 
+NPCs and creatures should act based on clear, coherent goals.
 # Reframe rather than Reject
 If a player’s suggestion or description is generally implausible or out of sync with what has been established in the game, try to find a way to reframe the situation and work with them rather than rejecting their idea outright. You might ask the table what it would take to accomplish a seemingly implausible task, or call out a more workable part of the suggestion and encourage the player to build on that aspect.
 # Work in Moments and Montages
@@ -22,6 +22,7 @@ When framing a scene, decide which beats should be savored and which shouldn’t
 Ensure players always feel comfortable shifting out of character to discuss something. Whether as creative collaborators or friends enjoying a game together, players should feel empowered to utilize safety tools during the game or ask for clarifications concerning the story or rules.
 
 ***
+
 # Pitfalls
 
 ## Undermining the Heroes

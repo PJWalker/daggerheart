@@ -25,5 +25,5 @@ When a character marks their last Hit Point, they fall. If a PC falls, they make
 Characters can clear Hit Points by taking downtime moves (see: Downtime) or by activating relevant special abilities or effects.
 
 > ***Optional Rule: Massive Damage***
-> 
+>
 > *If a character ever takes damage equal to twice their Severe threshold, they mark 4 HP instead of 3.*

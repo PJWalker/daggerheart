@@ -1,9 +1,9 @@
-***Tier 1 Standard***  
-*A faerie warrior adorned in armor made of leaves and bark.*  
+***Tier 1 Standard***
+*A faerie warrior adorned in armor made of leaves and bark.*
 **Motives & Tactics:** Ambush, hide, overwhelm, protect, trail
 
-> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2  
-> **ATK:** 0 | **Scythe:** Melee | 1d8+1 phy  
+> **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 4 | **Stress:** 2
+> **ATK:** 0 | **Scythe:** Melee | 1d8+1 phy
 
 # Features
 

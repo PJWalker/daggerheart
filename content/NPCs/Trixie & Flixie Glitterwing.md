@@ -6,7 +6,7 @@ draft: "true"
 
 Welcome to the home of the lovely [[Vinaeya]]
 Our saviour, our cleric, our benevolent mayor
-She's been gone for weeks though, maybe lost in prayer.
+She’s been gone for weeks though, maybe lost in prayer.
 …I have a new game, will you be its first player?
 
 I guess you could go in to drop off the package –
@@ -20,7 +20,7 @@ So to test you all out, you can all play my game!
 ***
 
 Oh you’ll have so much fun, you’ll have laughter and giggles
-And, I’ll open the door after… ohh… 19 riddles. 
+And, I’ll open the door after… ohh… 19 riddles.
 
 OR
 
@@ -35,8 +35,8 @@ but you’ll solve them much faster than to you it seems
 ***
 
 # Do We Have To?
-I don't make up the rules – that’s Ikla in the sky.
-But if you don't play my game, I will start to cry.
+I don’t make up the rules – that’s Ikla in the sky.
+But if you don’t play my game, I will start to cry.
 
 The tears of a fairy, have an embedded charm,
 If you just gaze upon them, they’ll bring you much harm.
@@ -60,7 +60,7 @@ But I’ve got lots of riddles; I’ll give them for free
 Cause without [[Vinaeya]] I’m getting lonely.
 # Flixie
 Flixie… she’s, well, Flixie — a drag and a bore
-She' puts me to sleep then complains ‘bout my snore
+She’ puts me to sleep then complains ‘bout my snore
 
 So to see all you people was quite the nice sight
 but… if you don’t want to play then, I’ll bid you goodnight.
@@ -70,7 +70,7 @@ If you e’er need assistance, she’s happy to help
 and her Havenite friends(?) called her out for a quest
 That was 5 weeks ago… and we don’t know the rest.
 # [[Places/Haven/index|Havenites]]
-They came wrapped in their armor; charged her with a crime 
+They came wrapped in their armor; charged her with a crime
 he said stuff about treason, said she was a consignee
 It seemed quite complicated; so a lot whizzed right by me
 but Vanaeya assured us it all would be fine… she
@@ -103,12 +103,12 @@ I’ll move right along, to question number two:
 ## Key
 I’ve been cut just once, and I did not bleed;
 I have many teeth, but no mouth to feed;
-Til I take my turn, all of you must yield, 
+Til I take my turn, all of you must yield,
 With me in your hand, an ingress is revealed;
 **—Key**
 
-Yes a key, a key, there's one under that stone;
-If you'd just picked that up, you could enter the home
+Yes a key, a key, there’s one under that stone;
+If you’d just picked that up, you could enter the home
 But since riddles you like; I’ve got many more,
 I… await your ovations & calls for encore?
 ## [[Rohkin]]
@@ -125,14 +125,14 @@ their name it sounds just barely different from me.
 ## The First Circle
 They made their oasis in body of snake
 But now all around them the land it doth bake
-— [[The First Circle]] / [[The Circle]] / [[Fanewick]] 
+— [[The First Circle]] / [[The Circle]] / [[Fanewick]]
 ## Your Word
-You must give us this thing, in order to keep it. 
-It’s not what you bring; you need only speak it. 
+You must give us this thing, in order to keep it.
+It’s not what you bring; you need only speak it.
 **— My Word**
 ## Letter
-I start with an L, and I end with an R, 
-Put me in an envelope and I’ll go far. 
+I start with an L, and I end with an R,
+Put me in an envelope and I’ll go far.
 **— Letter**
 ## Envelope
 I start with an E and I end with and E;
@@ -146,7 +146,7 @@ I’m not quite a barbie, but am a Mattel.
 	Trixie: This is my favourite one
 	Flixie: I wonder why.
 
-Yes, trixie – that’s me – you got it correct, 
+Yes, trixie – that’s me – you got it correct,
 flixie said you’d not get it; I’d say she got rekt.
 ## Oberon
 The king of my people, he sits on his throne

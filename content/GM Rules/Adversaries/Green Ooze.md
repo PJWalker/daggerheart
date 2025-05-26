@@ -1,9 +1,9 @@
-***Tier 1 Skulk***  
-*A moving mound of translucent green slime.*  
+***Tier 1 Skulk***
+*A moving mound of translucent green slime.*
 **Motives & Tactics:** Camouflage, consume and multiply, creep up, envelop
 
-> **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2  
-> **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 mag  
+> **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2
+> **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 mag
 
 # Features
 

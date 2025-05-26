@@ -1,4 +1,4 @@
-> **Level 1 Midnight Spell**  
+> **Level 1 Midnight Spell**
 > **Recall Cost:** 1
 
 Spend a Hope to make a Spellcast Roll and conjure throwing blades that strike out at all targets within Very Close range. Targets you succeed against take 1d8+2 magic damage using your Proficiency.

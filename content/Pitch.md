@@ -1,10 +1,10 @@
 The fanewoods were once a place of great abundance, teeming with vibrant flora and fauna, and communities that lived in harmony with the spirits of the forest.
 
-But something has tipped the world off balance. Instead of the normal waning as the woods moved into fall & winter, wherever you look, the have continued to spring forth endlessly. 
+But something has tipped the world off balance. Instead of the normal waning as the woods moved into fall & winter, wherever you look, the have continued to spring forth endlessly.
 
-Oversized Trees and blossoms so dense they blot out the sun. Wild creatures have grown into monstrosities, and villages on the forest’s edge struggle under the weight of the unchecked wilds. 
+Oversized Trees and blossoms so dense they blot out the sun. Wild creatures have grown into monstrosities, and villages on the forest’s edge struggle under the weight of the unchecked wilds.
 
-Meanwhile, Haven’s emissaries have discovered the secret to cultivating the ‘Maniflower', and seek to reclaim the Fanewoods in order to democratise the arcane, and bring about a revolutionary new source of magical power.
+Meanwhile, Haven’s emissaries have discovered the secret to cultivating the ‘Maniflower‘, and seek to reclaim the Fanewoods in order to democratise the arcane, and bring about a revolutionary new source of magical power.
 
 Why has the Great Owl Nikta left the fanewoods?
 
@@ -13,7 +13,7 @@ The gods of this world are demonstrably real, and several minor deities are comm
 
 ***
 
-The campaign is going to start on the way to Fanewick, so it should make sense that the character is there. So long as you’re on the east side of Aestia & south of Fulgon, it’s reasonable to just visit. If you’re on the *west* side, or off the map entirely, you’ve gone on a noteworthy trek to get here, and there’s probably a reason for that. 
+The campaign is going to start on the way to Fanewick, so it should make sense that the character is there. So long as you’re on the east side of Aestia & south of Fulgon, it’s reasonable to just visit. If you’re on the *west* side, or off the map entirely, you’ve gone on a noteworthy trek to get here, and there’s probably a reason for that.
 
 Anyone from Haven who wants to start off *in* the Haven Emissaries, or anyone in the west who wants to be doing a task for them; I’ve got a built-in reason for you. (You’re delivering a package). (Also, if no-one’s doing that, there’ll be a bit of a DMPC taking that role, just for this session, because – hey I prepped stuff.)
 

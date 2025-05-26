@@ -1,4 +1,4 @@
-> **Level 3 Splendor Ability**  
+> **Level 3 Splendor Ability**
 > **Recall Cost:** 1
 
 You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.

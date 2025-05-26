@@ -1,4 +1,4 @@
 ---
 tags: [common, consumable]
 ---
-Use to leap anywhere within far range. 
+Use to leap anywhere within far range.

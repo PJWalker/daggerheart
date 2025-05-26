@@ -1,4 +1,4 @@
-> **Level 7 Bone Ability**  
+> **Level 7 Bone Ability**
 > **Recall Cost:** 2
 
 When 4 or more of the domain cards in your loadout are from the Bone domain, gain the following benefits:

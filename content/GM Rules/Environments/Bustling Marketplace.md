@@ -1,8 +1,8 @@
-***Tier 1 Social***  
-*The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.*  
+***Tier 1 Social***
+*The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.*
 **Impulses:** Buy low, sell high, tempt and tantalize with wares from near and far
 
-> **Difficulty:** 10  
+> **Difficulty:** 10
 > **Potential Adversaries:** Guards (Bladed Guard, Head Guard), Masked Thief, Merchant
 
 # Features

@@ -1,9 +1,9 @@
-***Tier 2 Skulk***  
-*A half fish person with shimmering scales and an irresistible voice.*  
+***Tier 2 Skulk***
+*A half fish person with shimmering scales and an irresistible voice.*
 **Motives & Tactics:** Consume, lure prey, subdue with song
 
-> **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 5 | **Stress:** 3  
-> **ATK:** +2 | **Distended Jaw Bite:** Melee | 2d6+3 phy  
+> **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 5 | **Stress:** 3
+> **ATK:** +2 | **Distended Jaw Bite:** Melee | 2d6+3 phy
 
 # Features
 

@@ -1,9 +1,9 @@
-***Tier 3 Skulk***  
-*A translucent green mound of acid taller than most humans.*  
+***Tier 3 Skulk***
+*A translucent green mound of acid taller than most humans.*
 **Motives & Tactics:** Camouflage, creep up, envelop, multiply
 
-> **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +3 | **Ooze Appendage:** Melee | 3d8+1 mag  
+> **Difficulty:** 15 | **Thresholds:** 15/30 | **HP:** 7 | **Stress:** 4
+> **ATK:** +3 | **Ooze Appendage:** Melee | 3d8+1 mag
 
 # Features
 

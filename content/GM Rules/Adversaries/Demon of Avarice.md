@@ -1,9 +1,9 @@
-***Tier 3 Support***  
-*A regal cloaked monstrosity with circular horns adorned with treasure.*  
+***Tier 3 Support***
+*A regal cloaked monstrosity with circular horns adorned with treasure.*
 **Motives & Tactics:** Consume, fuel greed, sow dissent
 
-> **Difficulty:** 17 | **Thresholds:** 15/29 | **HP:** 6 | **Stress:** 5  
-> **ATK:** +2 | **Hungry Maw:** Melee | 3d6+5 mag  
+> **Difficulty:** 17 | **Thresholds:** 15/29 | **HP:** 6 | **Stress:** 5
+> **ATK:** +2 | **Hungry Maw:** Melee | 3d6+5 mag
 
 # Features
 

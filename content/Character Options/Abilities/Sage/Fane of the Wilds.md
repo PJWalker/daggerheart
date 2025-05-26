@@ -1,4 +1,4 @@
-> **Level 9 Sage Ability**  
+> **Level 9 Sage Ability**
 > **Recall Cost:** 2
 
 After a long rest, place a number of tokens equal to the number of Sage domain cards in your loadout and vault on this card.

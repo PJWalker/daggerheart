@@ -2,7 +2,7 @@
 tags: [npc]
 ---
 %%
-Wildborne Katari (he/him) 
+Wildborne Katari (he/him)
 
 Curious, Charismatic, Daring
 
@@ -15,4 +15,3 @@ Experience: Out of Sight +3; Dodge +2
 Difficulty: 14
 
 Motive: Visit all the thistlefolk villages.
-

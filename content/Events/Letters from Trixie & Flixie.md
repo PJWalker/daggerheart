@@ -2,8 +2,8 @@
 draft: "true"
 ---
 
-  Flixie & Trixie were tasked with sending out letters to the party, to invite them to meet her. 
-  
+  Flixie & Trixie were tasked with sending out letters to the party, to invite them to meet her.
+
   Flixie quickly sent out some relatively straightforward messages about the party, with a *hint* that the [[funeral]] needn’t get in the way of the plans.
 
 Trixie… wasted a lot of time trying to make the messages ‘fun’… which meant [[Vinaeya Starfen|Vinaeya]] had already ‘died’ before she sent them out. Which meant she needed to be even *more* careful about hiding the messages.
@@ -24,7 +24,7 @@ Hi – I’m throwing a party! But *shhh*, it’s a secret.
 Even though it’s been ages, I’m sure you remember where we (???). That’s where the party is!
 Let’s keep it intimate – no plus ones allowed. But I’m you’ll make a bunch of friends once you’re here.
 Please bring this letter to my place next Lildei, so we know you’re invited. 
-— Flixie 💖  
+— Flixie 💖
 
 ****
 
@@ -37,10 +37,10 @@ Estia’s where we’ll hold her wake
 
 ****
 
-Dear, 
+Dear,
 
 Vinaeya is *dying* to see you again – so we’re throwing a party!
-Given recent disturbances, I’m sure you’ll understand the need to keep things discreet. That means no blabbing – and sadly no plus-ones allowed – but we’re not going to let those Havenites stop us from having fun! 
+Given recent disturbances, I’m sure you’ll understand the need to keep things discreet. That means no blabbing – and sadly no plus-ones allowed – but we’re not going to let those Havenites stop us from having fun!
 
 We hope you’ll find many new friends among our special guests.
 
@@ -48,6 +48,5 @@ Come meet us at the bungalow as [[Rohkin - The Wandering Horn|Rohkina]] sets on 
 Keep this letter! The only way in is with a letter from me (or trixie) 😊
 
 — Flixie 💖
-**********
 
-  
+**********

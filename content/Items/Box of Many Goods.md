@@ -2,7 +2,7 @@
 tags: [uncommon]
 ---
 
-A small box that can only be opened once per long rest. 
+A small box that can only be opened once per long rest.
 
 When it is, roll `dice:1d12`
 

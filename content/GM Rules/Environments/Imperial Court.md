@@ -1,8 +1,8 @@
-***Tier 4 Social***  
-*The dazzling mansion of a powerful empire, lavishly appointed with stolen treasures.*  
+***Tier 4 Social***
+*The dazzling mansion of a powerful empire, lavishly appointed with stolen treasures.*
 **Impulses:** Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort
 
-> **Difficulty:** 20  
+> **Difficulty:** 20
 > **Potential Adversaries:** Bladed Guard, Courtesan, Knight of the Realm, Monarch, Spy
 
 # Features

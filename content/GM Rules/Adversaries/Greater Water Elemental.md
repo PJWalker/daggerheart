@@ -1,9 +1,9 @@
-***Tier 3 Support***  
-*A huge living wave that crashes down upon enemies.*  
+***Tier 3 Support***
+*A huge living wave that crashes down upon enemies.*
 **Motives & Tactics:** Deluge, disperse, drown
 
-> **Difficulty:** 17 | **Thresholds:** 17/34 | **HP:** 5 | **Stress:** 5  
-> **ATK:** +3 | **Crashing Wave:** Very Close | 3d4+1 mag  
+> **Difficulty:** 17 | **Thresholds:** 17/34 | **HP:** 5 | **Stress:** 5
+> **ATK:** +3 | **Crashing Wave:** Very Close | 3d4+1 mag
 
 # Features
 

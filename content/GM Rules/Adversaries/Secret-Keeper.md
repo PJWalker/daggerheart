@@ -1,9 +1,9 @@
-***Tier 2 Leader***  
-*A clandestine leader with a direct channel to the Fallen Gods.*  
+***Tier 2 Leader***
+*A clandestine leader with a direct channel to the Fallen Gods.*
 **Motives & Tactics:** Amass great power, plot, take command
 
-> **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4  
-> **ATK:** +3 | **Sigil-Laden Staff:** Far | 2d12 mag  
+> **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4
+> **ATK:** +3 | **Sigil-Laden Staff:** Far | 2d12 mag
 
 # Features
 

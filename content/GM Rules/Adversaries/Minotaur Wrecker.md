@@ -1,9 +1,9 @@
-***Tier 2 Bruiser***  
-*A massive bull-headed hybrid with a quick temper.*  
+***Tier 2 Bruiser***
+*A massive bull-headed hybrid with a quick temper.*
 **Motives & Tactics:** Consume, gore, navigate, overpower, pursue
 
-> **Difficulty:** 16 | **Thresholds:** 14/27 | **HP:** 7 | **Stress:** 5  
-> **ATK:** +2 | **Battleaxe:** Very Close | 2d8+5 phy  
+> **Difficulty:** 16 | **Thresholds:** 14/27 | **HP:** 7 | **Stress:** 5
+> **ATK:** +2 | **Battleaxe:** Very Close | 2d8+5 phy
 
 # Features
 

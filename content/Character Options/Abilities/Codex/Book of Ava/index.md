@@ -2,7 +2,7 @@
 title: Book of Ava
 ---
 
-> **Level 1 Codex Grimoire**  
+> **Level 1 Codex Grimoire**
 > **Recall Cost:** 2
 
 ![[Power Push]]

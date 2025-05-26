@@ -1,9 +1,9 @@
-***Tier 4 Solo***  
-*A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.*  
+***Tier 4 Solo***
+*A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.*
 **Motives & Tactics:** Consume, crush, drown, grapple
 
-> **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8  
-> **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy  
+> **Difficulty:** 20 | **Thresholds:** 35/70 | **HP:** 11 | **Stress:** 8
+> **ATK:** +7 | **Tentacles:** Close | 4d12+10 phy
 
 # Features
 
