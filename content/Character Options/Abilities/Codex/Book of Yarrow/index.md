@@ -1,3 +1,7 @@
+---
+title: Book of Yarrow
+---
+
 > **Level 10 Codex Grimoire**  
 > **Recall Cost:** 2
 

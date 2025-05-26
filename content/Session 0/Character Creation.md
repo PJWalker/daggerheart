@@ -58,7 +58,7 @@ More broadly, [[PC|PCs]] of a normal age range will have grown up in a period of
 Your character should have some connection to Vinaeya that gives you a reason to be willing to do her a big favour. This is what’ll get all the players into the same room.
 
 Ideas include:
-- You’re in her family (note: she’s a [[Rules/Ancestries/Faun]]) 
+- You’re in her family (note: she’s a [[Faun]]) 
 - You’re a close friend
 - You owe her a debt
 - She has previously saved your life

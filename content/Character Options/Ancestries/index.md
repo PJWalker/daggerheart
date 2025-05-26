@@ -18,24 +18,24 @@ If you’d like to make a character who combines more than one ancestry, see “
 
 **The 18 Ancestries are:**
 
-- [Clank](Rules/Ancestries/Clank.md)
+- [Clank](Clank.md)
 - [Dracona](Dracona.md)
-- [Dwarf](Rules/Ancestries/Dwarf.md)
-- [Elf](Rules/Ancestries/Elf.md)
+- [Dwarf](Dwarf.md)
+- [Elf](Elf.md)
 - [Farie](Farie.md)
-- [Faun](Rules/Ancestries/Faun.md)
-- [Firbolg](Rules/Ancestries/Firbolg.md)
-- [Fungril](Rules/Ancestries/Fungril.md)
-- [Galapa](Rules/Ancestries/Galapa.md)
-- [Giant](Rules/Ancestries/Giant.md)
-- [Goblin](Rules/Ancestries/Goblin.md)
-- [Halfling](Rules/Ancestries/Halfling.md)
-- [Human](Rules/Ancestries/Human.md)
+- [Faun](Faun.md)
+- [Firbolg](Firbolg.md)
+- [Fungril](Fungril.md)
+- [Galapa](Galapa.md)
+- [Giant](Giant.md)
+- [Goblin](Goblin.md)
+- [Halfling](Halfling.md)
+- [Human](Human.md)
 - [Infernis](Infernis.md)
-- [Katari](Rules/Ancestries/Katari.md)
-- [Orc](Rules/Ancestries/Orc.md)
+- [Katari](Katari.md)
+- [Orc](Orc.md)
 - [Ribbit](Ribbit.md)
-- [Simiah](Rules/Ancestries/Simiah.md)
+- [Simiah](Simiah.md)
 
 # Mixed Ancestry
 

@@ -1,3 +1,7 @@
+---
+title: Book of Norai
+---
+
 > **Level 3 Codex Grimoire**  
 > **Recall Cost:** 2
 

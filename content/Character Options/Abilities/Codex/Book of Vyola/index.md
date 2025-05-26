@@ -1,3 +1,7 @@
+---
+title: Book of Vyola
+---
+
 > **Level 8 Codex Grimoire**  
 > **Recall Cost:** 2
 

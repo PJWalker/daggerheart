@@ -3,8 +3,8 @@ aliases: [Fulgonite, Fulgonites]
 ---
 
 A mountainous region to the northeast
-- Most [[Rules/Ancestries/Goblin|Goblins]], [[Inferis]], [[Rules/Ancestries/Giant|Giants]], [[Rules/Ancestries/Faun|Fauns]] and [[Drakona]] live here
-- [[Rules/Ancestries/Dwarf|Dwarves]] & [[Rules/Ancestries/Orc|Orcs]] are also common.
+- Most [[Goblin|Goblins]], [[Inferis]], [[Giant|Giants]], [[Faun|Fauns]] and [[Drakona]] live here
+- [[Dwarf|Dwarves]] & [[Orc|Orcs]] are also common.
 - [[The Endless Spring]] means there’s no snow here
 
 > [!question] Why are you coming down from the mountains *now*? It isn’t exactly looking great down here.

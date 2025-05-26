@@ -1,3 +1,7 @@
+---
+title: Book of Ronin
+---
+
 > **Level 9 Codex Grimoire**  
 > **Recall Cost:** 4
 

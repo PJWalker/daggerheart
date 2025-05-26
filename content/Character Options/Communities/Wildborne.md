@@ -1,6 +1,3 @@
----
-publish: "true"
----
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Wildborne
 
 Most Wildborne were raised in the deadly environment of [[Fanewick]]. Each has unique customs that allow them safe passage through dangerous terrain and the territory of Faint Divinities, which may be freely shared, or closely guarded secrets.
@@ -22,3 +19,11 @@ OTOH, Wildborne is essentially the ‘default’ Wickan community and needs no p
 > [!question] What do you think is the cause of the endless spring?
 
 ![[Wildborne-1747776068523.webp]]
+
+Being part of a wildborne community means you lived deep within the forest. Wildborne communities are defined by their dedication to the conservation of their homelands, and many have strong religious or cultural ties to the fauna they live among. This results in unique architectural and technological advancements that favor sustainability over short-term, high-yield results. It is a hallmark of wildborne societies to integrate their villages and cities with the natural environment and avoid disturbing the lives of the plants and animals. While some construct their lodgings high in the branches of trees, others establish their homes on the ground beneath the forest canopy. It’s not uncommon for wildborne to remain reclusive and hidden within their woodland homes.
+
+*Wildborne are often hardy, loyal, nurturing, reclusive, sagacious, and vibrant.*
+
+## Community Feature
+
+***Lightfoot:*** Your movement is naturally silent. You have advantage on rolls to move without being heard.

@@ -1,3 +1,7 @@
+---
+title: Book of Vagras
+---
+
 > **Level 2 Codex Grimoire**  
 > **Recall Cost:** 2
 
