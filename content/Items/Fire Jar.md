@@ -1,5 +1,7 @@
 ---
-tags: [common]
+publish: "true"
+tags: [Item]
 ---
+# Fire Jar
 
-The contents instantly ignite when poured. The contents regenerate with a long rest.
+You can pour out the strange liquid contents of this jar to instantly produce fire. The contents regenerate when you take a long rest.

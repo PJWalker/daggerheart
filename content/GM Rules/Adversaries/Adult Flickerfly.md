@@ -1,9 +1,12 @@
-***Tier 3 Solo***
+---
+publish: "false"
+---
+***#Tier3 Solo***
 *A winged insect the size of a large house with iridescent scales and wings that move too fast to track.*
 **Motives & Tactics:** Collect shiny things, hunt, nest, swoop
 
 > **Difficulty:** 17 | **Thresholds:** 20/35 | **HP:** 12 | **Stress:** 6
-> **ATK:** +3 | **Wing Slash:** Very Close | 3d20 phy
+> **ATK:** +3 | **Wing Slash:** Very Close | 3d20 physical
 
 # Features
 

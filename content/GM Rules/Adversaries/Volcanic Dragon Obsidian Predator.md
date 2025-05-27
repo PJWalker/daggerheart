@@ -1,9 +1,12 @@
-***Tier 4 Solo***
+---
+publish: "false"
+---
+***#Tier4 Solo***
 *A massive winged creature with obsidian scales and impossibly sharp claws.*
 **Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
 
 > **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5
-> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 phy
+> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 physical
 
 # Features
 

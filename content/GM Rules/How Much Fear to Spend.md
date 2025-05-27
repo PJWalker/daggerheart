@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 | **Scene Type** | **Example Scenes**                                                                                                                                                               | **Amount of Fear Spent** |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | Incidental     | A catch-up between PCs after an emotionally charged scene; gathering information; resupplying at a local market; resting during downtime.                                        | 0–1 Fear                 |

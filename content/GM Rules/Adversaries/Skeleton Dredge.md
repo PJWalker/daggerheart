@@ -1,9 +1,12 @@
-***Tier 1 Minion***
+---
+publish: "false"
+---
+***#Tier1 Minion***
 *A clattering pile of bones.*
 **Motives & Tactics:** Fall apart, overwhelm, play dead, steal skin
 
 > **Difficulty:** 8 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -1 | **Bone Claws:** Melee | 1 phy
+> **ATK:** -1 | **Bone Claws:** Melee | 1 physical
 
 # Features
 

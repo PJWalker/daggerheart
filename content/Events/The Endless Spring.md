@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 [[Nikta - Shepherd of Seasons|Nikta]] has shepherded in the seasons since time immemorial. But [[Nikta - Shepherd of Seasons|Nikta]] has gone quiet;
 
 Fall hasn’t happened for ~50 cycles.

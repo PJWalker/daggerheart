@@ -1,8 +1,11 @@
-Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.
+---
+publish: "true"
+---
+Play the Nightwalker if you want to manipulate shadows to manoeuvre through the environment.
 
 # Spellcast Trait
 
-Finesse
+[[Finesse]]
 
 # Foundation Feature
 

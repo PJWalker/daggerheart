@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 # Distances
 On a VTT, IMO the most straightforward thing is to just use euclidean distance. In the interest of just letting pathfinder rules work if you’re using them, I’ll set the distances ever so slightly longer than the grid size:
 

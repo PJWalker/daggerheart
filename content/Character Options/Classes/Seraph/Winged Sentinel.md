@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.
 
 # Spellcast Trait
 
-Strength
+[[Strength]]
 
 # Foundation Feature
 

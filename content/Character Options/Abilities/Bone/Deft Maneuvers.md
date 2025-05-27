@@ -1,4 +1,7 @@
-> **Level 1 Bone Ability**
+---
+publish: "true"
+---
+> **Level 1 [[Character Options/Abilities/Bone/index|Bone]] Ability**
 > **Recall Cost:** 0
 
 Once per rest, mark a Stress to sprint anywhere within Far range without making an Agility Roll to get there.

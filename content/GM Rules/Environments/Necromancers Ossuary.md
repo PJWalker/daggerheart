@@ -1,4 +1,7 @@
-***Tier 4 Exploration***
+---
+publish: "false"
+---
+***#Tier4 Exploration***
 *A dusty crypt with a library, twisting corridors, and abundant sarcophagi; spattered with the blood of ill-fated invaders.*
 **Impulses:** Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead
 

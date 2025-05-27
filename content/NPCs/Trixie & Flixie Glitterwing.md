@@ -1,6 +1,6 @@
 ---
 tags: [npc]
-draft: "true"
+publish: "false"
 ---
 ![[Trixie & Flixie Glitterwing-1746997650114.webp]] ![[Trixie & Flixie Glitterwing-1746997669483.webp]]
 

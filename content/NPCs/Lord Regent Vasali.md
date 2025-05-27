@@ -1,6 +1,6 @@
 ---
 tags: [npc]
-draft: "true"
+publish: "false"
 ---
 ![[Lord Regent Vasali-1747005192933.webp]]
 - Interim leader of [[Places/Haven/index]].

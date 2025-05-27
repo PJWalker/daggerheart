@@ -1,15 +1,16 @@
 ---
+publish: "true"
 title: Ranger
 ---
 
 Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.
 
-> **• DOMAINS:** [index](Character%20Options/Abilities/Bone/index.md) & [index](Character%20Options/Abilities/Sage/index.md)
+> **• DOMAINS:** [[Character Options/Abilities/Bone/index|Bone]] & [[Character Options/Abilities/Sage/index|Sage]]
 > **• STARTING EVASION:** 12
 > **• STARTING HIT POINTS:** 6
 > **• CLASS ITEMS:** A trophy from your first kill or a seemingly broken compass
 
-# RANGER’S Hope Feature
+# Hope Feature
 
 ***Hold Them Off:*** Spend 3 Hope when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.
 

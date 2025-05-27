@@ -1,9 +1,12 @@
-***Tier 2 Bruiser***
+---
+publish: "false"
+---
+***#Tier2 Bruiser***
 *A large aquatic predator, always on the move.*
 **Motives & Tactics:** Find the blood, isolate prey, target the weak
 
 > **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3
-> **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 phy
+> **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 physical
 
 # Features
 

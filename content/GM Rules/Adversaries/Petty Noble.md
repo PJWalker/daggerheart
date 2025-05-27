@@ -1,9 +1,12 @@
-***Tier 1 Social***
+---
+publish: "false"
+---
+***#Tier1 Social***
 *A richly dressed and adorned aristocrat brimming with hubris.*
 **Motives & Tactics:** Abuse power, gather resources, mobilize minions
 
 > **Difficulty:** 14 | **Thresholds:** 6/10 | **HP:** 3 | **Stress:** 5
-> **ATK:** -3 | **Rapier:** Melee | 1d6+1 phy
+> **ATK:** -3 | **Rapier:** Melee | 1d6+1 physical
 
 # Features
 

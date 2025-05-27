@@ -1,9 +1,12 @@
-***Tier 2 Solo***
+---
+publish: "false"
+---
+***#Tier2 Solo***
 *A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*
 **Motives & Tactics:** Collect shiny things, hunt, swoop
 
 > **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 10 | **Stress:** 5
-> **ATK:** +3 | **Wing Slash:** Very Close | 2d10+4 phy
+> **ATK:** +3 | **Wing Slash:** Very Close | 2d10+4 physical
 
 # Features
 

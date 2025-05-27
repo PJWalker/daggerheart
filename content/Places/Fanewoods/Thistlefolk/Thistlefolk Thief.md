@@ -1,10 +1,10 @@
 ![[Thistlefolk Thief.webp]]
 
-***Tier 1 Leader***
+***#Tier1 Leader***
 
 **Difficulty:** 14 | **Thresholds:**7/14 | **HP:** 4 | **Stress:** 2
 
-**ATK:** +3 | **Serrated Blade:**Melee | 2d4+3 phy
+**ATK:** +3 | **Serrated Blade:**Melee | 2d4+3 physical
 
 # Features
 

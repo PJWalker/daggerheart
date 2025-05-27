@@ -1,4 +1,7 @@
-***Tier 1 Exploration***
+---
+publish: "false"
+---
+***#Tier1 Exploration***
 *A former druidic grove lying fallow and fully reclaimed by nature.*
 **Impulses:** Draw in the curious, echo the past
 

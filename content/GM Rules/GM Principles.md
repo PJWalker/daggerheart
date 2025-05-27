@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 # Play to Find out what Happens
 Be surprised by what the characters do, the choices they make, and the people they become.
 # Ask Questions & Incorporate the Answers

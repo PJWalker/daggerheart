@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 If you find yourself coming into a battle with a large amount of Fear (especially over 10), consider the following approaches:
 
 # Act First

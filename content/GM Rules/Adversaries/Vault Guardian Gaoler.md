@@ -1,9 +1,12 @@
-***Tier 3 Support***
+---
+publish: "false"
+---
+***#Tier3 Support***
 *A boxy, dust-covered construct with thick metallic swinging doors on their torso.*
 **Motives & Tactics:** Carry away, entrap, protect, pummel
 
 > **Difficulty:** 16 | **Thresholds:** 19/33 | **HP:** 5 | **Stress:** 3
-> **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 phy
+> **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 physical
 
 # Features
 

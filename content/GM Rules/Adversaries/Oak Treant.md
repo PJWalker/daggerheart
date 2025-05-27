@@ -1,9 +1,12 @@
-***Tier 3 Bruiser***
+---
+publish: "false"
+---
+***#Tier3 Bruiser***
 *A sturdy animated old-growth tree.*
 **Motives & Tactics:** Hide in plain sight, preserve the forest, root down, swing branches
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 4
-> **ATK:** +2 | **Branch:** Very Close | 3d8+2 phy
+> **ATK:** +2 | **Branch:** Very Close | 3d8+2 physical
 
 # Features
 

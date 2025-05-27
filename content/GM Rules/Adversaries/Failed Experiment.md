@@ -1,9 +1,12 @@
-***Tier 2 Standard***
+---
+publish: "false"
+---
+***#Tier2 Standard***
 *A magical necromantic experiment gone wrong, leaving them warped and ungainly.*
 **Motives & Tactics:** Devour, hunt, track
 
 > **Difficulty:** 13 | **Thresholds:** 12/23 | **HP:** 3 | **Stress:** 3
-> **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 phy
+> **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 physical
 
 # Features
 

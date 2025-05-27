@@ -1,4 +1,7 @@
-> **Level 8 Midnight Spell**
+---
+publish: "true"
+---
+> **Level 8 [[Character Options/Abilities/Midnight/index|Midnight]] Spell**
 > **Recall Cost:** 1
 
 When you take magic damage, place tokens equal to the number of Hit Points you marked on this card. You can store a number of tokens equal to your Spellcast trait.

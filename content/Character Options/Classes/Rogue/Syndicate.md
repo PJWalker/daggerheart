@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Syndicate if you want to have a web of contacts everywhere you go.
 
 # Spellcast Trait
 
-Finesse
+[[Finesse]]
 
 # Foundation Feature
 

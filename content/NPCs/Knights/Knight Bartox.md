@@ -1,5 +1,5 @@
 ---
 tags: [npc]
-draft: "true"
+publish: "false"
 ---
 ![[Knight Bartox-1747110632374.webp]]

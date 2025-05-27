@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Clank
 
 > [!Question]- Who made you? For what purpose? Are you fulfilling your purpose?

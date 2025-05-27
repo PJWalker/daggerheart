@@ -1,6 +1,8 @@
 ---
+publish: "true"
 title: Daggerheart Campaign Docs
 ---
+
 %%
 > [!Danger] GM-ONLY CONTENT VISIBLE
 > If you’re not Paul, stop looking here

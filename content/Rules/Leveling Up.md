@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Your party levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions). All party members level up at the same time.
 
 Daggerheart has 10 PC levels divided into 4 tiers:

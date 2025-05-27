@@ -1,9 +1,12 @@
-***Tier 3 Minion***
+---
+publish: "false"
+---
+***#Tier3 Minion***
 *A blazing mote of elemental fire.*
 **Motives & Tactics:** Blast, consume, gain mass
 
 > **Difficulty:** 15 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** +0 | **Burst of Fire:** Close | 5 mag
+> **ATK:** +0 | **Burst of Fire:** Close | 5 magic
 
 # Features
 

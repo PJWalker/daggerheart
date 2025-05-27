@@ -1,4 +1,7 @@
-***Tier 4 Event***
+---
+publish: "false"
+---
+***#Tier4 Event***
 *A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.*
 **Impulses:** Collect power, overawe, silence dissent
 

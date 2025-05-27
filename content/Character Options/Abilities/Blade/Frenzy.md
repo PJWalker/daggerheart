@@ -1,4 +1,7 @@
-> **Level 8 Blade Ability**
+---
+publish: "true"
+---
+> **Level 8 [[Character Options/Abilities/Blade/index|Blade]] Ability**
 > **Recall Cost:** 3
 
 Once per long rest, you can go into a Frenzy until there are no more adversaries within sight.

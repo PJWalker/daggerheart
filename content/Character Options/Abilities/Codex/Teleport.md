@@ -1,4 +1,7 @@
-> **Level 5 Codex Spell**
+---
+publish: "true"
+---
+> **Level 5 [[Character Options/Abilities/Codex/index|Codex]] Spell**
 > **Recall Cost:** 2
 
 Once per long rest, you can instantly teleport yourself and any number of willing targets within Close range to a place you’ve been before. Choose one of the following options, then make a Spellcast Roll (16):

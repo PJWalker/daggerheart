@@ -1,4 +1,7 @@
-> **Level 9 Valor Ability**
+---
+publish: "true"
+---
+> **Level 9 [[Character Options/Abilities/Valor/index|Valor]] Ability**
 > **Recall Cost:** 1
 
 Describe the defensive stance you take and spend a Hope. If an adversary moves within Very Close range, they’re pulled into Melee range and Restrained.

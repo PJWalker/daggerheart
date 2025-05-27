@@ -1,4 +1,7 @@
-***Tier 2 Event***
+---
+publish: "false"
+---
+***#Tier2 Event***
 *A fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.*
 **Impulses:** Profane the land, unite the Mortal Realm with the Circles Below
 

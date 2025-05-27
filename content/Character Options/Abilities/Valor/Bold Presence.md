@@ -1,4 +1,7 @@
-> **Level 2 Valor Ability**
+---
+publish: "true"
+---
+> **Level 2 [[Character Options/Abilities/Valor/index|Valor]] Ability**
 > **Recall Cost:** 0
 
 When you make a Presence Roll, you can spend a Hope to add your Strength to the roll.

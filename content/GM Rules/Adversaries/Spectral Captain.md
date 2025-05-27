@@ -1,9 +1,12 @@
-***Tier 2 Leader***
+---
+publish: "false"
+---
+***#Tier2 Leader***
 *A ghostly commander leading their troops beyond death.*
 **Motives & Tactics:** Move through solid objects, rally troops, rehash old battles
 
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
-> **ATK:** +3 | **Longbow:** Far | 2d10+3 phy
+> **ATK:** +3 | **Longbow:** Far | 2d10+3 physical
 
 # Features
 

@@ -1,9 +1,12 @@
-***Tier 1 Social***
+---
+publish: "false"
+---
+***#Tier1 Social***
 *An ambitious and ostentatiously dressed socialite.*
 **Motives & Tactics:** Discreet, gain favor, maneuver, scheme
 
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 4
-> **ATK:** -4 | **Daggers:** Melee | 1d4+2 phy
+> **ATK:** -4 | **Daggers:** Melee | 1d4+2 physical
 
 # Features
 

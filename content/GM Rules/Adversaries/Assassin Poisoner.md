@@ -1,9 +1,12 @@
-***Tier 2 Skulk***
+---
+publish: "false"
+---
+***#Tier2 Skulk***
 *A cunning scoundrel skilled in both poisons and ambushing.*
 **Motives & Tactics:** Anticipate, get paid, kill, taint food and water
 
 > **Difficulty:** 14 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 4
-> **ATK:** +3 | **Poisoned Throwing Dagger:** Close | 2d8+1 phy
+> **ATK:** +3 | **Poisoned Throwing Dagger:** Close | 2d8+1 physical
 
 # Features
 

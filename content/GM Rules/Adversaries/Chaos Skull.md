@@ -1,9 +1,12 @@
-***Tier 2 Ranged***
+---
+publish: "false"
+---
+***#Tier2 Ranged***
 *A floating humanoid skull animated by scintillating magic.*
 **Motives & Tactics:** Cackle, consume magic, serve creator
 
 > **Difficulty:** 15 | **Thresholds:** 8/16 | **HP:** 5 | **Stress:** 4
-> **ATK:** +2 | **Energy Blast:** Close | 2d8+3 mag
+> **ATK:** +2 | **Energy Blast:** Close | 2d8+3 magic
 
 # Features
 

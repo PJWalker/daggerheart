@@ -1,9 +1,12 @@
-***Tier 1 Standard***
+---
+publish: "false"
+---
+***#Tier1 Standard***
 *An armored guard bearing a sword and shield painted in the settlement’s colors.*
 **Motives & Tactics:** Arrest, close gates, make it through the day, pin down
 
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 5 | **Stress:** 2
-> **ATK:** +1 | **Longsword:** Melee | 1d6+1 phy
+> **ATK:** +1 | **Longsword:** Melee | 1d6+1 physical
 
 # Features
 

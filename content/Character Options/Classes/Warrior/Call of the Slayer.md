@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Play the Call of the Slayer if you want to strike down adversaries with immense force.
 
 # Foundation Feature

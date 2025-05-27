@@ -1,9 +1,12 @@
-***Tier 1 Ranged***
+---
+publish: "false"
+---
+***#Tier1 Ranged***
 *A lanky bandit striking from cover with a shortbow.*
 **Motives & Tactics:** Ambush, hide, profit, reposition
 
 > **Difficulty:** 13 | **Thresholds:** 4/7 | **HP:** 3 | **Stress:** 2
-> **ATK:** -1 | **Shortbow:** Far | 1d10+2 phy
+> **ATK:** -1 | **Shortbow:** Far | 1d10+2 physical
 
 # Features
 

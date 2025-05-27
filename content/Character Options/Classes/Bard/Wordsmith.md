@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Wordsmith if you want to use clever wordplay and captivate crowds.
 
 # Spellcast Trait
 
-Presence
+[[Presence]]
 
 # Foundation Features
 

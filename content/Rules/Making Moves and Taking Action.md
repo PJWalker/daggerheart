@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
 
 # Action Rolls

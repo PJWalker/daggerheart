@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Loreborne
 
  Loreborne community members are the wealthiest in the Fanewick and might be smaller, distinct groups of historians or artisans within larger villages

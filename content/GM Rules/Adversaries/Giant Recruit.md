@@ -1,9 +1,12 @@
-***Tier 2 Minion***
+---
+publish: "false"
+---
+***#Tier2 Minion***
 *A giant fighter undergoing borrowed armor.*
 **Motives & Tactics:** Batter, make a living, overwhelm, terrify
 
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 2
-> **ATK:** +1 | **Warhammer:** Very Close | 5 phy
+> **ATK:** +1 | **Warhammer:** Very Close | 5 physical
 
 # Features
 

@@ -1,4 +1,7 @@
-> **Level 4 Splendor Spell**
+---
+publish: "true"
+---
+> **Level 4 [[Character Options/Abilities/Splendor/index|Splendor]] Spell**
 > **Recall Cost:** 1
 
 Spend 3 Hope and choose an ally within Close range. They are marked with a glowing sigil of protection. When this ally would make a death move, they clear a Hit Point instead.

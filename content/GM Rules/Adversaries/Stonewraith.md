@@ -1,9 +1,12 @@
-***Tier 2 Skulk***
+---
+publish: "false"
+---
+***#Tier2 Skulk***
 *A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.*
 **Motives & Tactics:** Defend territory, isolate prey, stalk
 
 > **Difficulty:** 13 | **Thresholds:** 11/22 | **HP:** 6 | **Stress:** 3
-> **ATK:** +3 | **Bite and Claws:** Melee | 2d8+6 phy
+> **ATK:** +3 | **Bite and Claws:** Melee | 2d8+6 physical
 
 # Features
 

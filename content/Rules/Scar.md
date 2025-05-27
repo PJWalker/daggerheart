@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 If you choose to avoid death, you might take a **scar**. If you do, cross out one of your Hope slots. You can’t use this slot anymore.
 
 This may represent a physical scar, a painful memory, or a deep fear.

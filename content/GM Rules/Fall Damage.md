@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 If a character falls to the ground, you can use the following as a guide to determine the damage they take:
 
 - A fall from Very Close range deals 1d10+3 physical damage.

@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Warden of Renewal if you want to use powerful magic to heal your party.
 
 # Spellcast Trait
 
-Instinct
+[[Instinct]]
 
 # Foundation Features
 

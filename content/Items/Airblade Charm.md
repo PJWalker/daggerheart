@@ -1,5 +1,7 @@
 ---
-tags: [uncommon]
+publish: "true"
+tags: [Item]
 ---
-Affix to a weapon.
-While affixed, 3 times per short rest, the weapon may attack a [[Close]] target
+# Airblade Charm
+
+You can attach this charm to a weapon with a Melee range. Three times per rest, you can activate the charm and attack a target within Close range.

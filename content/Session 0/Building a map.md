@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 If you know at character creation that you’ll be running a campaign, you can bring a blank map to your session zero to fill out together. Otherwise, you can always introduce it at the top of your next session to integrate into your game moving forward.
 
 To start, place the map on the table and explain to the players that you’ll be using it to build the region together. Choose the name of the region from the options available (or make up your own) and write that name on the sheet. If you’re using a campaign frame, the name of the region is provided for you.
@@ -12,10 +16,6 @@ After the table feels happy with the details they’ve added, take the map back 
 
 # Filling Space, Leaving Blanks
 
-As part of the prep for your next session, you’ll want to review the map your table built together. Think about how the locations your players created might affect the region, and add anything you think might be important or relevant to the sheet. For example, if someone labeled a spot with “The Healing Fields,” you might consider adding a town nearby that specializes in creating 
+As part of the prep for your next session, you’ll want to review the map your table built together. Think about how the locations your players created might affect the region, and add anything you think might be important or relevant to the sheet. For example, if someone labelled a spot with “The Healing Fields,” you might consider adding a town nearby that specialises in creating Health Potions or curing ailments, or a mage’s tower that overlooks the fields to protect them. Pay attention to where the PCs currently are in their journey—where might they consider going next?
 
-Health Potions
-
- or curing ailments, or a mage’s tower that overlooks the fields to protect them. Pay attention to where the PCs currently are in their journey—where might they consider going next?
-
-It’s also important to leave blanks. Don’t feel the need to fill everything in, and don’t worry about planning out what every labeled landmark or town is like. Leaving some things vague gives you the freedom to adapt on the fly and reduces the amount of worldbuilding work you have to do for places your players might never visit.
+It’s also important to leave blanks. Don’t feel the need to fill everything in, and don’t worry about planning out what every labelled landmark or town is like. Leaving some things vague gives you the freedom to adapt on the fly and reduces the amount of worldbuilding work you have to do for places your players might never visit.

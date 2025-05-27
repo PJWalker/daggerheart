@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Highborne
 
 The wealthiest [[Places/Haven/index|Havenites]] are the Highborne, having inherited riches that were built over generations in the walled city. While they are more insulated from Ophid’s Grasp, they are not immune.

@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 | Item                                       | Price        |
 | ------------------------------------------ | ------------ |
 | Meals for a party of adventurers per night | 1 Handful    |

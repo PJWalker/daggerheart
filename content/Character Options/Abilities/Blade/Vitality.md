@@ -1,4 +1,7 @@
-> **Level 5 Blade Ability**
+---
+publish: "true"
+---
+> **Level 5 [[Character Options/Abilities/Blade/index|Blade]] Ability**
 > **Recall Cost:** 0
 
 When you choose this card, permanently gain two of the following benefits:

@@ -8,4 +8,4 @@ There’s no firm distinction between ‘magical’ and ‘mundane’ effects, b
 
 Strings can be vibrating in tension or in harmony.
 
-These strings pass through all realms, leading to the evolution of each realm . Due to the , the effects of the will vibrate with and usually destructively interfere with those of the
+These strings pass through all realms, leading to the evolution of each realm. Due to the, the effects of the will vibrate with and usually destructively interfere with those of the

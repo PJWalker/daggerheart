@@ -1,9 +1,12 @@
-***Tier 4 Minion***
+---
+publish: "false"
+---
+***#Tier4 Minion***
 *Souls of the faithful, lifted up with divine weaponry.*
 **Motives & Tactics:** Obey, outmaneuver, punish, swarm
 
 > **Difficulty:** 18 | **Thresholds:** None | **HP:** 1 | **Stress:** 2
-> **ATK:** +2 | **Sword and Shield:** Melee | 10 phy
+> **ATK:** +2 | **Sword and Shield:** Melee | 10 physical
 
 # Features
 

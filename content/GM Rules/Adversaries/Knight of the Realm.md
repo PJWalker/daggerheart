@@ -1,9 +1,12 @@
-***Tier 2 Leader***
+---
+publish: "false"
+---
+***#Tier2 Leader***
 *A decorated soldier with heavy armor and a powerful steed.*
 **Motives & Tactics:** Run down, seek glory, show dominance
 
 > **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
-> **ATK:** +4 | **Longsword:** Melee | 2d10+4 phy
+> **ATK:** +4 | **Longsword:** Melee | 2d10+4 physical
 
 # Features
 

@@ -1,4 +1,7 @@
-> **Level 10 Midnight Spell**
+---
+publish: "true"
+---
+> **Level 10 [[Character Options/Abilities/Midnight/index|Midnight]] Spell**
 > **Recall Cost:** 2
 
 Make a Spellcast Roll (16). Once per long rest on a success, plunge the entire area within Far range into complete darkness only you and your allies can see through. Attack rolls have disadvantage when targeting you or an ally within this shadow.

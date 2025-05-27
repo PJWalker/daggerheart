@@ -1,9 +1,12 @@
-***Tier 1 Leader***
+---
+publish: "false"
+---
+***#Tier1 Leader***
 *An imperious tree-person leading their forest’s defenses.*
 **Motives & Tactics:** Command, nurture, prune the unwelcome
 
 > **Difficulty:** 11 | **Thresholds:** 6/11 | **HP:** 6 | **Stress:** 2
-> **ATK:** 0 | **Scythe:** Melee | 1d8+5 phy
+> **ATK:** 0 | **Scythe:** Melee | 1d8+5 physical
 
 # Features
 

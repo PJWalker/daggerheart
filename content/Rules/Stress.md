@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 **Stress** represents how much mental, physical, and emotional strain a character can endure. Some special abilities or effects require the character activating them to mark Stress, and the GM can require a PC to mark Stress as a GM move or to represent the cost, complication, or consequence of an action roll.
 
 When a character marks their last Stress, they become **Vulnerable** until they clear at least 1 Stress.

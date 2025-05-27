@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Wayfinder if you want to hunt your prey and strike with deadly force.
 
 # Spellcast Trait
 
-Agility
+[[Agility]]
 
 # Foundation Features
 

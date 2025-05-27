@@ -1,4 +1,7 @@
 ---
-tags: [common]
+publish: "true"
+tags: [Item]
 ---
-A small parachute that can be deployed by marking Stress. It allows the user to glide down from a high place safely to the ground below.
+# Glider
+
+While falling, you can mark a Stress to deploy this small parachute and glide safely to the ground.

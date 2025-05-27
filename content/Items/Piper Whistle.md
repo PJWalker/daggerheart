@@ -1,4 +1,7 @@
 ---
-tags: [common]
+publish: "true"
+tags: [Item]
 ---
-Makes a distinct piercing tone that can be heard across a 1 mi radius
+# Piper Whistle
+
+This handcrafted whistle has a distinctive sound. When you blow this whistle, its piercing tone can be heard within a 1-mile radius.

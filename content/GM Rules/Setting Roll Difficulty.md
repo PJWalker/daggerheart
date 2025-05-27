@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 ![[Setting Roll Difficulty-1747749302591.webp]]
 
 While most Difficulties fall between 5 and 30, you can select numbers outside that range to fit the story. You can choose to keep this Difficulty secret or tell the player what they’re aiming for up front; both playstyles work well in Daggerheart.

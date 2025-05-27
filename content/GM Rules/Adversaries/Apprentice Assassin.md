@@ -1,9 +1,12 @@
-***Tier 2 Minion***
+---
+publish: "false"
+---
+***#Tier2 Minion***
 *A young trainee eager to prove themselves.*
 **Motives & Tactics:** Act reckless, kill, prove their worth, show off
 
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -1 | **Thrown Dagger:** Very Close | 4 phy
+> **ATK:** -1 | **Thrown Dagger:** Very Close | 4 physical
 
 # Features
 

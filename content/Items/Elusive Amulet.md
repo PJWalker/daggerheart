@@ -1,4 +1,7 @@
 ---
-tags: [rare]
+publish: "true"
+tags: [Item]
 ---
-Once per long rest, activate this to go Hidden until you move from this location. Any enemies who move into line of sight with you while you’re Hidden don’t see you.
+# Elusive Amulet
+
+Once per long rest, you can activate this amulet to become **Hidden** until you move. While **Hidden** in this way, you remain unseen even if an adversary moves to where they would normally see you.

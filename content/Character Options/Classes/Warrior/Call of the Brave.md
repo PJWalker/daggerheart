@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.
 
 # Foundation Features

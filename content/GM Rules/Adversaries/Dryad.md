@@ -1,9 +1,12 @@
-***Tier 3 Leader***
+---
+publish: "false"
+---
+***#Tier3 Leader***
 *A nature spirit in the form of a humanoid tree.*
 **Motives & Tactics:** Camouflage, drive out, preserve the forest
 
 > **Difficulty:** 16 | **Thresholds:** 24/38 | **HP:** 8 | **Stress:** 5
-> **ATK:** +4 | **Deadfall Shortbow:** Far | 3d10+1 phy
+> **ATK:** +4 | **Deadfall Shortbow:** Far | 3d10+1 physical
 
 # Features
 

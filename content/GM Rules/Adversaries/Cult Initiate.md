@@ -1,9 +1,12 @@
-***Tier 2 Minion***
+---
+publish: "false"
+---
+***#Tier2 Minion***
 *A low-ranking cultist in simple robes, eager to gain power.*
 **Motives & Tactics:** Follow orders, gain power, seek forbidden knowledge
 
 > **Difficulty:** 13 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** 0 | **Ritual Dagger:** Melee | 5 phy
+> **ATK:** 0 | **Ritual Dagger:** Melee | 5 physical
 
 # Features
 

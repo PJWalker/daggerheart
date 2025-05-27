@@ -1,11 +1,12 @@
 ---
-title: Domain Cards
+publish: "true"
+title: Abilities
 ---
 PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.
 
 # Domain Cards
 
-Each domain card provides one or more features your PC can utilize during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
+Each domain card provides one or more features your PC can use during their adventures. Some domain cards provide moves you can make, such as a unique attack or a spell. Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.
 
 ## Domain Card Anatomy
 
@@ -26,25 +27,12 @@ Each domain card includes six elements:
   The name of the card.
 
 - **Type**
-  The card’s **type** is listed in the center above the title. There are three types of domain cards: **abilities, spells, and grimoires**. Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the Codex domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
+  The card’s **type** is listed in the centre above the title. There are three types of domain cards: **abilities, spells, and grimoires**. Abilities are typically non-magical in nature, while spells are magical. Grimoires are unique to the Codex domain and grant access to a collection of less potent spells. Some game mechanics only apply to certain types of cards.
 
 - **Feature**
   The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.
-
-## Loadout & Vault
-
-Your **loadout** is the set of acquired domain cards whose effects your PC can use during play. You can have up to 5 domain cards in your loadout at one time. Once you’ve acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your **vault**. Vault cards are inactive and do not influence play.
-
-> ***Note:*** *Your subclass, ancestry, and community cards don’t count toward your loadout or vault and are always active and available.*
-
-At the start of a rest, before using downtime moves, you can freely move cards between your loadout and your vault, so long as your loadout doesn’t exceed its five-card maximum.
-
-To move a card from your vault to your loadout at any other time, you must mark a number of Stress equal to the vaulted card’s **Recall Cost** (located in the top right of the card next to the lightning bolt symbol). If your loadout is already full, you must also move a card from your loadout to your vault to make space, though you can do this at no cost.
-
-When you gain a new domain card at level-up, you can immediately move it into your loadout for free. If your loadout is already full, you must also move a card from your loadout to your vault to make space.
-
 ## Usage Limits
 
-If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.
+If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it face down, or using tokens.
 
 > ***Note:*** *If an effect or ability gives you a number of uses equal to a trait with a modifier of +0 or less, it grants you 0 uses.*

@@ -1,4 +1,7 @@
-***Tier 2 Exploration***
+---
+publish: "false"
+---
+***#Tier2 Exploration***
 *An abandoned city populated by the restless spirits of eras past.*
 **Impulses:** Misdirect and disorient, replay apocalypses both public and personal
 

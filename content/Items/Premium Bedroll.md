@@ -1,4 +1,7 @@
 ---
-tags: [common]
+publish: "true"
+tags: [Item]
 ---
-When you rest, clear 1 stress.
+# Premium Bedroll
+
+During downtime, you automatically clear a Stress.

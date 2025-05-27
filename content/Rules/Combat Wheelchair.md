@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 The combat wheelchair is a ruleset designed to help you play a wheelchair user in Daggerheart. This section provides mechanics and narrative guidance for you to work from, but feel free to adapt the flavor text to best suit your character. Have fun with your character’s wheelchair design, and make it as unique or tailored to them as you please.
 
 # Action and Movement
@@ -50,7 +53,7 @@ These wheelchairs have bulky and heavier frames, allowing the chair to lend its 
 | **Heavy-Frame Wheelchair**           | 1        | Strength  | Melee     | d12+3 phy  | Two-Handed | ***Heavy:*** -1 to Evasion |
 | **Improved Heavy-Frame Wheelchair**  | 2        | Strength  | Melee     | d12+6 phy  | Two-Handed | ***Heavy:*** -1 to Evasion |
 | **Advanced Heavy-Frame Wheelchair**  | 3        | Strength  | Melee     | d12+9 phy  | Two-Handed | ***Heavy:*** -1 to Evasion |
-| **Legendary Heavy-Frame Wheelchair** | 4        | Strength  | Melee     | d12+12 phy | Two-Handed | ***Heavy:*** -1 to Evasion |
+| **Legendary Heavy-Frame Wheelchair** | 4        | Strength  | Melee     | d12+12 physical | Two-Handed | ***Heavy:*** -1 to Evasion |
 
 ## Arcane Frame Models
 

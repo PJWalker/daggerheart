@@ -1,5 +1,5 @@
 ---
 tags: [npc]
-draft: "true"
+publish: "false"
 ---
 ![[Sailor-1747110667458.webp]]

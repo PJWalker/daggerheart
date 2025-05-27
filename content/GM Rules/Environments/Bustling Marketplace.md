@@ -1,4 +1,7 @@
-***Tier 1 Social***
+---
+publish: "false"
+---
+***#Tier1 Social***
 *The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.*
 **Impulses:** Buy low, sell high, tempt and tantalize with wares from near and far
 

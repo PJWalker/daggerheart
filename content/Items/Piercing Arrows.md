@@ -1,4 +1,7 @@
 ---
-tags: [common, consumable]
+publish: "true"
+tags: [Item]
 ---
-When fired, adds your proficiency to your damage roll.
+# Piercing Arrows
+
+Three times per rest when you succeed on an attack with one of these arrows, you can add your Proficiency to the damage roll.

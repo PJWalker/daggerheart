@@ -1,9 +1,12 @@
-***Tier 2 Minion***
+---
+publish: "false"
+---
+***#Tier2 Minion***
 *A poorly trained civilian pressed into war.*
 **Motives & Tactics:** Follow orders, gang up, survive
 
 > **Difficulty:** 12 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** 0 | **Spears:** Very Close | 6 phy
+> **ATK:** 0 | **Spears:** Very Close | 6 physical
 
 # Features
 

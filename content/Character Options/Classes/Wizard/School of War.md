@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the School of War if you want to utilize trained magic for violence.
 
 # Spellcast Trait
 
-Knowledge
+[[Knowledge]]
 
 # Foundation Features
 

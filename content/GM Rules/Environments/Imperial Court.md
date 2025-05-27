@@ -1,4 +1,7 @@
-***Tier 4 Social***
+---
+publish: "false"
+---
+***#Tier4 Social***
 *The dazzling mansion of a powerful empire, lavishly appointed with stolen treasures.*
 **Impulses:** Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort
 

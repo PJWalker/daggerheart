@@ -1,4 +1,7 @@
-> **Level 10 Blade Ability**
+---
+publish: "true"
+---
+> **Level 10 [[Character Options/Abilities/Blade/index|Blade]] Ability**
 > **Recall Cost:** 3
 
 When you successfully make an attack with your weapon, you never deal damage beneath a target’s Major damage threshold (the target always marks a minimum of 2 Hit Points).

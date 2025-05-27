@@ -1,4 +1,5 @@
 ---
+publish: "true"
 tags: [linker-exclude]
 ---
 +N [[Armor Score]]

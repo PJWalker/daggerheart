@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Wanderborne
 
 Players might choose to build characters that come from one or neither country.

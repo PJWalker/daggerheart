@@ -1,4 +1,5 @@
 ---
+publish: "false"
 aliases: [withered]
 ---
 A corruption that is spreading throughout [[Fanewick]]. Some believe the overgrowth began in the forest, others claim is sprang from the bogs, but this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into “Verdant” beings. Plants sprint to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws.

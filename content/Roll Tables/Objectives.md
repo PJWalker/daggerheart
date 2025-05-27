@@ -1,5 +1,5 @@
 ---
-draft: "true"
+publish: "false"
 ---
 
 `dice:1d12`

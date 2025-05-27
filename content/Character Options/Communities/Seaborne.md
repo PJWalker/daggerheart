@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Seaborne
 
 Most Seaborne communities are in or near the river [[River Alvi]].

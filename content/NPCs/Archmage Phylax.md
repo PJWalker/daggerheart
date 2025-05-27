@@ -1,5 +1,5 @@
 ---
-draft: "true"
+publish: "false"
 aliases: [Phylax]
 tags: [npc]
 ---

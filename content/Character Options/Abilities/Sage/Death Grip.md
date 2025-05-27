@@ -1,4 +1,7 @@
-> **Level 4 Sage Spell**
+---
+publish: "true"
+---
+> **Level 4 [[Character Options/Abilities/Sage/index|Sage]] Spell**
 > **Recall Cost:** 1
 
 Make a Spellcast Roll against a target within Close range and choose one of the following options:

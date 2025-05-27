@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Play the Stalwart if you want to take heavy blows and keep fighting.
 
 # Foundation Features

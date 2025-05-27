@@ -1,4 +1,7 @@
-> **Level 1 Arcana Spell**
+---
+publish: "true"
+---
+> **Level 1 [[Character Options/Abilities/Arcana/index|Arcana]] Spell**
 > **Recall Cost:** 1
 
 At the beginning of a session, place a number of tokens equal to your Spellcast trait on this card.

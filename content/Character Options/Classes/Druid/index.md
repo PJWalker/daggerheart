@@ -1,30 +1,27 @@
 ---
+publish: "true"
 title: Druid
 ---
 
 Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
 
-> **• DOMAINS:** [index](Character%20Options/Abilities/Sage/index.md) & [index](Character%20Options/Abilities/Arcana/index.md)
+> **• DOMAINS:** [[Character Options/Abilities/Sage/index|Sage]] & [[Character Options/Abilities/Arcana/index|Arcana]]
 > **• STARTING EVASION:** 10
 > **• STARTING HIT POINTS:** 6
 > **• CLASS ITEMS:** A small bag of rocks and bones or a strange pendant found in the dirt
 
-# DRUID’S Hope Feature
-
-***Evolution:*** Spend 3 Hope to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.
+# Hope Feature
+***Evolution:*** Spend 3 Hope to transform into a Beastform without marking a Stress. When you do, raise one trait by +1 until you drop out of that Beastform.
 
 # Class Features
-
-***Beastform:*** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can’t use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform’s features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you’re in a Beastform, your armor becomes part of your body and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
+***Beastform:*** Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list. You can drop out of this form at any time. While transformed, you can’t use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to. Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal. Additionally, you gain the Beastform’s features, add their Evasion bonus to your Evasion, and use the trait specified in their statistics for your attack. While you’re in a Beastform, your armor becomes part of your body, and you mark Armor Slots as usual; when you drop out of a Beastform, those marked Armor Slots remain marked. If you mark your last Hit Point, you automatically drop out of this form.
 
 ***Wildtouch:*** You can perform harmless, subtle effects that involve nature—such as causing a flower to rapidly grow, summoning a slight gust of wind, or starting a campfire—at will.
 
 # Druid Subclasses
-
 Choose either the **[Warden of the Elements](Warden%20of%20the%20Elements.md)** or **[Warden of Renewal](Warden%20of%20Renewal.md)** subclass.
 
 # Background Questions
-
 *Answer any of the following background questions. You can also create your own questions.*
 
 - Why was the community you grew up in so reliant on nature and its creatures?
@@ -32,7 +29,6 @@ Choose either the **[Warden of the Elements](Warden%20of%20the%20Elements.md)** 
 - Who has been trying to hunt you down? What do they want from you?
 
 # Connections
-
 *Ask your fellow players one of the following questions for their character to answer, or create your own questions.*
 
 - What did you confide in me that makes me leap into danger for you every time?
@@ -40,12 +36,11 @@ Choose either the **[Warden of the Elements](Warden%20of%20the%20Elements.md)** 
 - What affectionate nickname have you given me?
 
 # Beastform Options
-
 When you use your “Beastform” feature, choose a creature category of your tier or lower. At the GM’s discretion, you can describe yourself transforming into any animal that reasonably fits into that category.
 
 Beastform categories are divided by tier. Each entry includes the following details:
 
-- **Creature Category:** Each category’s name describes the common role or behavior of creatures in that category (such as Agile Scout). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel).
+- **Creature Category:** Each category’s name describes the common role or behaviour of creatures in that category (such as Agile Scout). This name is followed by a few examples of animals that fit in that category (in this example, fox, mouse, and weasel).
 - **Character Trait:** While transformed, you gain a bonus to the listed trait. For example, while transformed into an Agile Scout, you gain a +1 bonus to your Agility. When this form drops, you lose this bonus.
 - **Attack Rolls:** When you make an attack while transformed, you use the creature’s listed range, trait, and damage dice, but you use your Proficiency. For example, as an Agile Scout, you can attack a target within Melee range using your Agility. On a success, you deal d4 physical damage using your Proficiency.
 - **Evasion:** While transformed, you add the creature’s Evasion bonus to your normal Evasion. For example, if your Evasion is usually 8 and your Beastform says “Evasion +2,” your Evasion becomes 10 while you’re in that form.
@@ -58,7 +53,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Fox, Mouse, Weasel, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d4 phy
+> Agility +1 | Evasion +2 | Melee Agility d4 physical
 > **Gain advantage on:** deceive, locate, sneak
 
 ***Agile:*** Your movement is silent, and you can spend a Hope to move up to Far range without rolling.
@@ -69,7 +64,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Cat, Dog, Rabbit, etc.)
 
-> Instinct +1 | Evasion +2 | Melee Instinct d6 phy
+> Instinct +1 | Evasion +2 | Melee Instinct d6 physical
 > **Gain advantage on:** climb, locate, protect
 
 ***Companion:*** When you Help an Ally, you can roll a d8 as your advantage die.
@@ -80,7 +75,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Deer, Gazelle, Goat, etc.)
 
-> Agility +1 | Evasion +3 | Melee Agility d6 phy
+> Agility +1 | Evasion +3 | Melee Agility d6 physical
 > **Gain advantage on:** leap, sneak, sprint
 
 ***Elusive Prey:*** When an attack roll against you would succeed, you can mark a Stress and roll a d4. Add the result to your Evasion against this attack.
@@ -91,7 +86,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Coyote, Hyena, Wolf, etc.)
 
-> Strength +2 | Evasion +1 | Melee Strength d8+2 phy
+> Strength +2 | Evasion +1 | Melee Strength d8+2 physical
 > **Gain advantage on:** attack, sprint, track
 
 ***Hobbling Strike:*** When you succeed on an attack against a target within Melee range, you can mark a Stress to make the target temporarily Vulnerable.
@@ -102,7 +97,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Eel, Fish, Octopus, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d4 phy
+> Agility +1 | Evasion +2 | Melee Agility d4 physical
 > **Gain advantage on:** navigate, sneak, swim
 
 ***Aquatic:*** You can breathe and move naturally underwater.
@@ -113,10 +108,10 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Tarantula, Wolf Spider, etc.)
 
-> Finesse +1 | Evasion +2 | Melee Finesse d6+1 phy
+> Finesse +1 | Evasion +2 | Melee Finesse d6+1 physical
 > **Gain advantage on:** attack, climb, sneak
 
-***Venomous Bite:*** When you succeed on an attack against a target within Melee range, the target becomes temporarily Poisoned. A Poisoned creature takes 1d10 direct physical damage each time they act.
+***Venomous Bite:*** When you succeed on an attack against a target within Melee range, the target becomes temporarily [[Poisoned]].
 
 ***Webslinger:*** You can create a strong web material useful for both adventuring and battle. The web is resilient enough to support one creature. You can temporarily Restrain a target within Close range by succeeding on a Finesse Roll against them.
 
@@ -124,7 +119,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Camel, Horse, Zebra, etc.)
 
-> Agility +1 | Evasion +2 | Melee Agility d8+1 phy
+> Agility +1 | Evasion +2 | Melee Agility d8+1 physical
 > **Gain advantage on:** leap, navigate, sprint
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
@@ -137,7 +132,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Armadillo, Pangolin, Turtle, etc.)
 
-> Strength +1 | Evasion +1 | Melee Strength d8+2 phy
+> Strength +1 | Evasion +1 | Melee Strength d8+2 physical
 > **Gain advantage on:** dig, locate, protect
 
 ***Armored Shell:*** Your hardened exterior gives you resistance to physical damage. Additionally, mark an Armor slot to retract into your shell. While in your shell, physical damage is reduced by a number equal to your Armor Score (after applying resistance), but you can’t perform other actions without leaving this form.
@@ -148,7 +143,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Bear, Bull, Moose, etc.)
 
-> Strength +1 | Evasion +3 | Melee Strength d10+4 phy
+> Strength +1 | Evasion +3 | Melee Strength d10+4 physical
 > **Gain advantage on:** navigate, protect, scare
 
 ***Rampage:*** When you roll a 1 on a damage die, you can roll a d10 and add the result to the damage roll. Additionally, before you make an attack roll, you can mark a Stress to gain a +1 bonus to your Proficiency for that attack.
@@ -159,7 +154,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Cobra, Rattlesnake, Viper, etc.)
 
-> Finesse +1 | Evasion +2 | Very Close Finesse d8+4 phy
+> Finesse +1 | Evasion +2 | Very Close Finesse d8+4 physical
 > **Gain advantage on:** climb, deceive, sprint
 
 ***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes 1d10 physical direct damage each time they act.
@@ -170,7 +165,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Cheetah, Lion, Panther, etc.)
 
-> Instinct +1 | Evasion +3 | Melee Instinct d8+6 phy
+> Instinct +1 | Evasion +3 | Melee Instinct d8+6 physical
 > **Gain advantage on:** attack, climb, sneak
 
 ***Fleet:*** Spend a Hope to move up to Far range without rolling.
@@ -181,7 +176,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Hawk, Owl, Raven, etc.)
 
-> Finesse +1 | Evasion +3 | Melee Finesse d4+2 phy
+> Finesse +1 | Evasion +3 | Melee Finesse d4+2 physical
 > **Gain advantage on:** deceive, locate, scare
 
 ***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
@@ -194,7 +189,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Dire Wolf, Velociraptor, Sabertooth Tiger, etc.)
 
-> Strength +2 | Evasion +2 | Melee Strength d12+8 phy
+> Strength +2 | Evasion +2 | Melee Strength d12+8 physical
 > **Gain advantage on:** attack, sneak, sprint
 
 ***Carrier:*** You can carry up to two willing allies with you when you move.
@@ -205,7 +200,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Alligator, Crocodile, Gila Monster, etc.)
 
-> Instinct +2 | Evasion +1 | Melee Instinct d10+7 phy
+> Instinct +2 | Evasion +1 | Melee Instinct d10+7 physical
 > **Gain advantage on:** attack, sneak, track
 
 ***Physical Defense:*** You gain a +3 bonus to your damage thresholds.
@@ -216,7 +211,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Giant Eagle, Falcon, etc.)
 
-> Finesse +2 | Evasion +3 | Melee Finesse d8+6 phy
+> Finesse +2 | Evasion +3 | Melee Finesse d8+6 physical
 > **Gain advantage on:** deceive, distract, locate
 
 ***Bird’s-Eye View:*** You can fly at will. Once per rest while you are airborne, you can ask the GM a question about the scene below you without needing to roll. The first time a character makes a roll to act on this information, they gain advantage on the roll.
@@ -227,7 +222,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Dolphin, Orca, Shark, etc.)
 
-> Agility +2 | Evasion +4 | Melee Agility d10+6 phy
+> Agility +2 | Evasion +4 | Melee Agility d10+6 physical
 > **Gain advantage on:** attack, swim, track
 
 ***Aquatic:*** You can breathe and move naturally underwater.
@@ -258,7 +253,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Elephant, Mammoth, Rhinoceros, etc.)
 
-> Strength +3 | Evasion +1 | Melee Strength d12+12 phy
+> Strength +3 | Evasion +1 | Melee Strength d12+12 physical
 > **Gain advantage on:** locate, protect, scare, sprint
 
 ***Carrier:*** You can carry up to four willing allies with you when you move.
@@ -271,7 +266,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Brachiosaurus, Tyrannosaurus, etc.)
 
-> Strength +3 | Evasion +2 | Melee Strength d12+10 phy
+> Strength +3 | Evasion +2 | Melee Strength d12+10 physical
 > **Gain advantage on:** attack, deceive, scare, track
 
 ***Devastating Strikes:*** When you deal Severe damage to a target within Melee range, you can mark a Stress to force them to mark an additional Hit Point.
@@ -282,7 +277,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Dragon, Pterodactyl, Roc, Wyvern, etc.)
 
-> Finesse +3 | Evasion +4 | Melee Finesse d10+11 phy
+> Finesse +3 | Evasion +4 | Melee Finesse d10+11 physical
 > **Gain advantage on:** attack, deceive, locate, navigate
 
 ***Carrier:*** You can carry up to three willing allies with you when you move.
@@ -293,7 +288,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Giant Squid, Whale, etc.)
 
-> Agility +3 | Evasion +3 | Melee Agility d10+10 phy
+> Agility +3 | Evasion +3 | Melee Agility d10+10 physical
 > **Gain advantage on:** locate, protect, scare, track
 
 ***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily Restrain them.
@@ -315,6 +310,6 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 (Chimera, Cockatrice, Manticore, etc.)
 
-> Strength +3 | Evasion +2 | Strength Melee d12+10 phy
+> Strength +3 | Evasion +2 | Strength Melee d12+10 physical
 
 ***Hybrid Features:*** To transform into this creature, mark 2 additional Stress. Choose any three Beastform options from Tiers 1-3. Choose a total of five advantages and three features from those options.

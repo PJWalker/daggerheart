@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 Whether you’re improvising adversaries and environments or using existing ones, you might find a moment where you want to put your thumb on the scale to make something dramatic happen or to escalate the scene. You can always improvise a GM move, but there might be situations where you want to make an especially hard move. In those situations, you can make a Fear move. By spending Fear when you declare the move, you communicate and respect the scale of the action you’re taking.
 
 A Fear move should redefine a scene, change the terms, raise the stakes, modify or move the location, or accomplish another pivotal action.

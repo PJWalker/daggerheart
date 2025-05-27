@@ -1,5 +1,5 @@
 ---
-draft: "true"
+publish: "false"
 ---
 
 ![[Ancient Skeleton.webp]]

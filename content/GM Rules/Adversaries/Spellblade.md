@@ -1,9 +1,12 @@
-***Tier 1 Leader***
+---
+publish: "false"
+---
+***#Tier1 Leader***
 *A mercenary combining swordplay and magic to deadly effect.*
 **Motives & Tactics:** Blast, command, endure
 
 > **Difficulty:** 14 | **Thresholds:** 8/14 | **HP:** 6 | **Stress:** 3
-> **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/mag
+> **ATK:** +3 | **Empowered Longsword:** Melee | 1d8+4 phy/magic
 
 # Features
 

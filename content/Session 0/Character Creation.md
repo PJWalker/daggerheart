@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 We’re starting at level one, so the character’s history should reflect that. These are fledgling adventurers, or unlikely heroes, at the *start* of their journey. They aren’t battle-hardened commanders.
 
 We’re going to start at a gathering in honour of [[Vinaeya Starfen]] – to justify coming together at all, I’d like everyone to either:
@@ -24,14 +28,6 @@ This doesn’t need to be specific and isn’t required to begin, but having a b
 - What from your upbringing will prove useful as an adventurer? What will you need to leave behind?
 - What does your character want to achieve? Why?
 - How does your class help you to achieve your goals?
-
-# Experiences
-Consi
-There’s no set list of experiences to
-
-> [!note]
-> Your experiences are *always* a part of your character, even when you’re not explicitly invoking them. Having experiences that have both positive and negative aspects
-> (Also, )
 
 # Organisations
 You may decide to be a member of, or associated with:

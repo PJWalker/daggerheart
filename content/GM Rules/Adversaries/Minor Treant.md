@@ -1,9 +1,12 @@
-***Tier 1 Minion***
+---
+publish: "false"
+---
+***#Tier1 Minion***
 *An ambulatory sapling rising up to defend their forest.*
 **Motives & Tactics:** Crush, overwhelm, protect
 
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** -2 | **Cleaved Branch:** Melee | 4 phy
+> **ATK:** -2 | **Cleaved Branch:** Melee | 4 physical
 
 # Features
 

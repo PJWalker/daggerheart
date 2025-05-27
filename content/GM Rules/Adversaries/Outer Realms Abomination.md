@@ -1,9 +1,12 @@
-***Tier 4 Bruiser***
+---
+publish: "false"
+---
+***#Tier4 Bruiser***
 *A chaotic mockery of life, constantly in flux.*
 **Motives & Tactics:** Confuse, demolish, devour, undermine
 
 > **Difficulty:** 19 | **Thresholds:** 35/71 | **HP:** 7 | **Stress:** 5
-> **ATK:** +2d4 | **Massive Pseudopod:** Very Close | 4d6+13 mag
+> **ATK:** +2d4 | **Massive Pseudopod:** Very Close | 4d6+13 magic
 
 # Features
 

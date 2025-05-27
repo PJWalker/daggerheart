@@ -1,7 +1,7 @@
 ---
-tags: [uncommon]
+publish: "true"
+tags: [Item]
 ---
+# Bag of Ficklesand
 
- This small bag of sand that can be convinced to be much heavier or lighter than it should be with a [[Presence]] (10) action.
- 
- You can also blow sand in the face of an adversary with a [[Finesse]] roll to make them temporarily [[Player Rules/Conditions/Vulnerable]].
+You can convince this small bag of sand to be much heavier or lighter with a successful Presence Roll (10). Additionally, on a successful Finesse Roll (10), you can blow a bit of sand into a target’s face to make them temporarily **Vulnerable**.

@@ -1,9 +1,12 @@
-***Tier 3 Ranged***
+---
+publish: "false"
+---
+***#Tier3 Ranged***
 *A fickle creature of spindly limbs and insatiable desires.*
 **Motives & Tactics:** Join in on others’ success, take what belongs to others, hold grudges
 
 > **Difficulty:** 17 | **Thresholds:** 17/30 | **HP:** 6 | **Stress:** 6
-> **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 mag
+> **ATK:** +4 | **Psychic Assault:** Far | 3d8+3 magic
 
 # Features
 

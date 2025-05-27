@@ -1,9 +1,12 @@
-***Tier 1 Skulk***
+---
+publish: "false"
+---
+***#Tier1 Skulk***
 *A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets.*
 **Motives & Tactics:** Ambush, conceal, divide, profit
 
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3
-> **ATK:** +1 | **Daggers:** Melee | 1d4+4 phy
+> **ATK:** +1 | **Daggers:** Melee | 1d4+4 physical
 
 # Features
 

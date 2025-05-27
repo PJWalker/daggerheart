@@ -1,9 +1,12 @@
-***Tier 2 Skulk***
+---
+publish: "false"
+---
+***#Tier2 Skulk***
 *A cunning thief with acrobatic skill and a flair for the dramatic.*
 **Motives & Tactics:** Evade, hide, pilfer, profit
 
 > **Difficulty:** 14 | **Thresholds:** 8/17 | **HP:** 4 | **Stress:** 5
-> **ATK:** +3 | **Backsword:** Melee | 2d8+3 phy
+> **ATK:** +3 | **Backsword:** Melee | 2d8+3 physical
 
 # Features
 

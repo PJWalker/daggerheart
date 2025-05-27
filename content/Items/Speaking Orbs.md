@@ -1,5 +1,7 @@
 ---
-tags: [uncommon]
+publish: "true"
+tags: [Item]
 ---
+# Speaking Orbs
 
-A pair of orbs that allow those holding them to communicate across any distance
+This pair of orbs allows any creatures holding them to communicate with each other across any distance.

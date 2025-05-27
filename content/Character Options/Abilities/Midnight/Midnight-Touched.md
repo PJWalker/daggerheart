@@ -1,4 +1,7 @@
-> **Level 7 Midnight Ability**
+---
+publish: "true"
+---
+> **Level 7 [[Character Options/Abilities/Midnight/index|Midnight]] Ability**
 > **Recall Cost:** 2
 
 When you have midnight domain cards in your loadout are from the midnight domain, gain the following benefits:

@@ -1,3 +1,7 @@
+---
+publish: "false"
+---
+
 # Introductions
 # Daggerheart
 Daggerheart aims to be a bit more narrative focused, and in . Unlike D&D this whole session is is *almost mandatory*.

@@ -1,4 +1,7 @@
-> **Level 1 Sage Spell**
+---
+publish: "true"
+---
+> **Level 1 [[Character Options/Abilities/Sage/index|Sage]] Spell**
 > **Recall Cost:** 1
 
 Make a Spellcast Roll against a target within Far range. On a success, roots and vines reach out from the ground, dealing 1d8+1 physical damage and temporarily Restraining the target.

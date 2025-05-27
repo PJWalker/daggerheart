@@ -1,4 +1,7 @@
-> **Level 7 Splendor Ability**
+---
+publish: "true"
+---
+> **Level 7 [[Character Options/Abilities/Splendor/index|Splendor]] Ability**
 > **Recall Cost:** 2
 
 When 4 or more of the domain cards in your loadout are from the Splendor domain, gain the following benefits:

@@ -1,9 +1,12 @@
-***Tier 2 Social***
+---
+publish: "false"
+---
+***#Tier2 Social***
 *A high-ranking courtier with the ear of the local nobility.*
 **Motives & Tactics:** Curry favor, manufacture evidence, scheme
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3
-> **ATK:** -3 | **Wand:** Far | 1d4+3 phy
+> **ATK:** -3 | **Wand:** Far | 1d4+3 physical
 
 # Features
 

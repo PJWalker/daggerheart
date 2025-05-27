@@ -1,5 +1,7 @@
 ---
-tags: [common]
+publish: "true"
+tags: [Item]
 ---
+# Companion case
 
-A carrying case for a small animal companion. While inside, the animal is immune to all harm.
+This case can fit a small animal companion. While the companion is inside, the animal and case are immune to all damage and harmful effects.

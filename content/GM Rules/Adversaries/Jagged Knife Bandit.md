@@ -1,9 +1,12 @@
-***Tier 1 Standard***
+---
+publish: "false"
+---
+***#Tier1 Standard***
 *A cunning criminal in a cloak bearing one of the gang’s iconic knives.*
 **Motives & Tactics:** Escape, profit, steal, throw smoke
 
 > **Difficulty:** 12 | **Thresholds:** 8/14 | **HP:** 5 | **Stress:** 3
-> **ATK:** +1 | **Daggers:** Melee | 1d8+1 phy
+> **ATK:** +1 | **Daggers:** Melee | 1d8+1 physical
 
 # Features
 

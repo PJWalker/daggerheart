@@ -1,4 +1,7 @@
-***Tier 1 Traversal***
+---
+publish: "false"
+---
+***#Tier1 Traversal***
 *A swift-moving river without a bridge crossing, deep enough to sweep away most people.*
 **Impulses:** Bar crossing, carry away the unready, divide the land
 

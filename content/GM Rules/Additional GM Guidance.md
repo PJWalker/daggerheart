@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 # Additional Gm Guidance
 
 This section provides additional guidance for preparing and running a session of Daggerheart.

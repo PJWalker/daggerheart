@@ -1,5 +1,7 @@
 ---
-tags: [uncommon]
+publish: "true"
+tags: [Item]
 ---
+# Flickerfly Pendant
 
-While worn, your melee weapons can hit creatures up to Very Close range. *Your weapon’s wake is extended with a gossamer sheen*
+While you carry this pendant, your weapons with a Melee range that deal physical damage have a gossamer sheen and can attack targets within Very Close range.

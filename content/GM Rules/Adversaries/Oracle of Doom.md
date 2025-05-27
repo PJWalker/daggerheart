@@ -1,9 +1,12 @@
-***Tier 4 Solo***
+---
+publish: "false"
+---
+***#Tier4 Solo***
 *A towering immortal and incarnation of fate, cursed to only see bad outcomes.*
 **Motives & Tactics:** Change environment, condemn, dishearten, toss aside
 
 > **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10
-> **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 mag
+> **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 magic
 
 # Features
 
@@ -13,7 +16,7 @@
 
 ***Pronounce Fate - Action:*** Spend a Fear to present a target within Far range with a vision of their personal nightmare. The target must make a Knowledge Reaction Roll. On a failure, they lose all Hope and take 2d10+4 direct magic damage. On a success, they take half damage and lose a Hope.
 
-***Summon Tormentors - Action:*** Once per day, spend 2 Fear to summon 2d4 Tier 2 or below Minions relevant to one of the PC’s personal nightmares. They appear at Close range relative to that PC.
+***Summon Tormentors - Action:*** Once per day, spend 2 Fear to summon 2d4 #Tier2 or below Minions relevant to one of the PC’s personal nightmares. They appear at Close range relative to that PC.
 
 ***Ominous Knowledge - Reaction:*** When the Oracle sees a mortal creature, they instantly know one of their personal nightmares.
 

@@ -1,4 +1,7 @@
-> **Level 3 Bone Ability**
+---
+publish: "true"
+---
+> **Level 3 [[Character Options/Abilities/Bone/index|Bone]] Ability**
 > **Recall Cost:** 1
 
 When you Help an Ally, they can spend a Hope to add one of your Experiences to their roll alongside your advantage die.

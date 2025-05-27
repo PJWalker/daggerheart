@@ -1,9 +1,13 @@
-***Tier 1 Solo***
+---
+publish: "false"
+tags: [linker-exclude]
+---
+***#Tier1 Solo***
 *A roughly humanoid being of stone and steel, assembled and animated by magic.*
 **Motives & Tactics:** Destroy environment, serve creator, smash target, trample groups
 
 > **Difficulty:** 13 | **Thresholds:** 7/15 | **HP:** 9 | **Stress:** 4
-> **ATK:** +4 | **Fist Slam:** Melee | 1d20 phy
+> **ATK:** +4 | **Fist Slam:** Melee | 1d20 physical
 
 # Features
 

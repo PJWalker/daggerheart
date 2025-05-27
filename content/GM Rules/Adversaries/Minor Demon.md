@@ -1,9 +1,12 @@
-***Tier 1 Solo***
+---
+publish: "false"
+---
+***#Tier1 Solo***
 *A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*
 **Motives & Tactics:** Act erratically, corral targets, relish pain, torment
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 8 | **Stress:** 4
-> **ATK:** +3 | **Claws:** Melee | 1d8+6 phy
+> **ATK:** +3 | **Claws:** Melee | 1d8+6 physical
 
 # Features
 

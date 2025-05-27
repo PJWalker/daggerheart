@@ -1,4 +1,7 @@
-> **Level 8 Splendor Spell**
+---
+publish: "true"
+---
+> **Level 8 [[Character Options/Abilities/Splendor/index|Splendor]] Spell**
 > **Recall Cost:** 2
 
 Mark a Stress to cast a protective aura on a target within Very Close range. When the target marks an Armor Slot, they reduce the severity of the attack by an additional threshold. If this spell causes a creature who would be damaged to instead mark no Hit Points, the effect ends.

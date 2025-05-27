@@ -1,9 +1,12 @@
-***Tier 4 Solo***
+---
+publish: "false"
+---
+***#Tier4 Solo***
 *Engaged by their wounds, the dragon bursts into molten lava.*
 **Motives & Tactics:** Douse with lava, incinerate, repel invaders, respawn
 
 > **Difficulty:** 20 | **Thresholds:** 30/58 | **HP:** 7 | **Stress:** 5
-> **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 phy
+> **ATK:** +9 | **Lava-Coated Claws:** Close | 4d12+4 physical
 
 # Features
 

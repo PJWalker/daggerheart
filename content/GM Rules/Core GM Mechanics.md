@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 # Core Gm Mechanics
 
 ## Rolling Dice

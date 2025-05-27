@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 Your **equipped** weapons and armor are the ones listed in the “Active Weapons” and “Active Armor” sections of your character sheet. Your character can only attack with weapons, benefit from armor, and gain features from items they have equipped. You can’t equip weapons or armor with a higher tier than you.
 
 PCs can carry up to two additional weapons in the “Inventory Weapon” area of the character sheet.

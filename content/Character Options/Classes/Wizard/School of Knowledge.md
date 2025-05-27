@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the School of Knowledge if you want a keen understanding of the world around you.
 
 # Spellcast Trait
 
-Knowledge
+[[Knowledge]]
 
 # Foundation Features
 

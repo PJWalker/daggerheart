@@ -1,9 +1,12 @@
-***Tier 1 Minion***
+---
+publish: "false"
+---
+***#Tier1 Minion***
 *An armed mercenary testing their luck.*
 **Motives & Tactics:** Charge, lacerate, overwhelm, profit
 
 > **Difficulty:** 10 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** +3 | **Longsword:** Melee | 3 phy
+> **ATK:** +3 | **Longsword:** Melee | 3 physical
 
 # Features
 

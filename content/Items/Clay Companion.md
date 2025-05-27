@@ -1,4 +1,7 @@
 ---
-tags: [rare]
+publish: "true"
+tags: [Item]
 ---
-This ball of clay can be sculpted into various animal shapes and will then behave as that animal (a clay spider can spin clay webs, a clay bird can fly). This companion has continuity of memory and self across different shapes, but may adopt some mannerisms with each form.
+# Clay Companion
+
+When you sculpt this ball of clay into a clay animal companion, it behaves as that animal. For example, a clay spider can spin clay webs, while a clay bird can fly. The clay companion retains memory and identity across different shapes, but they can adopt new mannerisms with each form.

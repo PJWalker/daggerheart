@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Slyborne
 
 Slyborne [[Places/Haven/index|Havenites]] might come from rebel groups of [[Fanewick]] seeking to expel the invading forces from their lands. Depending on the nature of the tactics they employ, a character’s association with their Slyborne community might align with, or go against their upbringing.

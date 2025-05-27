@@ -1,4 +1,7 @@
-> **Level 3 Sage Spell**
+---
+publish: "true"
+---
+> **Level 3 [[Character Options/Abilities/Sage/index|Sage]] Spell**
 > **Recall Cost:** 1
 
 Once per rest, you can conjure a thick, twisting stalk within Close range that can be easily climbed. Its height can grow up to Far range.

@@ -1,9 +1,12 @@
-***Tier 1 Horde (10/HP)***
+---
+publish: "false"
+---
+***#Tier1 Horde (10/HP)***
 *A skittering mass of ordinary rodents moving as one like a ravenous wave.*
 **Motives & Tactics:** Consume, obscure, swarm
 
 > **Difficulty:** 10 | **Thresholds:** 6/10 | **HP:** 6 | **Stress:** 2
-> **ATK:** -3 | **Claws:** Melee | 1d8+2 phy
+> **ATK:** -3 | **Claws:** Melee | 1d8+2 physical
 
 # Features
 

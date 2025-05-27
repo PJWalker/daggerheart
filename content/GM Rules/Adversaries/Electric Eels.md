@@ -1,9 +1,12 @@
-***Tier 2 Horde (2/HP)***
+---
+publish: "false"
+---
+***#Tier2 Horde (2/HP)***
 *A swarm of eels that encircle and electrocute.*
 **Motives & Tactics:** Avoid larger predators, shock prey, tear apart
 
 > **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 5 | **Stress:** 3
-> **ATK:** 0 | **Shocking Bite:** Melee | 2d6+4 phy
+> **ATK:** 0 | **Shocking Bite:** Melee | 2d6+4 physical
 
 # Features
 

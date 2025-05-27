@@ -1,9 +1,12 @@
-***Tier 3 Skulk***
+---
+publish: "false"
+---
+***#Tier3 Skulk***
 *A winged pet endlessly loyal to their vampire owner.*
 **Motives & Tactics:** Dive-bomb, hide, protect leader
 
 > **Difficulty:** 14 | **Thresholds:** 16/30 | **HP:** 5 | **Stress:** 3
-> **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 phy
+> **ATK:** +2 | **Claws and Teeth:** Melee | 2d6+7 physical
 
 # Features
 

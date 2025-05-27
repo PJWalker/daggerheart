@@ -1,9 +1,12 @@
-***Tier 1 Leader***
+---
+publish: "false"
+---
+***#Tier1 Leader***
 *A seasoned bandit in quality leathers with a strong voice and cunning eyes.*
 **Motives & Tactics:** Bully, command, profit, reinforce
 
 > **Difficulty:** 13 | **Thresholds:** 7/14 | **HP:** 6 | **Stress:** 3
-> **ATK:** +2 | **Javelin:** Close | 1d8+3 phy
+> **ATK:** +2 | **Javelin:** Close | 1d8+3 physical
 
 # Features
 

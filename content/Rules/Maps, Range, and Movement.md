@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 You can play Daggerheart using “theater of the mind” or maps and miniatures. The conversions below from abstract ranges to physical measurements assume 1 inch of map represents about 5 feet of fictional space.
 
 Daggerheart uses the following **ranges** to translate fictional positioning into relative distance for the purposes of targeting, movement, and other game mechanics:

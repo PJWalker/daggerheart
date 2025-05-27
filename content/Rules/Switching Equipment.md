@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 # Weapons
 When your character is in a dangerous situation, you can mark a Stress to equip an Inventory Weapon, moving their previous Active Weapon into the Inventory Weapon section. If your character is in a calm situation or preparing during a rest, they can swap weapons with no Stress cost.
 # Armor

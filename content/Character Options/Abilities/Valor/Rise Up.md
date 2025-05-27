@@ -1,4 +1,7 @@
-> **Level 6 Valor Ability**
+---
+publish: "true"
+---
+> **Level 6 [[Character Options/Abilities/Valor/index|Valor]] Ability**
 > **Recall Cost:** 2
 
 Gain a bonus to your Severe threshold equal to your Proficiency.

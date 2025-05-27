@@ -1,9 +1,12 @@
-***Tier 3 Minion***
+---
+publish: "false"
+---
+***#Tier3 Minion***
 *A small, sentient tree sapling.*
 **Motives & Tactics:** Blend in, preserve the forest, pummel, surround
 
 > **Difficulty:** 14 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> **ATK:** +0 | **Branches:** Melee | 8 phy
+> **ATK:** +0 | **Branches:** Melee | 8 physical
 
 # Features
 

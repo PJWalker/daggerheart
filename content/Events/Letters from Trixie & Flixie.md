@@ -1,5 +1,5 @@
 ---
-draft: "true"
+publish: "false"
 ---
 
   Flixie & Trixie were tasked with sending out letters to the party, to invite them to meet her.
@@ -45,7 +45,7 @@ Given recent disturbances, I’m sure you’ll understand the need to keep thing
 We hope you’ll find many new friends among our special guests.
 
 Come meet us at the bungalow as [[Rohkin - The Wandering Horn|Rohkina]] sets on 6-91 .
-Keep this letter! The only way in is with a letter from me (or trixie) 😊
+Keep this letter! The only way in is with a letter from me (or Trixie) 😊
 
 — Flixie 💖
 

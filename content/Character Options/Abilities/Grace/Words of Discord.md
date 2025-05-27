@@ -1,4 +1,7 @@
-> **Level 5 Grace Spell**
+---
+publish: "true"
+---
+> **Level 5 [[Character Options/Abilities/Grace/index|Grace]] Spell**
 > **Recall Cost:** 1
 
 Whisper words of discord to an adversary within Melee range and make a Spellcast Roll (13). On a success, the target must mark a Stress and make an attack against another adversary instead of against you or your allies.

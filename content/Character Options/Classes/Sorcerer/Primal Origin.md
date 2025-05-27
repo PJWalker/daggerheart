@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
 
 # Spellcast Trait
 
-Instinct
+[[Instinct]]
 
 # Foundation Feature
 

@@ -1,4 +1,5 @@
 ---
+publish: "false"
 aliases: [Vinaeya]
 tags: [npc]
 ---

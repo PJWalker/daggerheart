@@ -1,9 +1,12 @@
-***Tier 1 Horde (2/HP)***
+---
+publish: "false"
+---
+***#Tier1 Horde (2/HP)***
 *A group of shambling corpses instinctively moving together.*
 **Motives & Tactics:** Consume flesh, hunger, maul
 
 > **Difficulty:** 8 | **Thresholds:** 6/12 | **HP:** 6 | **Stress:** 3
-> **ATK:** -1 | **Bite:** Melee | 1d10+2 phy
+> **ATK:** -1 | **Bite:** Melee | 1d10+2 physical
 
 # Features
 

@@ -1,9 +1,12 @@
-***Tier 2 Solo***
+---
+publish: "false"
+---
+***#Tier2 Solo***
 *A cube-shaped construct with a different rune on each of their six sides.*
 **Motives & Tactics:** Change tactics, trample foes, wait in disguise
 
 > **Difficulty:** 15 | **Thresholds:** 10/20 | **HP:** 8 | **Stress:** 6
-> **ATK:** +2 | **Slam:** Melee | 2d6+3 phy
+> **ATK:** +2 | **Slam:** Melee | 2d6+3 physical
 
 # Features
 

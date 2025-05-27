@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Orderborne
 
 Orderborne characters may be members of the Haven Army.

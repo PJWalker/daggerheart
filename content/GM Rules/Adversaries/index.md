@@ -1,4 +1,5 @@
 ---
+publish: "false"
 title: Adversaries
 ---
 # Adversary Stat Blocks
@@ -22,7 +23,7 @@ The adversary’s type appears alongside their tier. An adversary’s **type** r
 - **Leaders:** command and summon other adversaries.
 - **Minions:** easily dispatched but dangerous in numbers.
 - **Ranged:** fragile in close encounters but deal high damage at range.
-- **Skulks:** maneuver and exploit opportunities to ambush opponents.
+- **Skulks:** manoeuvre and exploit opportunities to ambush opponents.
 - **Socials:** present challenges around conversation instead of combat.
 - **Solos:** present a formidable challenge to a whole party, with or without support.
 - **Standards:** representative of their fictional group.
@@ -48,7 +49,7 @@ When you attack with the adversary, apply this bonus or penalty to your attack r
 
 A description of the adversary’s primary mode of inflicting harm on the PCs. It includes the attack’s **name**, its effective **range**, and the **damage** it deals on a success. Using an adversary’s **standard attack** is a GM move.
 
-## Experience (OPTIONAL)
+## Experience
 
 The GM can spend a Fear to add an adversary’s relevant Experience to raise their attack roll or increase the Difficulty of a roll made against them.
 
@@ -75,7 +76,7 @@ The GM can spend a Fear to add an adversary’s relevant Experience to raise the
 
 ## FEATURE(S)
 
-There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversaries stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activate. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
+There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversary’s stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activated. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
 
 - **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.
@@ -123,7 +124,7 @@ High-impact effects that cost a Fear to activate.
 
 # Building Balanced Encounters
 
-When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Battle Points** and make the following adjustments:
+When planning a battle, start with (3 x the number of PCs in combat) + 2 Battle Points** and make the following adjustments:
 
 - **-1** for an easier or shorter fight
 - **-2** if you’re using 2 or more Solo adversaries
@@ -134,12 +135,12 @@ When planning a battle, start with **[(3 x the number of PCs in combat) + 2] Bat
 
 Then spend your Battle Points to add an adversary to the encounter:
 
-- **Spend 1 point** for each group of Minions equal to the size of the party.
-- **Spend 1 point** for each Social or Support adversary.
-- **Spend 2 points** for each Horde, Ranged, Skulk, or Standard adversary.
-- **Spend 3 points** for each Leader adversary.
-- **Spend 4 points** for each Bruiser adversary.
-- **Spend 5 points** for each Solo adversary.
+- **1 point** for each group of Minions equal to the size of the party.
+- **1 point** for each Social or Support adversary.
+- **2 points** for each Horde, Ranged, Skulk, or Standard adversary.
+- **3 points** for each Leader adversary.
+- **4 points** for each Bruiser adversary.
+- **5 points** for each Solo adversary.
 
 # Defeated Adversaries
 
@@ -147,7 +148,7 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 
 # Adversary Stat Block Benchmarks
 
-| **ADVERSARY STATISTIC** | **TIER 1**                 | **TIER 2**                  | **TIER 3**                  | **TIER 4**                  |
+| **ADVERSARY STATISTIC** | **#Tier1*                 | **TIER 2**                  | **TIER 3**                  | **TIER 4**                  |
 | ------------------- | ---------------------- | ----------------------- | ----------------------- | ----------------------- |
 | Attack Modifier     | +1                     | +2                      | +3                      | +4                      |
 | Damage Dice         | 1d6+2 to 1d12+4        | 2d6+3 to 2d12+4         | 3d8+3 to 3d12+5         | 4d8+10 to 4d12+15       |
@@ -158,7 +159,7 @@ When an adversary marks their last Hit Point, they are defeated: incapacitated, 
 
 This section contains the following stat blocks:
 
-## Tier 1 (LEVEL 1)
+## #Tier1 (LEVEL 1)
 
 - [Acid Burrower](Acid%20Burrower.md)
 - [Bear](Bear.md)

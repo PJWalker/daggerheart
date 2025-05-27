@@ -1,9 +1,12 @@
-***Tier 3 Bruiser***
+---
+publish: "false"
+---
+***#Tier3 Bruiser***
 *A hulking demon with boulder-sized fists, driven by endless rage.*
 **Motives & Tactics:** Fuel anger, impress rivals, wreak havoc
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 5
-> **ATK:** +3 | **Fists:** Very Close | 3d8+1 mag
+> **ATK:** +3 | **Fists:** Very Close | 3d8+1 magic
 
 # Features
 

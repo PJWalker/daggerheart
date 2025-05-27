@@ -1,9 +1,12 @@
-***Tier 2 Horde (2/HP)***
+---
+publish: "false"
+---
+***#Tier2 Horde (2/HP)***
 *A group of trained archers bearing massive bows.*
 **Motives & Tactics:** Stick together, survive, volley fire
 
 > **Difficulty:** 13 | **Thresholds:** 8/16 | **HP:** 4 | **Stress:** 3
-> **ATK:** 0 | **Longbow:** Far | 2d6+3 phy
+> **ATK:** 0 | **Longbow:** Far | 2d6+3 physical
 
 # Features
 

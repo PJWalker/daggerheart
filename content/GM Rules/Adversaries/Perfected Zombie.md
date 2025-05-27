@@ -1,9 +1,12 @@
-***Tier 4 Bruiser***
+---
+publish: "false"e"
+---
+***#Tier4 Bruiser***
 *A towering, muscular zombie with magically infused strength and skill.*
 **Motives & Tactics:** Consume, hound, maim, terrify
 
 > **Difficulty:** 20 | **Thresholds:** 40/70 | **HP:** 9 | **Stress:** 4
-> **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 phy
+> **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 physical
 
 # Features
 

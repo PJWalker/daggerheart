@@ -1,8 +1,11 @@
+---
+publish: "true"
+---
 Play the Troubadour if you want to play music to bolster your allies.
 
 # Spellcast Trait
 
-Presence
+[[Presence]]
 
 # Foundation Feature
 

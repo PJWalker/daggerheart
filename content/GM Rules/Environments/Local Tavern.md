@@ -1,4 +1,7 @@
-***Tier 1 Social***
+---
+publish: "false"
+---
+***#Tier1 Social***
 *A lively tavern that serves as the social hub for its town.*
 **Impulses:** Provide opportunities for adventurers, nurture community
 

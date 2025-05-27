@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 > **Level 9 Blade Ability**
 > **Recall Cost:** 2
 

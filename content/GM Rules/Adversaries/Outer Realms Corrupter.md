@@ -1,9 +1,12 @@
-***Tier 4 Support***
+---
+publish: "false"
+---
+***#Tier4 Support***
 *A shifting, formless mass seemingly made of chromatic light.*
 **Motives & Tactics:** Confuse, distract, overwhelm
 
 > **Difficulty:** 19 | **Thresholds:** 27/47 | **HP:** 4 | **Stress:** 3
-> **ATK:** +7 | **Corroding Pseudopod:** Very Close | 4d8+5 mag
+> **ATK:** +7 | **Corroding Pseudopod:** Very Close | 4d8+5 magic
 
 # Features
 

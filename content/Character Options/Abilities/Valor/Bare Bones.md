@@ -1,4 +1,7 @@
-> **Level 1 Valor Ability**
+---
+publish: "true"
+---
+> **Level 1 [[Character Options/Abilities/Valor/index|Valor]] Ability**
 > **Recall Cost:** 0
 
 When you choose not to equip armor, you have a base Armor Score of 3 + your Strength and use the following as your base damage thresholds:

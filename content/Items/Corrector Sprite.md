@@ -1,6 +1,7 @@
 ---
-tags: [uncommon]
+publish: "true"
+tags: [Item]
 ---
- A tiny sprite who sits in the curve of your ear canal and whispers helpful advice during combat.  Once per short rest, you may take advantage on an attack roll.
- 
- *Do not give them your true name*
+# Corrector Sprite
+
+This tiny sprite sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you can gain advantage on an attack roll.
