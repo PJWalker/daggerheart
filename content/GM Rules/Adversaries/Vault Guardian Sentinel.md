@@ -1,5 +1,5 @@
 ---
-publish: "false"e"
+publish: "false"
 ---
 ***#Tier3 Bruiser***
 *A dust-covered golden construct with boxy limbs and a huge mace for a hand.*

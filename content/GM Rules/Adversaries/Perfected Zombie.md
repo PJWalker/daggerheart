@@ -1,5 +1,5 @@
 ---
-publish: "false"e"
+publish: "false"
 ---
 ***#Tier4 Bruiser***
 *A towering, muscular zombie with magically infused strength and skill.*

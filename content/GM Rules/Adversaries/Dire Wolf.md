@@ -1,5 +1,5 @@
 ---
-publish: "false"e"
+publish: "false"
 ---
 ***#Tier1 Skulk***
 *A large wolf with menacing teeth, seldom encountered alone.*
