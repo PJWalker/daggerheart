@@ -8,5 +8,5 @@ publish: "false"
 - Three kids have gone missing, after sneaking off to an abandoned Thistlefolk village.
 - Anachromancer – Time-wizard that brings modern things into the world.
 - Coral location, where spores fall like snow.
-- Mt Iatus Blew up
+- Mt Iatus Blew up, but [[Archmage Phylax]] shielded the Haven from what would’ve been sure destruction.
 - 

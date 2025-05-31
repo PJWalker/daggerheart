@@ -9,6 +9,7 @@ A mountainous region to the northeast
 
 > [!question] Why are you coming down from the mountains *now*? It isn’t exactly looking great down here.
 
+%%
 ![[Fulgon-1746722099614.webp]]
 
 ![[Fulgon-1746722126415.webp]]

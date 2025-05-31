@@ -7,6 +7,7 @@ A walled metropolis to the east, surrounded by desert/tundra.
 - [[Elf|Elves]] & [[Faun|Fauns]] are also common.
 - Most [[Orc|Orcs]] live in the [[Greenlily Bleach||surrounding desert.]]
 - Some [[Underborne]] [[Goblin|Goblins]] used to live within the walls and floors created by [[Shun'Aush - the Granite Ophid|Shun'Aush]], but seemingly all of them have fallen to [[Ophid's Grasp]].
+%%
 
 Haven was once the most powerful force in the region; for centuries the high stone walls into the capital bore the phrase “The Godless Gate.” While the original meaning has been lost to common knowledge, some dusty tomes and ancient records state that [[The First Circle]] wished to be free of the influence of the [[Gods/Faint Divinities/index|Faint Divinities]] that dominated the surrounding regions.
 
@@ -18,11 +19,11 @@ The area was once as lush as Fanewick. The Havenites made their e within the rem
 
 There was a time of prosperity over many centuries. But progress is it’s own pressure, and the increased productivity demanded by a growing population brought the ancient stone dust to the surface as farms tilled deeper soil, and mines hacked into hidden stone.
 
-Over the last five years, over half of Havenites fell to a disease known as the [[Ophid's Grasp]].
-
 But, the [[Archmage Phylax]] discovered that the rare [[Lady's Veil]] flower could cure the disease.
 
 The havenite leader has recently ordered the [[Haven Emissaries]] on expeditions to find sources of these flowers, including into [[Fanewick]].
+
+%%%
 # Communities
 - The wealthiest [[Places/Haven/index|Havenites]] are [[Highborne]].
 - [[Orderborne]] characters may be members of the Haven Army.

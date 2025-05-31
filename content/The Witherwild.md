@@ -12,15 +12,7 @@ publish: "false"
 
 Read this section to your players to introduce them to the campaign.
 
-> *Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. When Haven invaded the wilds and forced the land into eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
-
-# Tone & Feel
-
-Adventurous, Dynamic, Epic, Heroic, Thrilling, Uncanny, Whimsical
-
-# Themes
-
-Cultural Clash, Ends Justify Means, Grief, People vs. Nature, Transformation and Change, Survival
+> *Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. But with the  eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
 
 # Touchstones
 

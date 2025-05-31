@@ -1,0 +1,1 @@
+Bell book and candle: Excommunication rite - after reciting a prayer in unison, the bishops ring a bell, close the bible, throw their candles to the ground.

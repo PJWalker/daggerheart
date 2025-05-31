@@ -6,6 +6,7 @@ A desert region surrounding [[Places/Haven/index]]. Usually just called the Blea
 
 # Mood Board
 
+%%
 ![[Greenlily Bleach-1746711650246.webp]
 ![[Greenlily Bleach-1746711626847.webp]]
 

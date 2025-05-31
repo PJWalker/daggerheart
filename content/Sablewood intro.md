@@ -4,7 +4,7 @@ publish: "false"
 
 # Merchant Cart
 
-> This evening, your party finally made it to the Fanewoods, a sprawling forest of strange and diverse trees some say are even older than the Forgotten Gods.
+> We begin with the party entering made the Fanewoods, a sprawling forest of strange and diverse trees some say are even older than the Forgotten Gods.
 >
 > From within your carriage, behind the jostling of the caravan: the low calls of the cat-moths, the croak of the lemur-toads, the skittering of a family of squiriguanas in the underbrush.
 >
@@ -15,6 +15,8 @@ When a player volunteers their character as the carriage driver, you can ask the
 (find someone familiar w/ the fanewoods) As you watch the trees on the passing by, you notice…  they look different from what you remember. What has changed about these trees?
 
 Describe the trees the party passes, specifically including details from their answer.
+
+
 
 > As the carriage swerves around a tight corner, you see an cart, turned over sideways across the the path.
 >
@@ -84,42 +86,53 @@ When combat ends, they get into hush without any further incident
 
 # Arrival in Hush
 
-The path leads you further into the forest until you spot a large stone pillar, carved top to bottom with archaic symbols. As you pass beyond the stone marker, you feel a small sensation, like the popping of a bubble.
+The path leads you further into the jungle until you spot a large stone pillar, carved top to bottom with archaic symbols. As you pass beyond the stone marker, you feel a small sensation, like the popping of a bubble.
 
-This is your entrance into the peaceful village of Hush.
-
-There’s no obvious visual barrier, but there is a distinctive safe and comforting air. You begin to see the treehouses and other structures along the path.
+There’s no obvious visual barrier, but there is a distinctive safe and comforting air. You begin to see the treehouses and other structures along the path. This is your entrance into the village of Hush.
 
 As your carriage rolls in, a few smiling faces turn to you and wave toward the party.
 
-There is lively music drifting your direction from the tavern at the center of town.
+There is lively music drifting from the tavern at the centre of town.
 
-You know you need to find the [[Vinaeya Starfen]], to deliver the package from the King, but the only thing you were told is that she’s retired into Hush.
+You know you need to find [[Vinaeya Starfen]], to deliver the package, but you don’t know where in the village she lives. They don’t exactly have a postal system.
 
 What would you like to do?
 
-## Npcs to Talk to
-- [[Fidget]]
-- [[Lausa Standworth]]
-- [[Halython Fives]]
+
+*****
 
 Someone should point them to the Tavern.
+
+
 
 # The [[Clover Tavern]]
 
 ![[Clover Tavern]]
 
+## Npcs to Talk to
+* [[Nordruck]] 
+- [[Fidget]]
+- [[Lausa Standworth]]
+- [[Halython Fives]]
+- [[Daviiden]]
 ## Bar Chatter
+They’re celebrating the First Frost festival. Kind of
 
-![[Firstfrost Festival]]
 
+
+## Passives
+**Sing For Your Supper** - Passive: A PC can perform one time for the guests by making a Presence Roll. On a success, they earn 1d4 handfuls of gold (2d4 if they critically succeed). On a failure, they mark a Stress. *What piece do you perform? What does that piece mean to you? When’s the last time you performed it for a crowd?*
+
+**Bar Fight** - Bar Fight! - Action: Spend a Fear to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take 1d6+2 physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons.
+
+*Who started the fight? What will it take to stop it?*
 ## Moving on…
 
 When it’s time to move on:
 
-[[Vinaeya Starfen|Vinaeya]] – well she’s very busy right now, but if you’ve traveled so far, I’m sure she’ll be more than hospitable. We would be lost without her. She keeps this whole place protected by a powerful ward so that no dangers from the [[Places/Fanewoods/index]] can pass into town.
-
-You’ll find her house to the south, through the farmland. It’s hanging from one of the old Sablewood trees, you can’t miss it.
+> [[Vinaeya Starfen|Vinaeya]] – well she’s very busy right now, but if you’ve traveled so far, I’m sure she’ll be more than hospitable. We would be lost without her. She keeps this whole place protected by a powerful ward so that no dangers from the [[Places/Fanewoods/index]] can pass into town.
+> 
+> You’ll find her house to the south, through the farmland. It’s hanging from one of the old Sablewood trees, you can’t miss it.
 
 # The House
 

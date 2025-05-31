@@ -6,7 +6,7 @@ publish: "false"
 
 Welcome to the home of the lovely [[Vinaeya]]
 Our saviour, our cleric, our benevolent mayor
-She’s been gone for weeks though, maybe lost in prayer.
+She’s busy right now, maybe lost in prayer.
 …I have a new game, will you be its first player?
 
 I guess you could go in to drop off the package –
@@ -15,7 +15,7 @@ If you answer my riddles, I’ll grant you safe passage.
 We’ll need to confirm that our teams are the same,
 So to test you all out, you can all play my game!
 
-(In faerie – Flixie: WTF are you doing? She said to just ask if they — Trixie: She didn’t say we couldn’t have any fun with them first. Flixie: oh, fine just on with it then)
+(In faerie – Vanaeya: What’s going on out there? Oh nothing just some salesmen i think. )
 
 ***
 
@@ -28,6 +28,7 @@ Whether friend, or foe, or somewhere in the middle
 I’ll open the door after my 19th riddle.
 
 OR
+## Lots of riddles
 
 I’ve been drafting on parchment, I’ve been though 4 reams
 but you’ll solve them much faster than to you it seems
@@ -57,19 +58,14 @@ Just take it now, please, and leave us alone!
 A key, a key – there’s one under the stone
 You could just pick that up, and enter her home
 But I’ve got lots of riddles; I’ll give them for free
-Cause without [[Vinaeya]] I’m getting lonely.
-# Flixie
-Flixie… she’s, well, Flixie — a drag and a bore
-She’ puts me to sleep then complains ‘bout my snore
+With [[Vinaeya]] so busy I’m getting lonely.
 
-So to see all you people was quite the nice sight
-but… if you don’t want to play then, I’ll bid you goodnight.
-# [[Vinaeya Starfen|Vinaeya]]
+%% # [[Vinaeya Starfen|Vinaeya]]
 Friend to all from the [[giants]] to the smallest whelp
 If you e’er need assistance, she’s happy to help
 and her Havenite friends(?) called her out for a quest
-That was 5 weeks ago… and we don’t know the rest.
-# [[Places/Haven/index|Havenites]]
+That was 5 weeks ago… and we don’t know the rest. %%
+%% # [[Places/Haven/index|Havenites]]
 They came wrapped in their armor; charged her with a crime
 he said stuff about treason, said she was a consignee
 It seemed quite complicated; so a lot whizzed right by me
@@ -82,7 +78,7 @@ Oh I’m gonna vomit.
 Thank you, but… really I shouldn’t be worried.
 She’s a powerful woman, she needn’t be hurried.
 But… why did she send for you all with that letter
-Are you here to ensure that things truly get better?
+Are you here to ensure that things truly get better? %%
 # Leaving
 You guys were a bright spot in a monotone day
 Are you sure that you really must go right away?
@@ -98,7 +94,7 @@ Isn’t this so much better than making me mope?
 ***
 
 Well then, without any further adieu
-I’ll move right along, to question number two:
+I’ll move right along, to riddle number two:
 
 ## Key
 I’ve been cut just once, and I did not bleed;
@@ -116,8 +112,13 @@ He’s really quite horny, but not one to goon
 Eponymously he’s what some call the moon
 ***—[[Rohkin]]***
 
-That’s the perfect answer you got it in one,
+Wait that’s too tricky, with what through you through have been
+Its that thing in the sky, we call him Rohkin.
+
+So sorry for that, that one was no fun,
 but our game isn’t over, it’s barely begun.
+
+
 ## Ferry
 They take you from one side to other of sea,
 their name it sounds just barely different from me.
@@ -139,15 +140,12 @@ I start with an E and I end with and E;
 And I only have but one letter between.
 **—Envelope**
 ## Trixie
-Flixie says I’m a drag, but I think I’m swell
+Some say I’m a drag, but I think I’m swell
 I’m not quite a barbie, but am a Mattel.
 **—Trixie**
 
-	Trixie: This is my favourite one
-	Flixie: I wonder why.
-
 Yes, trixie – that’s me – you got it correct,
-flixie said you’d not get it; I’d say she got rekt.
+Vinaeya said no-one’d get it; I’d say she got rekt.
 ## Oberon
 The king of my people, he sits on his throne
 That’s also the place that one of you calls home
@@ -157,31 +155,20 @@ You thought but a second, and then you pulled through
 Now don’t you go blaming me for doxxing you
 ## Cloud
 [[Ikla]] up there paints me each day of his life
-But in fantasies I am followed by Strife.
+In your last fantasy he was followed by Strife.
 **— Cloud**
 ## Map
 I’ve seen the world, but never roam
 Upon my face you’ll find your home.
 **— Map**
-## Lilnon
-This cycle starts *small*, but it endeth *not*.
-It bifurcates time splitting cold out from hot.
-**— Lilnon**
-
-The cycle of light and dark, it’s called lilnon
-5 days light is present, the next five it’s gone.
 ## Dictionary
 I’ll help you decide between two kinds of grey
 With me, yesterday will come after today
 **— Dictionary**
 ## Tree
-Don’t want to be showy, but I’ve got many rings
-A growing collection, with these endless springs
+Didn’t want to be showy, but I’ve got many rings
+A growing collection, in these endless springs
 **—Tree**
-## Mushroom
-I am a room, that you cannot enter;
-I’m strewn across the southeastern splendour
-**—Mushroom** ([[Places/Hush/index]] )
 ## Pencil
 We’ll get out the message; when I take your hand
 The further I go, the shorter I stand.

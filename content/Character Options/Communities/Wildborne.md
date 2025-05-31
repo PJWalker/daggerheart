@@ -7,7 +7,7 @@ Most Wildborne were raised in the deadly environment of [[Fanewick]]. Each has u
 
 ---
 
- In exchange for protection from [[The Verdance|the Verdance]], some have taken jobs as farmers in Haven’s flower fields. Though it is back-breaking work, the Haven fires burn back the ever-creeping Verdance, offering safety.
+ In exchange for protection from [[Verdance|the Verdance]], some have taken jobs as farmers in Haven’s flower fields. Though it is back-breaking work, the Haven fires burn back the ever-creeping Verdance, offering safety.
 
 # Character Guidelines
 Many Wildborne are *in* Haven, but few are *from* Haven. If you choose to be a havenite wildborne, your backstory should mention how that came about.

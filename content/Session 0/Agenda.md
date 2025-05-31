@@ -13,7 +13,7 @@ When your character does something consequential I’ll likely ask you to make a
 # Pitch
 # Tone & Subject Matter Discussion
 # Gameplay Structure
-- Do we want to use the spotlight tracker? I kind of think *no*, but also if there’s any time to do it, it’s at the start. The basic idea of it is to formalise a system to require roughly equal numbers of ‘turns’ per player. (If implemented as written, it basically requires ever)
+- Do we want to use the spotlight tracker? I kind of think *no*, but also if there’s any time to do it, it’s at the start. The basic idea of it is to formalise a system to require roughly equal numbers of ‘turns’ per player. If implemented as written, it basically requires ever.
 # Character Creation
 # Building the Map
 # Gameplay Rules

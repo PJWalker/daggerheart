@@ -4,7 +4,7 @@
 
 **Difficulty:** 13 | **Thresholds:**6/12 | **HP:** 3 | **Stress:** 2
 
-**ATK:** +1 | **Dagger:** Melee | 1d8+5 physical
+**ATK:** +1 | **Dagger:** Melee | `dice:1d8+5` physical
 
 # **FEATURES**
 

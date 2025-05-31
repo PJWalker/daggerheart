@@ -1,5 +1,5 @@
 
-Where the River [[River Alvi]] meets the ocean. Tidal forces are most impactful here, creating a wide region of marshland within the river’s tidal range.
+Where the River [[Alvi Strait]] meets the ocean. Tidal forces are most impactful here, creating a wide region of marshland within the river’s tidal range.
 # Mood Board
 ![[Mouth-1746718586651.webp]]
 

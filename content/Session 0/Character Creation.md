@@ -122,7 +122,7 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 Choose your **[weapon(s)](Weapons.md)**:
 
 - Select from the Tier 1 Weapon Tables. Either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon**. Then equip your selection by recording it in the Active Weapon field of your character sheet.
-- At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers.*
+- At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** Example: If your Proficiency is 1 and your weapon’s damage dice is d6+1, your damage roll is `dice:1d6+1`. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers.*
 
 Choose and equip one set of **[armor](Armor.md)** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
 

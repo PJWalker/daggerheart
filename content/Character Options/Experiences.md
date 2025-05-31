@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+![[Experiences.webp]]
+
 An Experience is a word or phrase used to encapsulate a specific set of skills your character has acquired over the course of their exciting life.
 
 Your character starts with two Experiences (each with a +2 modifier), and they’ll earn more throughout your adventures. Before creating Experiences, you’ll want to have a solid idea of who your character is; the background questions are especially helpful for this. When you’re ready, work with your GM to create two Experiences that have shaped your character.

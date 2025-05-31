@@ -4,7 +4,7 @@ publish: "false"
 
   Flixie & Trixie were tasked with sending out letters to the party, to invite them to meet her.
 
-  Flixie quickly sent out some relatively straightforward messages about the party, with a *hint* that the [[funeral]] needn’t get in the way of the plans.
+  Flixie quickly sent out some relatively straightforward messages about the party, with a *hint* that the [[Funeral]] needn’t get in the way of the plans.
 
 Trixie… wasted a lot of time trying to make the messages ‘fun’… which meant [[Vinaeya Starfen|Vinaeya]] had already ‘died’ before she sent them out. Which meant she needed to be even *more* careful about hiding the messages.
 

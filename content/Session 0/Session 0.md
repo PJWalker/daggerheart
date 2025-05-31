@@ -22,7 +22,7 @@ In the coming cycles, the blooms of the the flowers would wilt and decay, and th
 
 When [[Vinaeya Starfen|Vinaeya]] heard news of these events from her, she knew that [[Archmage Phylax|Phylax]] would not have the self-awareness to and to retain balance with the forces of the wilds. She also knew that [[Archmage Phylax|Phylax]] would know that she would get in his way, and with the might of Haven on his side, she would not be able to simply confront him.
 
-When her companions [[Trixie & Flixie Glitterwing]] encountered an attempt to infiltrate her home while she was away, she knew she’d need to take drastic measures to turn things around.
+When her companions [[Trixie Glitterwing]] encountered an attempt to infiltrate her home while she was away, she knew she’d need to take drastic measures to turn things around.
 
 ***
 
