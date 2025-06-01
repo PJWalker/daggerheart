@@ -1,6 +1,4 @@
 ---
-tags:
-  - pc
 publish: "true"
 aliases:
   - Belinda
