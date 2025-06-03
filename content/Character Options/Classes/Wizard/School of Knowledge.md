@@ -23,4 +23,4 @@ Play the School of Knowledge if you want a keen understanding of the world aroun
 
 ***Brilliant:*** Take an additional domain card of your level or lower from a domain you have access to.
 
-***Honed Expertise:*** When you use an Experience, roll a d6. On a result of 5 or higher, you can use it without spending Hope.
+***Honed Expertise:*** When you use an Experience, roll  `dice:1d6`. On a result of 5 or higher, you can use it without spending Hope.

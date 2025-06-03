@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Grapple, intimidate, profit, steal
 
 > **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4
-> **ATK:** -3 | **Club:** Melee | 1d4+6 physical
+> **ATK:** -3 | **Club:** Melee | `dice:1d4+6` physical
 
 # Features
 

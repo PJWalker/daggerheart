@@ -18,11 +18,11 @@ publish: "false"
 
   *How do they benefit from vassalage, and what has it cost them? What exploitation drives them to consider opposing the unstoppable?*
 
-***The Gravity of Empire - Action:*** Spend a Fear to present a PC with a golden opportunity or offer to satisfy a major goal in exchange for obeying or supporting the empire. The target must make a Presence Reaction Roll. On a failure, they must mark all their Stress or accept the offer. If they have already marked all their Stress, they must reduce their Stress track by 1d4. On a success, they must mark 1d4 Stress as they’re taxed by temptation.
+***The Gravity of Empire - Action:*** Spend a Fear to present a PC with a golden opportunity or offer to satisfy a major goal in exchange for obeying or supporting the empire. The target must make a Presence Reaction Roll. On a failure, they must mark all their Stress or accept the offer. If they have already marked all their Stress, they must reduce their Stress track by `dice:1d4`. On a success, they must mark `dice:1d4` Stress as they’re taxed by temptation.
 
   *What do the PCs want so desperately they might consider throwing in with this ruthless power? How did imperial agents learn the PC’s greatest desires?*
 
-***Imperial Decree - Action:*** Spend a Fear to tick down a long-term countdown related to the empire’s agenda by 1d4. If this triggers the countdown, a proclamation related to the agenda is announced at court as the plan is executed.
+***Imperial Decree - Action:*** Spend a Fear to tick down a long-term countdown related to the empire’s agenda by `dice:1d4`. If this triggers the countdown, a proclamation related to the agenda is announced at court as the plan is executed.
 
   *What display of power or transfer of wealth was needed to expedite this plan? Whose lives were disrupted or upended to make this happen?*
 

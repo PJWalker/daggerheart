@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Make fear contagious, stick to the shadows, undermine resolve
 
 > **Difficulty:** 17 | **Thresholds:** 18/35 | **HP:** 6 | **Stress:** 5
-> **ATK:** +3 | **Miasma Bolt:** Far | 3d6+4 magic
+> **ATK:** +3 | **Miasma Bolt:** Far | `dice:3d6+4` magic
 
 # Features
 

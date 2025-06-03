@@ -2,6 +2,4 @@
 publish: "true"
 tags: [Item]
 ---
-# Calming Pendant
-
-When you would mark your last Stress, roll a d6. On a result of 5 or higher, don’t mark it.
+When you would mark your last Stress, roll  `dice:1d6`. On a result of 5 or higher, don’t mark it.

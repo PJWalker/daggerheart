@@ -6,11 +6,11 @@ publish: "false"
 **Motives & Tactics:** Fly away, harass, steal blood
 
 > **Difficulty:** 10 | **Thresholds:** 5/9 | **HP:** 6 | **Stress:** 3
-> **ATK:** -2 | **Proboscis:** Melee | 1d8+3 physical
+> **ATK:** -2 | **Proboscis:** Melee | `dice:1d8+3` physical
 
 # Features
 
-***Horde (1d4+1) - Passive:*** When the Mosquitoes have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead.
+***Horde (1d4+1) - Passive:*** When the Mosquitoes have marked half or more of their HP, their standard attack deals `dice:1d4+1` physical damage instead.
 
 ***Flying - Passive:*** While flying, the Mosquitoes have a +2 bonus to their Difficulty.
 

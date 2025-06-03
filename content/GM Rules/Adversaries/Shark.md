@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Find the blood, isolate prey, target the weak
 
 > **Difficulty:** 14 | **Thresholds:** 14/28 | **HP:** 7 | **Stress:** 3
-> **ATK:** +2 | **Toothy Maw:** Very Close | 2d12+1 physical
+> **ATK:** +2 | **Toothy Maw:** Very Close | `dice:2d12+1` physical
 
 # Features
 

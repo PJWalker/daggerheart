@@ -14,15 +14,15 @@ publish: "false"
 
   *What does it feel like to move in a space so alien to the Mortal Realm? What landmark or point do you fixate on to maintain your balance? What bizarre landmarks do you traverse on your journey?*
 
-***Everything You Are This Place Will Take from You - Action:*** Countdown (Loop 14). Activate the countdown. When it triggers, all PCs must succeed on a Presence Reaction Roll or their highest trait is temporarily reduced by 1d4 unless they mark a number of Stress equal to its value. Any lost trait points are regained if the PC critically succeeds or escapes the Chaos Realm.
+***Everything You Are This Place Will Take from You - Action:*** Countdown (Loop 14). Activate the countdown. When it triggers, all PCs must succeed on a Presence Reaction Roll or their highest trait is temporarily reduced by `dice:1d4` unless they mark a number of Stress equal to its value. Any lost trait points are regained if the PC critically succeeds or escapes the Chaos Realm.
 
   *How does this place try to steal from you that which makes you legendary? What does it feel to have this power taken from you?*
 
-***Unmake - Action:*** On a failure, they take 4d10 direct magic damage. On a success, they must mark a Stress.
+***Unmake - Action:*** On a failure, they take `dice:4d10` direct magic damage. On a success, they must mark a Stress.
 
   *What glimpse of other worlds do you catch while this place tries to unmake you? What core facet of your personality does the unmaking try to erase?*
 
-***Outer Realms Predators - Action:*** Spend a Fear to summon an Outer Realms Abomination, an Outer Realms Corruptor, and 2d6 Outer Realms Thralls, who appear at Close range of a chosen PC in defiance of logic and causality. Immediately spotlight one of these adversaries, and you can spend an additional Fear to automatically succeed on that adversary’s standard attack.
+***Outer Realms Predators - Action:*** Spend a Fear to summon an Outer Realms Abomination, an Outer Realms Corruptor, and `dice:2d6` Outer Realms Thralls, who appear at Close range of a chosen PC in defiance of logic and causality. Immediately spotlight one of these adversaries, and you can spend an additional Fear to automatically succeed on that adversary’s standard attack.
 
   *What half-consumed remnants of the shattered soul do these monstrosities cast aside in pursuit of living flesh? What jagged reflections of former personhood do you catch between moments of unquenching malice?*
 

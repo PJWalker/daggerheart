@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Corner, hit-and-run, petrify, seek vengeance
 
 > **Difficulty:** 15 | **Thresholds:** 13/25 | **HP:** 9 | **Stress:** 3
-> **ATK:** +4 | **Sinew Shortbow:** Far | 2d20+3 magic
+> **ATK:** +4 | **Sinew Shortbow:** Far | `dice:2d20+3` magic
 
 # Features
 
@@ -14,7 +14,7 @@ publish: "false"
 
 ***Suneater Arrows - Passive:*** When the Gorgon makes a successful standard attack, the target Glows until the end of the scene and can’t become Hidden. Attack rolls made against a Glowing target have advantage.
 
-***Crown of Serpents - Action:*** Make an attack roll against a target within Melee range using the Gorgon’s protective snakes. On a success, mark Stress to deal 2d10+4 physical damage and the target must mark a Stress.
+***Crown of Serpents - Action:*** Make an attack roll against a target within Melee range using the Gorgon’s protective snakes. On a success, mark Stress to deal `dice:2d10+4` physical damage and the target must mark a Stress.
 
 ***Petrifying Gaze - Reaction:*** When the Gorgon takes damage from an attack within Close range, you can spend a Fear to force the attacker to make an Instinct Reaction Roll. On a failure, they begin to turn to stone, marking a HP and starting a Petrification Countdown (4). This countdown ticks down when the Gorgon is attacked. When it triggers, the target must make a death move. If the Gorgon is defeated, all petrification countdowns end.
 

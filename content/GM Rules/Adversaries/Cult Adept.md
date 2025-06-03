@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Curry favor, hinder foes, uncover knowledge
 
 > **Difficulty:** 14 | **Thresholds:** 9/18 | **HP:** 4 | **Stress:** 6
-> **ATK:** +2 | **Rune-Covered Rod:** Far | 2d4+3 magic
+> **ATK:** +2 | **Rune-Covered Rod:** Far | `dice:2d4+3` magic
 
 # Features
 

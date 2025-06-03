@@ -6,13 +6,13 @@ publish: "false"
 **Motives & Tactics:** Dispatch merciless death, punish the defiant, secure victory at any cost
 
 > **Difficulty:** 18 | **Thresholds:** 35/58 | **HP:** 11 | **Stress:** 5
-> **ATK:** +8 | **Heart-Shattering Sword:** Very Close | 4d12+13 physical
+> **ATK:** +8 | **Heart-Shattering Sword:** Very Close | `dice:4d12+13` physical
 
 # Features
 
 ***Relentless (3) - Passive:*** The Undefeated Champion can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 
-***Faltering Armor - Passive:*** When the Undefeated Champion takes damage, reduce it by 1d10.
+***Faltering Armor - Passive:*** When the Undefeated Champion takes damage, reduce it by `dice:1d10`.
 
 ***Shattering Strike - Action:*** Mark a Stress to make a standard attack against all targets within Very Close range. PCs the Champion succeeds against lose a number of Hope equal to the HP they marked from this attack.
 

@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Devour, regenerate, terrify
 
 > **Difficulty:** 18 | **Thresholds:** 19/35 | **HP:** 10 | **Stress:** 5
-> **ATK:** +3 | **Bite:** Close | 2d12+2 physical
+> **ATK:** +3 | **Bite:** Close | `dice:2d12+2` physical
 
 # Features
 

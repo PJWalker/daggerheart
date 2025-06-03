@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Camouflage, consume and multiply, creep up, envelop
 
 > **Difficulty:** 8 | **Thresholds:** 5/10 | **HP:** 5 | **Stress:** 2
-> **ATK:** +1 | **Ooze Appendage:** Melee | 1d6+1 magic
+> **ATK:** +1 | **Ooze Appendage:** Melee | `dice:1d6+1` magic
 
 # Features
 

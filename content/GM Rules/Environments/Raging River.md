@@ -14,7 +14,7 @@ publish: "false"
 
   *Have any of the PCs forded rivers like this before? Are any of them afraid of drowning?*
 
-***Undertow - Action:*** Spend a Fear to catch a PC in the undertow. They must make an Agility Reaction Roll. On a failure, they take 1d6+1 physical damage and are moved a Close distance down the river, becoming Vulnerable until they get out of the river. On a success, they must mark a Stress.
+***Undertow - Action:*** Spend a Fear to catch a PC in the undertow. They must make an Agility Reaction Roll. On a failure, they take `dice:1d6+1` physical damage and are moved a Close distance down the river, becoming Vulnerable until they get out of the river. On a success, they must mark a Stress.
 
   *What trinkets and baubles lie along the bottom of the riverbed? Do predators swim these rivers?*
 

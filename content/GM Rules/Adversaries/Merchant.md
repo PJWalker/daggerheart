@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Buy low and sell high, create demand, inflate prices, seek profit
 
 > **Difficulty:** 12 | **Thresholds:** 4/8 | **HP:** 3 | **Stress:** 3
-> **ATK:** -4 | **Club:** Melee | 1d4+1 physical
+> **ATK:** -4 | **Club:** Melee | `dice:1d4+1` physical
 
 # Features
 

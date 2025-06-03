@@ -6,11 +6,11 @@ publish: "false"
 **Motives & Tactics:** Arrest, close gates, pin down, seek glory
 
 > **Difficulty:** 15 | **Thresholds:** 7/13 | **HP:** 7 | **Stress:** 3
-> **ATK:** +4 | **Mace:** Melee | 1d10+4 physical
+> **ATK:** +4 | **Mace:** Melee | `dice:1d10+4` physical
 
 # Features
 
-***Rally Guards - Action:*** Spend 2 Fear to spotlight the Head Guard and up to 2d4 allies within Far range.
+***Rally Guards - Action:*** Spend 2 Fear to spotlight the Head Guard and up to `dice:2d4` allies within Far range.
 
 ***On My Signal - Reaction:*** Countdown (5). When the Head Guard is in the spotlight for the first time, activate the countdown. It ticks down when a PC makes an attack roll. When it triggers, all Archer Guards within Far range make a standard attack with advantage against the nearest target within their range. If any attacks succeed on the same target, combine their damage.
 

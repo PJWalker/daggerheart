@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Crush, destroy, hurl debris, slam
 
 > **Difficulty:** 10 | **Thresholds:** 8/15 | **HP:** 7 | **Stress:** 4
-> **ATK:** +2 | **Slam:** Very Close | 1d12+3 physical
+> **ATK:** +2 | **Slam:** Very Close | `dice:1d12+3` physical
 
 # Features
 

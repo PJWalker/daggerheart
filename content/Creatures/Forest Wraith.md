@@ -1,7 +1,6 @@
 ---
 publish: "false"
 ---
-
 ![[Forest Wraith.webp]]
 
 T1 Bruiser

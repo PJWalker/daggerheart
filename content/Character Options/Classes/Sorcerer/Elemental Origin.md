@@ -15,7 +15,7 @@ You can shape this element into harmless effects. Additionally, spend a Hope and
 
 # Specialization Feature
 
-***Natural Evasion:*** You can call forth your element to protect you from harm. When an attack roll against you succeeds, you can mark a Stress and describe how you use your element to defend you. When you do, roll a d6 and add its result to your Evasion against the attack.
+***Natural Evasion:*** You can call forth your element to protect you from harm. When an attack roll against you succeeds, you can mark a Stress and describe how you use your element to defend you. When you do, roll  `dice:1d6` and add its result to your Evasion against the attack.
 
 # Mastery Feature
 

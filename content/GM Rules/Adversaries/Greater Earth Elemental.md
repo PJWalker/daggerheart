@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Avalanche, knock over, pummel
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 10 | **Stress:** 4
-> **ATK:** +7 | **Boulder Fist:** Very Close | 3d10+1 physical
+> **ATK:** +7 | **Boulder Fist:** Very Close | `dice:3d10+1` physical
 
 # Features
 
@@ -16,6 +16,6 @@ publish: "false"
 
 ***Immovable Object - Passive:*** An attack that would move the Elemental moves them two fewer ranges (for example, Far becomes Very Close). When the Elemental takes physical damage, reduce it by 7.
 
-***Rockslide - Action:*** Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take 2d12+5 physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage.
+***Rockslide - Action:*** Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take `dice:2d12+5` physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage.
 
 ***Momentum - Reaction:*** When the Elemental makes a successful attack against a PC, you gain a Fear.

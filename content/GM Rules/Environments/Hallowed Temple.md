@@ -16,7 +16,7 @@ publish: "false"
 
 ***Divine Guidance - Passive:*** A PC who prays to a deity while in the Hallowed Temple can make an Instinct Roll to receive answers. If the god they beseech isn’t welcome in this temple, roll this made with disadvantage.
 
-  - Critical Success: The PC gains clear information. Additionally, they gain 1d4 Hope, which can be distributed between the party if they share the vision and guidance they received.
+  - Critical Success: The PC gains clear information. Additionally, they gain `dice:1d4` Hope, which can be distributed between the party if they share the vision and guidance they received.
   - Success with Hope: The PC receives clear information.
   - Success with Fear: The PC receives brief flashes of insight and an emotional impression conveying an answer.
   - Any Failure: The PC receives only vague flashes. They can mark a Stress to receive one clear image without context.
@@ -27,6 +27,6 @@ publish: "false"
 
   *What emotions or memories do you connect with when fear presses in?*
 
-***Divine Censure - Reaction:*** When the PCs have trespassed, blasphemed, or offended the clergy, you can spend a Fear to summon a High Seraph and 1d4 Bladed Guards within Close range of the senior priest to reinforce their will.
+***Divine Censure - Reaction:*** When the PCs have trespassed, blasphemed, or offended the clergy, you can spend a Fear to summon a High Seraph and `dice:1d4` Bladed Guards within Close range of the senior priest to reinforce their will.
 
   *What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?*

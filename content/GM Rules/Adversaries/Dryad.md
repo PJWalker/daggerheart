@@ -6,11 +6,11 @@ publish: "false"
 **Motives & Tactics:** Camouflage, drive out, preserve the forest
 
 > **Difficulty:** 16 | **Thresholds:** 24/38 | **HP:** 8 | **Stress:** 5
-> **ATK:** +4 | **Deadfall Shortbow:** Far | 3d10+1 physical
+> **ATK:** +4 | **Deadfall Shortbow:** Far | `dice:3d10+1` physical
 
 # Features
 
-***Bramble Patch - Action:*** Mark a Stress to target a point within Far range. Create a patch of thorns that covers an area within Close range of that point. All targets within that area take 2d6+2 physical damage when they act. A target must succeed on a Finesse Roll or take more than 20 damage to the Dryad with an attack to leave the area.
+***Bramble Patch - Action:*** Mark a Stress to target a point within Far range. Create a patch of thorns that covers an area within Close range of that point. All targets within that area take `dice:2d6+2` physical damage when they act. A target must succeed on a Finesse Roll or take more than 20 damage to the Dryad with an attack to leave the area.
 
 ***Group Saplings - Action:*** Spend a Fear to grow three Treant Sapling Minions, who appear at Close range and immediately take the spotlight.
 

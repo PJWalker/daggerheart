@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Confuse, distract, overwhelm
 
 > **Difficulty:** 19 | **Thresholds:** 27/47 | **HP:** 4 | **Stress:** 3
-> **ATK:** +7 | **Corroding Pseudopod:** Very Close | 4d8+5 magic
+> **ATK:** +7 | **Corroding Pseudopod:** Very Close | `dice:4d8+5` magic
 
 # Features
 

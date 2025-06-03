@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Entice, maneuver, secure patrons
 
 > **Difficulty:** 13 | **Thresholds:** 7/13 | **HP:** 3 | **Stress:** 4
-> **ATK:** -3 | **Dagger:** Melee | 1d4+3 physical
+> **ATK:** -3 | **Dagger:** Melee | `dice:1d4+3` physical
 
 # Features
 

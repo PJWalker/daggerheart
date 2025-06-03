@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Consume, hound, maim, terrify
 
 > **Difficulty:** 20 | **Thresholds:** 40/70 | **HP:** 9 | **Stress:** 4
-> **ATK:** +4 | **Greataxe:** Very Close | 4d12+15 physical
+> **ATK:** +4 | **Greataxe:** Very Close | `dice:4d12+15` physical
 
 # Features
 

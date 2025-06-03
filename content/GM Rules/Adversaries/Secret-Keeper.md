@@ -6,11 +6,11 @@ publish: "false"
 **Motives & Tactics:** Amass great power, plot, take command
 
 > **Difficulty:** 16 | **Thresholds:** 13/26 | **HP:** 7 | **Stress:** 4
-> **ATK:** +3 | **Sigil-Laden Staff:** Far | 2d12 magic
+> **ATK:** +3 | **Sigil-Laden Staff:** Far | `dice:2d12` magic
 
 # Features
 
-***Seize Your Moment - Action:*** Spend 2 Fear to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage.
+***Seize Your Moment - Action:*** Spend 2 Fear to spotlight `dice:1d4` allies. Attacks they make while spotlighted in this way deal half damage.
 
 ***Our Master’s Will - Reaction:*** When you spotlight an ally within Far range, mark a Stress to gain a Fear.
 

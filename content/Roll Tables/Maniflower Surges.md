@@ -2,7 +2,7 @@
 publish: "false"
 ---
 
-If a [[Maniflower]] is used with fear, roll `dice:2d12`and incur the corresponding effect:
+If a [[Manafold bloom]] is used with fear, roll `dice:2d12`and incur the corresponding effect:
 
 | Roll | Effect                                                                                                      |
 | ---- | ----------------------------------------------------------------------------------------------------------- |

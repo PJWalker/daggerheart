@@ -19,7 +19,7 @@ publish: "false"
 
   *Who has what kind of information? What gossip do the locals start spreading about the PCs?*
 
-***Sing for Your Supper - Passive:*** A PC can perform one time for the guests by making a Presence Roll. On a success, they earn 1d4 handfuls of gold (2d4 if they critically succeed). On a failure, they mark a Stress.
+***Sing for Your Supper - Passive:*** A PC can perform one time for the guests by making a Presence Roll. On a success, they earn `dice:1d4` handfuls of gold (2d4 if they critically succeed). On a failure, they mark a Stress.
 
   *What piece do you perform? What does that piece mean to you? When’s the last time you performed it for a crowd?*
 
@@ -31,6 +31,6 @@ publish: "false"
 
   *Did they know the PCs were here? What do they want in this town?*
 
-***Bar Fight - Action:*** Spend a Fear to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take 1d6+2 physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons.
+***Bar Fight - Action:*** Spend a Fear to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take `dice:1d6+2` physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons.
 
   *Who started the fight? What will it take to stop it?*

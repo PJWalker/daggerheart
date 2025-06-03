@@ -18,14 +18,14 @@ publish: "false"
 
   *What are the names of the tomes? What project is the necromancer working on and what does it communicate about their plans?*
 
-***Skeletal Burst - Action:*** All targets within Close range of a point you choose in this environment must succeed on an Agility Reaction Roll or take 4d8+8 physical damage from bone shrapnel as part of the ossuary detonates around them.
+***Skeletal Burst - Action:*** All targets within Close range of a point you choose in this environment must succeed on an Agility Reaction Roll or take `dice:4d8+8` physical damage from bone shrapnel as part of the ossuary detonates around them.
 
   *What ancient skeletal architecture is destroyed? What bones stick in your armor?*
 
-***Aura of Death - Action:*** Once per scene, roll a d4. Each undead within Far range of the Necromancer can clear HP and Stress equal to the result rolled. The undead can choose how that total number is divided between HP and Stress.
+***Aura of Death - Action:*** Once per scene, roll  `dice:1d4`. Each undead within Far range of the Necromancer can clear HP and Stress equal to the result rolled. The undead can choose how that total number is divided between HP and Stress.
 
   *How does the power manifest? Do the undead look more lifelike or, paradoxically, are they more decayed but vigorous?*
 
-***They Just Keep Coming! - Action:*** Spend a Fear to summon 1d6 Rotted Zombies, two Perfected Zombies, or a Zombie Legion, who appear at Close range of a chosen PC.
+***They Just Keep Coming! - Action:*** Spend a Fear to summon `dice:1d6` Rotted Zombies, two Perfected Zombies, or a Zombie Legion, who appear at Close range of a chosen PC.
 
   *Who were these people before they became the necromancer’s pawns? What vestiges of those lives remain for the heroes to see?*

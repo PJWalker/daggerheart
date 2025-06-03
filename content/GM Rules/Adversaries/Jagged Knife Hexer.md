@@ -6,10 +6,10 @@ publish: "false"
 **Motives & Tactics:** Command, hex, profit
 
 > **Difficulty:** 13 | **Thresholds:** 5/9 | **HP:** 4 | **Stress:** 4
-> **ATK:** +2 | **Staff:** Far | 1d6+2 magic
+> **ATK:** +2 | **Staff:** Far | `dice:1d6+2` magic
 
 # Features
 
 ***Curse - Action:*** Choose a target within Far range and temporarily Curse them. While the target is Cursed, you can mark a Stress so that target rolls with Hope to make the roll be with Fear instead.
 
-***Chaotic Flux - Action:*** Make an attack against up to three targets within Very Close range. Mark a Stress to deal 2d6+3 magic damage to targets the Hexer succeeded against.
+***Chaotic Flux - Action:*** Make an attack against up to three targets within Very Close range. Mark a Stress to deal `dice:2d6+3` magic damage to targets the Hexer succeeded against.

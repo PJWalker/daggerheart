@@ -24,7 +24,7 @@ publish: "false"
 
 ***Collateral Damage - Reaction:*** When an adversary is defeated, you can spend a Fear to have a stray attack from a siege weapon hit a point on the battlefield. All targets within Very Close range of that point must make an Agility Reaction Roll.
 
-  - Targets who fail take 3d8+3 physical or magic damage and must mark a Stress.
+  - Targets who fail take `dice:3d8+3` physical or magic damage and must mark a Stress.
   - Targets who succeed must mark a Stress.
 
   *What debris is scattered by the attack? What is broken by the strike that can’t be easily mended?*

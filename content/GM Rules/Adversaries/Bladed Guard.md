@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Arrest, close gates, make it through the day, pin down
 
 > **Difficulty:** 12 | **Thresholds:** 5/9 | **HP:** 5 | **Stress:** 2
-> **ATK:** +1 | **Longsword:** Melee | 1d6+1 physical
+> **ATK:** +1 | **Longsword:** Melee | `dice:1d6+1` physical
 
 # Features
 

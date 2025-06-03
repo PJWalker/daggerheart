@@ -18,7 +18,7 @@ publish: "false"
 
   *What god favors you as you fight against this usurpation? How does your renewed power reflect their influence?*
 
-***Defiers Abound - Action:*** Spend 2 Fear to summon 1d4+2 Fallen Shock Troops that appear within Close range of the Usurper to assist their divine siege. Immediately spotlight the Shock Troops to use a “Group Attack” action.
+***Defiers Abound - Action:*** Spend 2 Fear to summon `dice:1d4+2` Fallen Shock Troops that appear within Close range of the Usurper to assist their divine siege. Immediately spotlight the Shock Troops to use a “Group Attack” action.
 
   *Which High Fallen do these troops serve? Which god’s flesh do they wish to feast upon?*
 
@@ -30,6 +30,6 @@ publish: "false"
 
   *How does the Mortal Realm writhe as the natural order is violated? What mortals witness this blasphemy from afar?*
 
-***Ritual Nexus - Reaction:*** On any failure with Fear against the Usurper, the PC must mark 1d4 Stress from the backlash of magical power.
+***Ritual Nexus - Reaction:*** On any failure with Fear against the Usurper, the PC must mark `dice:1d4` Stress from the backlash of magical power.
 
   *What visions of failures past torment you as your efforts fall short? How are these memories twisted by the Usurper?*

@@ -1,7 +1,6 @@
 ---
 publish: "false"
 ---
-
 ![[Ancient Skeleton.webp]]
 T1 Standard
 Rusted Sword - Melee - `dice:1d6+1` Physical

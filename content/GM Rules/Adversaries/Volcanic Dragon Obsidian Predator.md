@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Defend lair, dive-bomb, fly, hunt, intimidate
 
 > **Difficulty:** 19 | **Thresholds:** 33/65 | **HP:** 6 | **Stress:** 5
-> **ATK:** +8 | **Obsidian Claws:** Close | 4d10+4 physical
+> **ATK:** +8 | **Obsidian Claws:** Close | `dice:4d10+4` physical
 
 # Features
 
@@ -16,8 +16,8 @@ publish: "false"
 
 ***Obsidian Scales - Passive:*** Resistant to physical damage.
 
-***Obsidian Tail - Action:*** Mark a Stress to make attack against all targets within Close range. Success: 4d6+4 physical damage, knocked to Far range and Vulnerable until next roll with Hope.
+***Obsidian Tail - Action:*** Mark a Stress to make attack against all targets within Close range. Success: `dice:4d6+4` physical damage, knocked to Far range and Vulnerable until next roll with Hope.
 
-***Dive-Bomb - Action:*** If flying, mark a Stress to choose point within Far range, move there, attack all targets within Very Close range; on success, 2d10+6 physical, mark a Stress, lose a Hope.
+***Dive-Bomb - Action:*** If flying, mark a Stress to choose point within Far range, move there, attack all targets within Very Close range; on success, `dice:2d10+6` physical, mark a Stress, lose a Hope.
 
 ***Erupting Rage (Phase Change) - Reaction:*** When marks last HP, replace with Molten Scourge and immediately spotlight.

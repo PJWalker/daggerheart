@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Curry favor, manufacture evidence, scheme
 
 > **Difficulty:** 14 | **Thresholds:** 8/15 | **HP:** 3 | **Stress:** 3
-> **ATK:** -3 | **Wand:** Far | 1d4+3 physical
+> **ATK:** -3 | **Wand:** Far | `dice:1d4+3` physical
 
 # Features
 

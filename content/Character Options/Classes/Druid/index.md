@@ -2,7 +2,6 @@
 publish: "true"
 title: Druid
 ---
-
 Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
 
 > **• DOMAINS:** [[Character Options/Abilities/Sage/index|Sage]] & [[Character Options/Abilities/Arcana/index|Arcana]]
@@ -67,7 +66,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 > Instinct +1 | Evasion +2 | Melee Instinct d6 physical
 > **Gain advantage on:** climb, locate, protect
 
-***Companion:*** When you Help an Ally, you can roll a d8 as your advantage die.
+***Companion:*** When you Help an Ally, you can roll  `dice:1d8` as your advantage die.
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
@@ -78,7 +77,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 > Agility +1 | Evasion +3 | Melee Agility d6 physical
 > **Gain advantage on:** leap, sneak, sprint
 
-***Elusive Prey:*** When an attack roll against you would succeed, you can mark a Stress and roll a d4. Add the result to your Evasion against this attack.
+***Elusive Prey:*** When an attack roll against you would succeed, you can mark a Stress and roll  `dice:1d4`. Add the result to your Evasion against this attack.
 
 ***Fragile:*** When you take Major or greater damage, you drop out of Beastform.
 
@@ -91,7 +90,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Hobbling Strike:*** When you succeed on an attack against a target within Melee range, you can mark a Stress to make the target temporarily Vulnerable.
 
-***Pack Hunting:*** When you succeed on an attack against the same target as an ally who acts immediately before you, add a d8 to your damage roll.
+***Pack Hunting:*** When you succeed on an attack against the same target as an ally who acts immediately before you, add  `dice:1d8` to your damage roll.
 
 ### Aquatic Scout
 
@@ -146,7 +145,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 > Strength +1 | Evasion +3 | Melee Strength d10+4 physical
 > **Gain advantage on:** navigate, protect, scare
 
-***Rampage:*** When you roll a 1 on a damage die, you can roll a d10 and add the result to the damage roll. Additionally, before you make an attack roll, you can mark a Stress to gain a +1 bonus to your Proficiency for that attack.
+***Rampage:*** When you roll a 1 on a damage die, you can roll  `dice:1d10` and add the result to the damage roll. Additionally, before you make an attack roll, you can mark a Stress to gain a +1 bonus to your Proficiency for that attack.
 
 ***Thick Hide:*** You gain a +2 bonus to your damage thresholds.
 
@@ -157,7 +156,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 > Finesse +1 | Evasion +2 | Very Close Finesse d8+4 physical
 > **Gain advantage on:** climb, deceive, sprint
 
-***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes 1d10 physical direct damage each time they act.
+***Venomous Strike:*** Make an attack against any number of targets within Very Close range. On a success, a target is temporarily Poisoned. A Poisoned creature takes `dice:1d10` physical direct damage each time they act.
 
 ***Warning Hiss:*** Mark a Stress to force any number of targets within Melee range to move back to Very Close range.
 
@@ -293,7 +292,7 @@ Beastform categories are divided by tier. Each entry includes the following deta
 
 ***Ocean Master:*** You can breathe and move naturally underwater. When you succeed on an attack against a target within Melee range, you can temporarily Restrain them.
 
-***Unyielding:*** When you would mark an Armor Slot, roll a d6. On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
+***Unyielding:*** When you would mark an Armor Slot, roll  `dice:1d6`. On a result of 5 or higher, reduce the severity by one threshold without marking an Armor Slot.
 
 ### Mythic Beast
 

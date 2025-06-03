@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Bite, charm, deceive, feed, intimidate
 
 > **Difficulty:** 16 | **Thresholds:** 18/35 | **HP:** 5 | **Stress:** 4
-> **ATK:** +3 | **Rapier:** Melee | 3d8 physical
+> **ATK:** +3 | **Rapier:** Melee | `dice:3d8` physical
 
 # Features
 

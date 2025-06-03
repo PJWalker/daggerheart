@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Fuel anger, impress rivals, wreak havoc
 
 > **Difficulty:** 17 | **Thresholds:** 22/40 | **HP:** 7 | **Stress:** 5
-> **ATK:** +3 | **Fists:** Very Close | 3d8+1 magic
+> **ATK:** +3 | **Fists:** Very Close | `dice:3d8+1` magic
 
 # Features
 
@@ -16,4 +16,4 @@ publish: "false"
 
 ***Retaliation - Reaction:*** When the Demon takes damage from an attack within Close range, you can mark a Stress to make a standard attack against the attacker.
 
-***Blood and Souls - Reaction: Countdown (Loop 6):*** Activate the first time an attack is made within sight of the Demon. It ticks down when a PC takes a violent action. When it triggers, summon 1d4 Minor Demons, who appear at Close range.
+***Blood and Souls - Reaction: Countdown (Loop 6):*** Activate the first time an attack is made within sight of the Demon. It ticks down when a PC takes a violent action. When it triggers, summon `dice:1d4` Minor Demons, who appear at Close range.

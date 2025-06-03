@@ -8,6 +8,6 @@ After a long rest, place a number of tokens equal to your Knowledge on this card
 
 - You make the attack with advantage.
 - You clear a Stress on an ally within Melee range of the adversary.
-- You add a d8 to your damage roll.
+- You add  `dice:1d8` to your damage roll.
 
 When you take a long rest, clear all unspent tokens.

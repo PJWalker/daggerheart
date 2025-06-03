@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Absorb corpses, flail, hunger, terrify
 
 > **Difficulty:** 13 | **Thresholds:** 8/15 | **HP:** 10 | **Stress:** 3
-> **ATK:** +4 | **Too Many Arms:** Very Close | 1d20 physical
+> **ATK:** +4 | **Too Many Arms:** Very Close | `dice:1d20` physical
 
 # Features
 

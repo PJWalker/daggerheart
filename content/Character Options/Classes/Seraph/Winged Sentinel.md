@@ -12,7 +12,7 @@ Play the Winged Sentinel if you want to take flight and strike crushing blows fr
 ***Wings of Light:*** You can fly. While flying, you can do the following:
 
 - Mark a Stress to pick up and carry another willing creature approximately your size or smaller.
-- Spend a Hope to deal an extra 1d8 damage on a successful attack.
+- Spend a Hope to deal an extra `dice:1d8` damage on a successful attack.
 
 # Specialization Feature
 
@@ -22,4 +22,4 @@ Play the Winged Sentinel if you want to take flight and strike crushing blows fr
 
 ***Ascendant:*** Gain a permanent +4 bonus to your Severe damage threshold.
 
-***Power of the Gods:*** While flying, you deal an extra 1d12 damage instead of 1d8 from your “Wings of Light” feature.
+***Power of the Gods:*** While flying, you deal an extra `dice:1d12` damage instead of 1d8 from your “Wings of Light” feature.

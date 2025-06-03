@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Devour, hungry, mob enemy, shred flesh
 
 > **Difficulty:** 10 | **Thresholds:** 4/6 | **HP:** 4 | **Stress:** 1
-> **ATK:** 0 | **Bite:** Melee | 1d6+1 physical
+> **ATK:** 0 | **Bite:** Melee | `dice:1d6+1` physical
 
 # Features
 

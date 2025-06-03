@@ -23,7 +23,7 @@ Play the Syndicate if you want to have a web of contacts everywhere you go.
 
 - They provide 1 handful of gold, a unique tool, or a mundane object that the situation requires.
 - On your next action roll, their help provides a +3 bonus to the result of your Hope or Fear Die.
-- The next time you deal damage, they snipe from the shadows, adding 2d8 to your damage roll.
+- The next time you deal damage, they snipe from the shadows, adding `dice:2d8` to your damage roll.
 
 # Mastery Feature
 

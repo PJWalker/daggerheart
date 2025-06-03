@@ -18,7 +18,7 @@ publish: "false"
 
   *What is valuable here? Who is most vulnerable?*
 
-***War Magic - Action:*** Spend a Fear as a mage from one side uses large-scale destructive magic. Pick a point on the battlefield within Very Far range of the mage. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take 3d12+8 magic damage and must mark a Stress.
+***War Magic - Action:*** Spend a Fear as a mage from one side uses large-scale destructive magic. Pick a point on the battlefield within Very Far range of the mage. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take `dice:3d12+8` magic damage and must mark a Stress.
 
   *What form does the attack take—fireball, raining acid, a storm of blades? What tactical objective is this attack meant to accomplish, and what comes next?*
 

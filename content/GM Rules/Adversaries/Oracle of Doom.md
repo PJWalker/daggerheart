@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Change environment, condemn, dishearten, toss aside
 
 > **Difficulty:** 20 | **Thresholds:** 38/68 | **HP:** 11 | **Stress:** 10
-> **ATK:** +8 | **Psychic Attack:** Far | 4d8+9 magic
+> **ATK:** +8 | **Psychic Attack:** Far | `dice:4d8+9` magic
 
 # Features
 
@@ -14,10 +14,10 @@ publish: "false"
 
 ***Walls Closing In - Passive:*** When a creature rolls a failure while within Very Far range of the Oracle, they must mark a Stress.
 
-***Pronounce Fate - Action:*** Spend a Fear to present a target within Far range with a vision of their personal nightmare. The target must make a Knowledge Reaction Roll. On a failure, they lose all Hope and take 2d10+4 direct magic damage. On a success, they take half damage and lose a Hope.
+***Pronounce Fate - Action:*** Spend a Fear to present a target within Far range with a vision of their personal nightmare. The target must make a Knowledge Reaction Roll. On a failure, they lose all Hope and take `dice:2d10+4` direct magic damage. On a success, they take half damage and lose a Hope.
 
-***Summon Tormentors - Action:*** Once per day, spend 2 Fear to summon 2d4 #Tier2 or below Minions relevant to one of the PC’s personal nightmares. They appear at Close range relative to that PC.
+***Summon Tormentors - Action:*** Once per day, spend 2 Fear to summon `dice:2d4` #Tier2 or below Minions relevant to one of the PC’s personal nightmares. They appear at Close range relative to that PC.
 
 ***Ominous Knowledge - Reaction:*** When the Oracle sees a mortal creature, they instantly know one of their personal nightmares.
 
-***Vengeful Fate - Reaction:*** When the Oracle marks HP from an attack within Very Close range, you can mark a Stress to knock the attacker back to Far range and deal 2d10+4 physical damage.
+***Vengeful Fate - Reaction:*** When the Oracle marks HP from an attack within Very Close range, you can mark a Stress to knock the attacker back to Far range and deal `dice:2d10+4` physical damage.

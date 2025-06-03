@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Concentrate fire, lock down, mark, protect
 
 > **Difficulty:** 16 | **Thresholds:** 20/32 | **HP:** 5 | **Stress:** 4
-> **ATK:** +3 | **Magitech Cannon:** Far | 3d10+3 magic
+> **ATK:** +3 | **Magitech Cannon:** Far | `dice:3d10+3` magic
 
 # Features
 
@@ -16,4 +16,4 @@ publish: "false"
 
 ***Concentrate Fire - Reaction:*** When another adversary deals damage to a target within Far range of the Turret, you can mark a Stress to add the Turret’s standard attack damage to the damage roll.
 
-***Detonation - Reaction:*** When the Turret is destroyed, they explode. All targets within Close range must make an Agility Reaction Roll. Targets who fail take 3d20 physical damage. Targets who succeed take half damage.
+***Detonation - Reaction:*** When the Turret is destroyed, they explode. All targets within Close range must make an Agility Reaction Roll. Targets who fail take `dice:3d20` physical damage. Targets who succeed take half damage.

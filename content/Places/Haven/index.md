@@ -1,5 +1,8 @@
 ---
-aliases: [Havenite, Havenites]
+aliases:
+  - Havenite
+  - Havenites
+  - Haven
 title: Haven
 ---
 A walled metropolis to the east, surrounded by desert/tundra.

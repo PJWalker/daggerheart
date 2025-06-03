@@ -1,7 +1,6 @@
 ---
 publish: "false"
 ---
-
 - [ ] What’s it called?
 - [ ] Where can we stay?
 - [ ] Where can we buy things?

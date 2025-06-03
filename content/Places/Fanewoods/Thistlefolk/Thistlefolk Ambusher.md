@@ -8,4 +8,4 @@
 
 # **FEATURES**
 
-***Ambush - Reaction*:** When the ambusher enters the scene without being spotted first, they can immediately move into melee with a target and make an attack against them. On a success, they strike with their dagger for 2d4+8 (phy) damage.
+***Ambush - Reaction*:** When the ambusher enters the scene without being spotted first, they can immediately move into melee with a target and make an attack against them. On a success, they strike with their dagger for `dice:2d4+8` (phy) damage.

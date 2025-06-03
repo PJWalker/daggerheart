@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Command, make a living, maneuver, pin down, protect companion animals
 
 > **Difficulty:** 16 | **Thresholds:** 12/24 | **HP:** 6 | **Stress:** 5
-> **ATK:** +2 | **Longbow:** Far | 2d8+4 physical
+> **ATK:** +2 | **Longbow:** Far | `dice:2d8+4` physical
 
 # Features
 

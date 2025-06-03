@@ -11,7 +11,7 @@ The GM has no Duality Dice; instead, they roll a single d20 called the GM’s Di
 
 When an adversary attacks a PC, roll your d20 and add the adversary’s attack bonus to the result. If the total meets or beats the target’s Evasion, the attack succeeds; otherwise, the attack fails. On a successful attack, roll the attack’s damage dice to determine how much it deals.
 
-If you roll a natural 20 on an attack, your roll automatically succeeds and you deal extra damage. Roll damage normally, then add the highest number on the damage dice to the total. For example, an attack that deals 3d6+2 deals 18+3d6+2 on a critical success; the critical success does not affect the flat damage modifier.
+If you roll a natural 20 on an attack, your roll automatically succeeds and you deal extra damage. Roll damage normally, then add the highest number on the damage dice to the total. For example, an attack that deals `dice:3d6+2` deals 18+3d6+2 on a critical success; the critical success does not affect the flat damage modifier.
 
 > ***Note:*** *A critical success on an adversary’s reaction roll automatically succeeds, but confers no additional benefit.*
 
@@ -338,7 +338,7 @@ If you want an important NPC to mechanically interact with the system, you can g
 ### Into the Night
 
 - ***Trigger:*** The PCs start a long rest with this NPC.
-- ***Effect:*** Roll 1d4. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
+- ***Effect:*** Roll `dice:1d4`. On a 2 or less, this NPC steals 1 handful of gold from the party while they are sleeping, then disappears into the night.
 
 ## Optional Gm Mechanics
 

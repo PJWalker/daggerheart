@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Avalanche, defend lair, fly, freeze, defend what is mine, maul
 
 > **Difficulty:** 18 | **Thresholds:** 21/41 | **HP:** 10 | **Stress:** 6
-> **ATK:** +7 | **Bite and Claws:** Close | 4d10 physical
+> **ATK:** +7 | **Bite and Claws:** Close | `dice:4d10` physical
 
 # Features
 
@@ -16,7 +16,7 @@ publish: "false"
 
 ***No Hope - Passive:*** When a PC rolls with Fear while within Far range of the Dragon, they lose a Hope.
 
-***Blizzard Breath - Action:*** Spend 2 Fear to release an icy whirlwind in an area within Close range. All targets in this area must make an Agility Reaction Roll. Targets who fail take 4d6+5 magic damage and are Restrained by ice until they break free with a successful Strength Roll. Targets who succeed must mark 2 Stress or take half damage.
+***Blizzard Breath - Action:*** Spend 2 Fear to release an icy whirlwind in an area within Close range. All targets in this area must make an Agility Reaction Roll. Targets who fail take `dice:4d6+5` magic damage and are Restrained by ice until they break free with a successful Strength Roll. Targets who succeed must mark 2 Stress or take half damage.
 
 ***Avalanche - Action:*** Spend a Fear to have the Dragon unleash a huge downfall of snow and ice, covering all other creatures within Far range. All targets within this area must succeed on an Instinct Reaction Roll or be buried in snow and rocks, becoming Vulnerable until they dig themselves out from the debris. For each PC that fails the reaction roll, you gain a Fear.
 

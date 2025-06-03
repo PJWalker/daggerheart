@@ -6,11 +6,11 @@ publish: "false"
 **Motives & Tactics:** Acquire, dishearten, dominate, torment
 
 > **Difficulty:** 19 | **Thresholds:** 26/42 | **HP:** 6 | **Stress:** 5
-> **ATK:** +4 | **Corrupted Staff:** Far | 4d6+10 magic
+> **ATK:** +4 | **Corrupted Staff:** Far | `dice:4d6+10` magic
 
 # Features
 
-***Conflagration - Action:*** Spend a Fear to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take 2d10+6 direct magic damage.
+***Conflagration - Action:*** Spend a Fear to unleash an all-consuming firestorm and make an attack against all targets within Close range. Targets the Sorcerer succeeds against take `dice:2d10+6` direct magic damage.
 
 ***Nightmare Tableau - Action:*** Mark a Stress to trap a target within Far range in a powerful illusion of their worst fears. While trapped, the target is Restrained and Vulnerable until they break free, ending both conditions, with a successful Instinct Roll.
 

@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Camouflage, creep up
 
 > **Difficulty:** 14 | **Thresholds:** 4/None | **HP:** 2 | **Stress:** 1
-> **ATK:** -1 | **Ooze Appendage:** Melee | 1d4+1 magic
+> **ATK:** -1 | **Ooze Appendage:** Melee | `dice:1d4+1` magic
 
 # Features
 

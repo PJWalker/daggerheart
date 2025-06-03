@@ -17,7 +17,7 @@ publish: "false"
 ***Blasphemous Might - Action:*** A portion of the ritual’s power is diverted into a cult member to fight off interlopers. Choose one adversary to become Imbued with terrible magic until the scene ends or they’re defeated. An Imbued adversary immediately takes the spotlight and gains one of the following benefits, or all three if you spend a Fear:
 
   - They gain advantage on all attacks.
-  - They deal an extra 1d10 damage on a successful attack.
+  - They deal an extra `dice:1d10` damage on a successful attack.
   - They gain the following feature:
     Relentless (2) - Passive: This adversary can be spotlighted multiple times per GM turn. Spend Fear as usual to spotlight them.
 

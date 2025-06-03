@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Consume, fuel greed, sow dissent
 
 > **Difficulty:** 17 | **Thresholds:** 15/29 | **HP:** 6 | **Stress:** 5
-> **ATK:** +2 | **Hungry Maw:** Melee | 3d6+5 magic
+> **ATK:** +2 | **Hungry Maw:** Melee | `dice:3d6+5` magic
 
 # Features
 
@@ -14,4 +14,4 @@ publish: "false"
 
 ***Numbers Must Go Up - Passive:*** Add a bonus to the Demon’s attack rolls equal to the number of handfuls of gold they have.
 
-***Money is Time - Action:*** Spend 3 handfuls of gold (or a Fear) to spotlight 1d4+1 allies.
+***Money is Time - Action:*** Spend 3 handfuls of gold (or a Fear) to spotlight `dice:1d4+1` allies.

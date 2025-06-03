@@ -120,7 +120,7 @@ High-impact effects that cost a Fear to activate.
 
 ## Fear Features
 
-***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take 1d8 magic damage and are knocked back to Far range.
+***Explosion - Action:*** Spend a Fear to erupt in a fiery explosion. Make an attack against all targets within Close range. Targets the adversary succeeds against take `dice:1d8` magic damage and are knocked back to Far range.
 
 # Building Balanced Encounters
 

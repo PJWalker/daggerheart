@@ -1,7 +1,6 @@
 ---
 publish: "false"
 ---
-
 ***#Tier4 Leader***
 *A decaying mage adorned in dark, tattered robes.*
 **Motives & Tactics:** Corrupt, decay, flee to fight another day, resurrect

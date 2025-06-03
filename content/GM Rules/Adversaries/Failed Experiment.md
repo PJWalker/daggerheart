@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Devour, hunt, track
 
 > **Difficulty:** 13 | **Thresholds:** 12/23 | **HP:** 3 | **Stress:** 3
-> **ATK:** +1 | **Bite and Claw:** Melee | 2d6+5 physical
+> **ATK:** +1 | **Bite and Claw:** Melee | `dice:2d6+5` physical
 
 # Features
 

@@ -2,7 +2,6 @@
 publish: "true"
 title: Bard
 ---
-
 Bards are the most charismatic people in all the realms. Members of this class are masters of captivation and specialise in a variety of performance types, including singing, playing musical instruments, weaving tales, or telling jokes. Whether performing for an audience or speaking to an individual, bards thrive in social situations. Members of this profession bond and train at schools or guilds, but a current of egotism runs through those of the bardic persuasion. While they may be the most likely class to bring people together, a bard of ill temper can just as easily tear a party apart.
 
 > **• DOMAINS:** [[Character Options/Abilities/Grace/index|Grace]] & [[Character Options/Abilities/Codex/index|Codex]]

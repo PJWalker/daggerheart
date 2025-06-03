@@ -2,7 +2,6 @@
 publish: "false"
 title: Environments
 ---
-
 *Environments represent everything in a scene beyond the PCs and adversaries, such as the physical space, background NPCs, and natural forces.*
 
 # Environment Stat Block

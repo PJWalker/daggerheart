@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Run down, seek glory, show dominance
 
 > **Difficulty:** 15 | **Thresholds:** 13/26 | **HP:** 6 | **Stress:** 4
-> **ATK:** +4 | **Longsword:** Melee | 2d10+4 physical
+> **ATK:** +4 | **Longsword:** Melee | `dice:2d10+4` physical
 
 # Features
 
@@ -14,6 +14,6 @@ publish: "false"
 
 ***Heavily Armored - Passive:*** When the Knight takes physical damage, reduce it by 3.
 
-***Cavalry Charge - Action:*** If the Knight is mounted, move up to Far range and make a standard attack against a target. On a success, deal 2d8+4 physical damage and the target must mark a Stress.
+***Cavalry Charge - Action:*** If the Knight is mounted, move up to Far range and make a standard attack against a target. On a success, deal `dice:2d8+4` physical damage and the target must mark a Stress.
 
-***For the Realm! - Action:*** Mark a Stress to spotlight 1d4+1 allies. Attacks they make while spotlighted in this way deal half damage.
+***For the Realm! - Action:*** Mark a Stress to spotlight `dice:1d4+1` allies. Attacks they make while spotlighted in this way deal half damage.

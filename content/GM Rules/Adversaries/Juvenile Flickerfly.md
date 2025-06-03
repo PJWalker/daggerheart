@@ -6,13 +6,13 @@ publish: "false"
 **Motives & Tactics:** Collect shiny things, hunt, swoop
 
 > **Difficulty:** 14 | **Thresholds:** 13/26 | **HP:** 10 | **Stress:** 5
-> **ATK:** +3 | **Wing Slash:** Very Close | 2d10+4 physical
+> **ATK:** +3 | **Wing Slash:** Very Close | `dice:2d10+4` physical
 
 # Features
 
 ***Relentless (3) - Passive:*** The Flickerfly can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight them.
 
-***Peerless Accuracy - Passive:*** Before the Flickerfly makes an attack, roll a d6. On a result of 4 or higher, the target’s Evasion is halved against this attack.
+***Peerless Accuracy - Passive:*** Before the Flickerfly makes an attack, roll  `dice:1d6`. On a result of 4 or higher, the target’s Evasion is halved against this attack.
 
 ***Mind Dance - Action:*** Mark a Stress to create a magically dazzling display that grapples the minds of nearby foes. All targets within Close range must make an Instinct Reaction Roll. For each target who failed, you gain a Fear and the Flickerfly learns one of the target’s fears.
 

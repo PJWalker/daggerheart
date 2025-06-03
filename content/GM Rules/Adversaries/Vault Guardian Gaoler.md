@@ -6,7 +6,7 @@ publish: "false"
 **Motives & Tactics:** Carry away, entrap, protect, pummel
 
 > **Difficulty:** 16 | **Thresholds:** 19/33 | **HP:** 5 | **Stress:** 3
-> **ATK:** +2 | **Body Bash:** Very Close | 3d6+2 physical
+> **ATK:** +2 | **Body Bash:** Very Close | `dice:3d6+2` physical
 
 # Features
 

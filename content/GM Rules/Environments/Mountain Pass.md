@@ -14,7 +14,7 @@ publish: "false"
 
   *Who laid this enchantment? Are they nearby? Why did they want the weather to be more daunting?*
 
-***Avalanche - Action:*** Spend a Fear to carve the mountain with an icy torrent, causing an avalanche. All PCs in its path must succeed on an Agility or Strength Reaction Roll or be bowled over and carried down the mountain. A PC using rope, pitons, or other climbing gear gains advantage on this roll. Targets who fail are knocked down the mountain to Far range, take 2d20 physical damage, and must mark a Stress. Targets who succeed must mark a Stress.
+***Avalanche - Action:*** Spend a Fear to carve the mountain with an icy torrent, causing an avalanche. All PCs in its path must succeed on an Agility or Strength Reaction Roll or be bowled over and carried down the mountain. A PC using rope, pitons, or other climbing gear gains advantage on this roll. Targets who fail are knocked down the mountain to Far range, take `dice:2d20` physical damage, and must mark a Stress. Targets who succeed must mark a Stress.
 
   *How do the PCs try to weather the avalanche? What approach do they take to avoid being buried or hurtling down the mountainside?*
 

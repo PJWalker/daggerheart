@@ -26,6 +26,6 @@ publish: "false"
 
   *What do the shape and material of these pitons tell you about the previous climbers? How far apart are they from one another?*
 
-***Fall - Action:*** Spend a Fear to have a PC’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they must make a roll; tick up the countdown by 1, and they take 1d12 physical damage if the countdown is between 8 and 12, 2d12 between 4 and 7, and 3d12 at 3 or lower.
+***Fall - Action:*** Spend a Fear to have a PC’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they must make a roll; tick up the countdown by 1, and they take `dice:1d12` physical damage if the countdown is between 8 and 12, `dice:2d12` between 4 and 7, and `dice:3d12` at 3 or lower.
 
   *How can you tell how many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?*
