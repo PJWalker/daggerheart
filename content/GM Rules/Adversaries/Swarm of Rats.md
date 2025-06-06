@@ -10,6 +10,6 @@ publish: "false"
 
 # Features
 
-***Horde (1d4+1) - Passive:*** When the Swarm has marked half or more of their HP, their standard attack deals `dice:1d4+1` physical damage instead.
+***Horde (1d4+1) - Passive:*** While the Swarm has half or more of their HP marked, their standard attack deals `dice:1d4+1` physical damage instead.
 
 ***In Your Face - Passive:*** All targets within Melee range have disadvantage on attacks against targets other than the Swarm.

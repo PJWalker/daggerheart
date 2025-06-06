@@ -10,7 +10,7 @@ publish: "false"
 
 # Features
 
-***Horde (1d6+3) - Passive:*** When the Squadron has marked half or more of their HP, their standard attack deals `dice:1d6+3` physical damage instead.
+***Horde (1d6+3) - Passive:*** While the Squadron has half or more of their HP marked, their standard attack deals `dice:1d6+3` physical damage instead.
 
 ***Focused Volley - Action:*** Spend a Fear to target a point within Far range. Make an attack with advantage against all targets within Close range of that point. Targets the Squadron succeeds against take `dice:1d10+4` physical damage.
 

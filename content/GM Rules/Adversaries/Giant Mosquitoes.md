@@ -10,7 +10,7 @@ publish: "false"
 
 # Features
 
-***Horde (1d4+1) - Passive:*** When the Mosquitoes have marked half or more of their HP, their standard attack deals `dice:1d4+1` physical damage instead.
+***Horde (1d4+1) - Passive:*** While the Mosquitoes have half or more of their HP marked, their standard attack deals `dice:1d4+1` physical damage instead.
 
 ***Flying - Passive:*** While flying, the Mosquitoes have a +2 bonus to their Difficulty.
 

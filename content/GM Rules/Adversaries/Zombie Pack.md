@@ -10,6 +10,6 @@ publish: "false"
 
 # Features
 
-***Horde (1d4+2) - Passive:*** When the Zombies have marked half or more of their HP, their standard attack deals `dice:1d4+2` physical damage instead.
+***Horde (1d4+2) - Passive:*** When the Zombies have half or more of their HP marked, their standard attack deals `dice:1d4+2` physical damage instead.
 
 ***Overwhelm - Reaction:*** When the Zombies mark HP from an attack within Melee range, you can mark a Stress to make a standard attack against the attacker.

@@ -10,6 +10,6 @@ publish: "false"
 
 # Features
 
-***Horde (1d4+1) - Passive:*** When the Raiders have marked half or more of their HP, their standard attack deals `dice:1d4+1` physical damage instead.
+***Horde (1d4+1) - Passive:*** While the Raiders have half or more of their HP marked, their standard attack deals `dice:1d4+1` physical damage instead.
 
 ***Swashbuckler - Passive:*** When the Raiders mark 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress.

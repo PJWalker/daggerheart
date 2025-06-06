@@ -10,7 +10,7 @@ publish: "false"
 
 # Features
 
-***Horde (1d4+2) - Passive:*** When the Swarm has marked half or more of their HP, their standard attack deals `dice:1d4+2` physical damage instead.
+***Horde (1d4+2) - Passive:*** While the Swarm has half or more of their HP marked, their standard attack deals `dice:1d4+2` physical damage instead.
 
 ***Crush - Action:*** Mark a Stress to deal `dice:2d6+8` direct physical damage to a target with 3 or more bramble tokens.
 

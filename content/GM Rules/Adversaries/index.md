@@ -106,7 +106,7 @@ High-impact effects that cost a Fear to activate.
 
 ## Passives
 
-***Horde (X) - Passive:*** When the Horde has marked half or more of their HP, their standard attack deals X damage instead.
+***Horde (X) - Passive:*** While the Horde has half or more of their HP marked, their standard attack deals X damage instead.
 
 ***Minion (X) - Passive:*** This adversary is defeated when they take any damage. For every X damage a PC deals to this adversary, defeat an additional Minion within range the attack would succeed against.
 

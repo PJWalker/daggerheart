@@ -10,7 +10,7 @@ publish: "false"
 
 # Features
 
-***Horde (2d4+1) - Passive:*** When the Pack has marked half or more of their HP, their standard attack deals `dice:2d4+1` physical damage instead.
+***Horde (2d4+1) - Passive:*** While the Pack has half or more of their HP marked, their standard attack deals `dice:2d4+1` physical damage instead.
 
 ***Dreadhowl - Action:*** Mark a Stress to make all targets within Very Close range lose a Hope. If a target is not able to lose a Hope, they must instead mark 2 Stress.
 
