@@ -34,7 +34,7 @@ The havenite leader has recently ordered the [[Haven Emissaries]] on expeditions
 - Some [[Ridgeborne]], [[Underborne]], and [[Wildborne]] [[Fanewick|Wickans]] have taken jobs as farmers in Haven.
 - [[Seaborne]] communities tend to live in large ports that ship and receive goods from distant lands.
 - [[Wanderborne]] may have come to reside semi-permanently in Haven, as safe travel has been severely restricted due to the military operations in the surrounds.
-# [[Character Options/Ancestries/index|Ancestries]]
+# [[Rules/Character Options/Ancestries/index|Ancestries]]
 - Clanks from Haven are generally made from iron & steel
 # Classes
 - Wizards and Warriors are prevalent in Haven.

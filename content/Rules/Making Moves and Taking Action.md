@@ -47,7 +47,7 @@ The acting player decides whether to Utilize an Experience or activate other eff
 
 ## Step 4: Roll the Dice
 
-The acting player rolls their entire dice pool and announces the results in the format of “[total result] with [Hope/Fear]”—or “Critical Success!” in the case of matching Duality Dice.
+The acting player rolls their entire dice pool and announces the results in the format of “[total result] with [Hope/Fear]” – or “Critical Success!” in the case of matching Duality Dice.
 
 > ***Example:*** *A player is making an action roll with a +1 in the relevant trait and no other modifiers; they roll the Duality Dice and get a result of 5 on their Hope Die and 7 on their Fear Die, then announce “I rolled a 13 with Fear!”*
 

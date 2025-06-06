@@ -1,22 +1,6 @@
 ---
 publish: "false"
 ---
-***When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land.***
-
-*Designed by Carlos Cisco, Rowan Hall, & Spenser Starke*
-
-**COMPLEXITY RATING:** ●
-
-# The Pitch
-
-Read this section to your players to introduce them to the campaign.
-
-> *Fanewick was once a place of great abundance and peace—dangerous to those unfamiliar with the land, but a cornucopia to those who respected its ways. But with the  eternal spring, a dangerous bloom known as the Witherwild took hold and now threatens the lives of all who live there. In a Witherwild campaign, you’ll play unlikely heroes from humble beginnings who are reckoning with their newfound duty to save Fanewick’s people from dangerous corruption.*
-
-# Touchstones
-
-*Princess Mononoke, The Legend of Zelda, The Dark Crystal, Nausicaä of the Valley of the Wind*
-
 # Overview
 
 *If your group decides to play this campaign, give your players the following information before character creation.*
@@ -27,15 +11,15 @@ Read this section to your players to introduce them to the campaign.
 
 But Shun’Aush would have his revenge. As the Haventies carved his stone body, the fine dust left behind settled into the surrounding earth. There was a time of prosperity over many centuries while the scales of the god remained undisturbed. But progress is its own pressure. The growing population demanded increased productivity, and as farmers tilled deeper soil and miners hacked into hidden stone, the ancient stone dust rose to the surface. The same walls that brought the city security became the crucible that incubated a virulent plague.
 
-Over the last two years, over half of Haven’s populace fell to a disease known as the **Serpent’s Sickness**. First, victims cough up dust. Soon after, their skin breaks out in a scaling rash. Finally, their body hardens—first the flesh, bones, and soft tissue, spreading until, finally, their organs ossify. Once within the organs, “the serpent” moves so quickly that sufferers petrify where they stand, filling Haven with statues of victims in their last moments of agony.
+Over the last two years, over half of Haven’s populace fell to a disease known as the **Serpent’s Sickness**. First, victims cough up dust. Soon after, their skin breaks out in a scaling rash. Finally, their body hardens – first the flesh, bones, and soft tissue, spreading until, finally, their organs ossify. Once within the organs, “the serpent” moves so quickly that sufferers petrify where they stand, filling Haven with statues of victims in their last moments of agony.
 
-When High Magus of Haven, **Archmage Phylax**, discovered a rare red flower called the Crimson Bud is the only well that could cure the Serpent’s Sickness. These buds grow prolifically across Fanewick in the spring—but for every ten thousand of the common white-petaled blossoms, only one red flower blooms.
+When High Magus of Haven, **Archmage Phylax**, discovered a rare red flower called the Crimson Bud is the only well that could cure the Serpent’s Sickness. These buds grow prolifically across Fanewick in the spring – but for every ten thousand of the common white-petaled blossoms, only one red flower blooms.
 
-Desperate to save their people from the plague, Haven invaded Fanewick to amass the scarce red buds. Their forces plunged into the deep wood and, under the guidance of Archmage Phylax, plucked out the **Reaping Eye** from the most powerful Faint Divinity that protected the land: **The Great Owl Nikta**, the Shepherd of the Seasons. The Shepherd kept Fanewick in balance by turning her eyes upon the land, first for ripening, then ruination. Thus Nikta maintained the cycle of seasons—of growth and decay, of death and rebirth. With her Reaping Eye removed, Nikta can only watch over Fanewick with the **Sowing Eye**, forcing the land into everlasting spring.
+Desperate to save their people from the plague, Haven invaded Fanewick to amass the scarce red buds. Their forces plunged into the deep wood and, under the guidance of Archmage Phylax, plucked out the **Reaping Eye** from the most powerful Faint Divinity that protected the land: **The Great Owl Nikta**, the Shepherd of the Seasons. The Shepherd kept Fanewick in balance by turning her eyes upon the land, first for ripening, then ruination. Thus Nikta maintained the cycle of seasons – of growth and decay, of death and rebirth. With her Reaping Eye removed, Nikta can only watch over Fanewick with the **Sowing Eye**, forcing the land into everlasting spring.
 
-In the year since, Haven has conquered the bogs, turning them into fields to harvest red flowers. The endless growth that once seemed like a gift quickly evolved into a scourge known as the **Witherwild**—Fanewick’s flora and fauna flourished, unchecked and uncontrolled. Animals swell to massive size; trees warp, twist, and begin to hunt people; and vines creep along the forest floor, strangling all they touch. This explosive growth is unconquerable and unrelenting, with no force able to stop the burgeoning verdance for long.
+In the year since, Haven has conquered the bogs, turning them into fields to harvest red flowers. The endless growth that once seemed like a gift quickly evolved into a scourge known as the **Witherwild** – Fanewick’s flora and fauna flourished, unchecked and uncontrolled. Animals swell to massive size; trees warp, twist, and begin to hunt people; and vines creep along the forest floor, strangling all they touch. This explosive growth is unconquerable and unrelenting, with no force able to stop the burgeoning verdance for long.
 
-Prior to the Serpent’s Sickness and the Shepherd’s endless growth, your party lived a peaceful life in Fanewick or a life of toil and conquest in Haven. But when the danger demands a response, even the unprepared—and unwilling—must make a stand.
+Prior to the Serpent’s Sickness and the Shepherd’s endless growth, your party lived a peaceful life in Fanewick or a life of toil and conquest in Haven. But when the danger demands a response, even the unprepared – and unwilling – must make a stand.
 
 # Communities
 
@@ -181,11 +165,11 @@ Subvert expectations by giving space for the nightmarish to charm and the beauti
 
 ## Show Them True Danger
 
-Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what’s truly at stake, use the PCs’ origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past—when your players create and are invested in their character’s backstory, they have something to fight for.
+Though it may be tragic, bodily harm is not the worst tragedy that can befall the characters. To illustrate what’s truly at stake, use the PCs’ origins in Fanewick or Haven to show them what they stand to lose, be it their homes, family, friends, communities, or even their core truths and beliefs. The events of this campaign may change, threaten, or destroy these aspects of their past – when your players create and are invested in their character’s backstory, they have something to fight for.
 
 ## Offer Alternatives to Violence
 
-By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. For example, showing compassion—rather than swordpoint—to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn’t only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
+By illuminating nonviolent approaches to problem-solving, the PCs can help break the brutal cycle that binds this world. For example, showing compassion – rather than swordpoint – to a corrupted beast can free them from the Witherwild. Similarly, the conflict between Haven and Fanewick shouldn’t only be solved with blood and blade. What threatens both could also unify them. Give the PCs opportunities to mend old wounds, right past wrongs, and heal the rift between Haven and Fanewick from within.
 
 ## Create Multidimensional Allies and Adversaries
 
@@ -199,7 +183,7 @@ No adversary or ally is all good or all bad, and they each have multidimensional
 
 The day and night cycle occurs weekly, meaning the sun rises for an entire week before setting into a nighttime of the same length. This has an impact on everything from agriculture to trade, as many merchants refuse to travel through the night.
 
-But this cycle doesn’t just affect Wicklings; it’s dictated how Fanewick’s wondrous ecology has evolved. Days and nights are accompanied by entirely different natural soundscapes as Fanewick’s nocturnal denizens sleep through the long days and stalk the woods in times of darkness while their diurnal counterparts sleep. The plants similarly live on this strange day-night loop, and many live out their entire life cycles in a week. Sun rose vines make a thorny ascent to the top of the tree canopy over the course of the week, only to wilt under the light of the moon. Conversely, night bloom, a bioluminescent flower that emits the smell of burnt sugar and decay, only blossoms when evening falls, illuminating patches of forest—a godsend to anyone forced to travel in the dark.
+But this cycle doesn’t just affect Wicklings; it’s dictated how Fanewick’s wondrous ecology has evolved. Days and nights are accompanied by entirely different natural soundscapes as Fanewick’s nocturnal denizens sleep through the long days and stalk the woods in times of darkness while their diurnal counterparts sleep. The plants similarly live on this strange day-night loop, and many live out their entire life cycles in a week. Sun rose vines make a thorny ascent to the top of the tree canopy over the course of the week, only to wilt under the light of the moon. Conversely, night bloom, a bioluminescent flower that emits the smell of burnt sugar and decay, only blossoms when evening falls, illuminating patches of forest – a godsend to anyone forced to travel in the dark.
 
 ## The SERPENT’S Sickness
 
@@ -209,7 +193,7 @@ In the initial stages, victims are afflicted with a hacking cough laden with dus
 
 ## LADY’S Veil
 
-These small flowers grow in patches of sun throughout Fanewick. For every ten thousand blossoms of white-petaled flowers, one blooms a unique and vibrant red. These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. Even so, they were only foraged until the Haventies discovered crimson lady’s veil—the only known cure for Serpent’s Sickness.
+These small flowers grow in patches of sun throughout Fanewick. For every ten thousand blossoms of white-petaled flowers, one blooms a unique and vibrant red. These flowers have long been used in herbal teas across the region, with the crimson flowers holding a place in specific ceremonies. Even so, they were only foraged until the Haventies discovered crimson lady’s veil – the only known cure for Serpent’s Sickness.
 
 Thus, the Haven Army invaded Fanewick and began cultivating the flowers on massive farms that have overtaken the region’s bogs. Though the theft of the Reaping Eye has created an indefinite growing season, the red flowers remain just as rare, and Fanewick is permeated by a sickly sweet smell as the Haven Army races to mass-produce a cure for the Serpent’s Sickness.
 
@@ -217,17 +201,17 @@ Thus, the Haven Army invaded Fanewick and began cultivating the flowers on massi
 
 This corruption, empowered by the endless spring, is spreading throughout Fanewick. Some believe the overgrowth began in the forest, while others claim it sprang from the bogs. But no matter its origins, this flourishing malignancy induces horrific changes and massive growth on anything it touches, transforming them into Withered beings. Plants spring to life with a desire to consume all around them. Animals grow to immense proportions, with onerous dispositions to match their exaggerated teeth, tusks, and claws. Even harmless creatures that were once hunted for food have become dangerous and formidable adversaries.
 
-When a person is corrupted by the Witherwild, either from a purposeful attack or accidental harm (see the upcoming “Corruption from the Witherwild” section), they are transformed. They become a nightmarish hybrid—their body warped and intertwined with plant or beast. The Witherwild slowly replaces the personality of its victims with the same drive to consume exhibited by the rest of the corrupted Fanewick. Though the Withered may retain a semblance of who they are for a time, they eventually face the final loss of their personhood. Some Wicklings believe the Withered are gifted this power by Nikta’s wrath to drive the forces of Haven from Fanewick and return the Shepherd’s Reaping Eye.
+When a person is corrupted by the Witherwild, either from a purposeful attack or accidental harm (see the upcoming “Corruption from the Witherwild” section), they are transformed. They become a nightmarish hybrid – their body warped and intertwined with plant or beast. The Witherwild slowly replaces the personality of its victims with the same drive to consume exhibited by the rest of the corrupted Fanewick. Though the Withered may retain a semblance of who they are for a time, they eventually face the final loss of their personhood. Some Wicklings believe the Withered are gifted this power by Nikta’s wrath to drive the forces of Haven from Fanewick and return the Shepherd’s Reaping Eye.
 
 ## The Gods of Fanewick
 
 Gods in this land aren’t ethereal concepts that exist in another realm; instead, they are tangible and as inescapable as the seasons. Many communities, and some larger families, even have their own small god or tutelary spirit who watches over them.
 
-Belief and worship take on a different meaning in Fanewick—there is a constant push and pull between the goals of people and their deific neighbors. The gods must curry worship from mortals, often by performing small miracles, acts of service, or by testing their resolve with tricks and curses. Mortals rely on the small blessings from the gods to keep them safe when traveling and working in Fanewick. The most powerful and widely acknowledged Faint Divinity is the Shepherd of Seasons, Nikta, as the loss of her eye had the most recent and visible impact on everyone in Fanewick.
+Belief and worship take on a different meaning in Fanewick – there is a constant push and pull between the goals of people and their deific neighbors. The gods must curry worship from mortals, often by performing small miracles, acts of service, or by testing their resolve with tricks and curses. Mortals rely on the small blessings from the gods to keep them safe when traveling and working in Fanewick. The most powerful and widely acknowledged Faint Divinity is the Shepherd of Seasons, Nikta, as the loss of her eye had the most recent and visible impact on everyone in Fanewick.
 
 Fanewick’s various divinities each have their own opinion concerning the Witherwild corruption. While some enjoy nature’s newfound dominance, many of the lesser deities are wary of how out of balance Fanewick has become. While their behavior and motives may be inscrutable, these deities are more accessible than gods who watch from on high.
 
-**Fulgr, Stacker of Stones:** A small god who favors tribute in the form of smooth, stacked river rocks. Under his power, bivalves and limpets grow abundantly on rocks where they can be easily harvested. He is largely untroubled about the problems Fanewick faces, and he prefers it that way.
+**Fulgr, Stacker of Stones:** 
 
 **Hyacyins, They Who Spread Small Blossoms:** A friend of bees and tiny flowers who has embraced the Witherwild after seeing their influence and domain swell (literally) to immense proportions. They’re enjoying this rampant growth and do not see a reason to end it.
 
@@ -251,9 +235,9 @@ These are but a small slice of the hundreds, if not thousands, of gods watching,
 
 *You can use the prompt below to start your campaign, or create your own.*
 
-The Reaping Eye is stowed in a secure vault beneath the central tower of Haven’s wizarding school, seemingly impossible to recover. A secretive and dangerous rebel group, led by a mysterious figure known only as the **Fanewraith** (she/her), has hatched a plan to end the curse of the Witherwild: find the Great Owl, Nikta, and pluck out the Sowing Eye. While this may solve the immediate problem, the long-term consequences are not being considered, just as they weren’t when Haven invaded.
+The Reaping Eye is stowed in a secure vault beneath the central tower of Haven’s wizarding school, seemingly impossible to recover. A secretive and dangerous rebel group, led by a mysterious figure known only as the **[[Fanewraith]]** (she/her), has hatched a plan to end the curse of the Witherwild: find the Great Owl, Nikta, and pluck out the Sowing Eye. While this may solve the immediate problem, the long-term consequences are not being considered, just as they weren’t when Haven invaded.
 
-Haven’s beleaguered spymaster, **Kreil Dirn** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities. Kreil has never agreed—at least not openly—with **Archmage Phylax’s** (they/them) decision to steal the Reaping Eye, and the consequences they’ve all paid for that decision have been grimly vindicating.
+Haven’s beleaguered spymaster, **Kreil Dirn** (he/him), is not a popular person in Haven. He is responsible for rooting out insurgents, stopping schemes before they have a chance to start, and keeping a close watch on Haven’s internal activities. Kreil has never agreed – at least not openly – with **Archmage Phylax’s** (they/them) decision to steal the Reaping Eye, and the consequences they’ve all paid for that decision have been grimly vindicating.
 
 Recently, Kreil uncovered the Fanewraith’s plot and is horrified by the possibility of her success. Knowing he can’t send a troop of Haven soldiers deep into the woods to hunt down and stop the Fanewraith from stealing the Sowing Eye, Kreil uses his vast network of informants and spies to find a group of adventurers who can bring the Fanewraith to swift justice.
 
@@ -272,15 +256,3 @@ Adversaries and environments in this campaign can gain Wither tokens. When a PC 
 Any time a PC takes Severe damage from a Withered adversary or environment, gain a Wither token and place it on that PC’s character sheet. When you do, the PC must roll their Fear Die. If they roll equal to or below the number of Wither tokens on their sheet, they immediately gain a scar and clear all tokens, describing how the Witherwild changes them permanently.
 
 At the end of each session, clear all Wither tokens from the PCs’ sheets and gain an equal amount of Fear. If a character ever dies with Wither tokens on their sheet, their body is permanently taken over by the Witherwild.
-
-## Session Zero Questions
-
-*Ask any of these questions to your players, or make your own.*
-
-> *What dangerous animal comes out during the week of night that isn’t out during the week of day?*
->
-> *What unique trait (such as appearance, smell, or taste) does anything tainted by the Witherwild have?*
->
-> *What superstitions does your character or their community have about traversing Fanewick during the long nights?*
->
-> *Your character has witnessed something beautiful that came from the Witherwild. What is it and how has it transformed their view of the corruption?*

@@ -76,7 +76,7 @@ The GM can spend a Fear to add an adversary’s relevant Experience to raise the
 
 ## FEATURE(S)
 
-There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversary’s stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activated. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent—for instance, to interrupt the PCs and put the spotlight on the adversary.
+There are three kinds of adversary features: **actions, reactions, and passives.** Note: each adversary’s stress is tracked individually. If a feature requires the GM to spend Stress to activate it, the Stress must come from the adversary whose feature is being activated. If a feature has a Fear requirement, it must be spent in addition to any Fear already spent – for instance, to interrupt the PCs and put the spotlight on the adversary.
 
 - **Actions:** a special attack or other unique action that the adversary can perform when the spotlight is on them.
 - **Reactions:** special effects that take effect when their trigger occurs, regardless of whether the spotlight is on the adversary.

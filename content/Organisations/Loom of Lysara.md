@@ -1,6 +1,7 @@
 ---
-publish: "false"
-tags: [org]
+publish: "true"
+tags:
+  - org
 ---
 
 A magical academy within Haven.

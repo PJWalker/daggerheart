@@ -13,6 +13,9 @@ aliases:
 
 %%%
 
+## Considerations
+What is Aglet's relationship to the publisher's guild
+
 Question:
 You’re an investigative journalist of sorts, 
 what sort of attachments would you see yourself having to your audience?

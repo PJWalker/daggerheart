@@ -1,7 +1,0 @@
----
-publish: "true"
----
-> **Level 7 [[Character Options/Abilities/Midnight/index|Midnight]] Spell**
-> **Recall Cost:** 1
-
-When an attack made against you that would deal physical damage fails, you can spend a Hope to envelop yourself in shadow, becoming Hidden and teleporting to a point within Close range of the attacker. You remain Hidden until the next time you make an action roll.

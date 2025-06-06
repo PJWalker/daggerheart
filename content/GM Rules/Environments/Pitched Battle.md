@@ -20,7 +20,7 @@ publish: "false"
 
 ***War Magic - Action:*** Spend a Fear as a mage from one side uses large-scale destructive magic. Pick a point on the battlefield within Very Far range of the mage. All targets within Close range of that point must make an Agility Reaction Roll. Targets who fail take `dice:3d12+8` magic damage and must mark a Stress.
 
-  *What form does the attack take—fireball, raining acid, a storm of blades? What tactical objective is this attack meant to accomplish, and what comes next?*
+  *What form does the attack take – fireball, raining acid, a storm of blades? What tactical objective is this attack meant to accomplish, and what comes next?*
 
 ***Reinforcements - Action:*** Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight.
 

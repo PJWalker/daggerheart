@@ -7,7 +7,7 @@ This section provides additional guidance for preparing and running a session of
 
 ## Story Beats
 
-In storytelling, a beat is a moment that changes the trajectory of the narrative—a shift in the world, a significant action or reaction, an emotional revelation, or an important decision. Take turns with the players, narrating a beat and then letting them react and carry the scene forward with their own beats. When preparing for a session, plan in terms of the moments that give shape to each scene or sequence, rather than pre-scripting specific details or exchanges.
+In storytelling, a beat is a moment that changes the trajectory of the narrative – a shift in the world, a significant action or reaction, an emotional revelation, or an important decision. Take turns with the players, narrating a beat and then letting them react and carry the scene forward with their own beats. When preparing for a session, plan in terms of the moments that give shape to each scene or sequence, rather than pre-scripting specific details or exchanges.
 
 ## Preparing Combat Encounters
 
@@ -57,7 +57,7 @@ Keep your players engaged by:
 |    **4**     | Frame a character or tarnish their reputation.                        |
 |    **5**     | Drive the opponent into a corner or ambush point.                     |
 |    **6**     | Stop a magical ritual, legal ceremony, or time-sensitive spell.       |
-|    **7**     | Hold the line—keep the enemy from reaching a specific area or group.  |
+|    **7**     | Hold the line – keep the enemy from reaching a specific area or group.  |
 |    **8**     | Plant evidence or a tracking device on a target.                      |
 |    **9**     | Secure a specific location ahead of another group’s arrival.          |
 |    **10**    | Harass the opponent to deplete their resources or keep them occupied. |

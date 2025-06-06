@@ -7,7 +7,7 @@ Most Commonly Sighted: In the underbrush and bramble, off-trail.
 
 Misconception: They are a rogue band of anarchists and criminals.
 
-The Thistlefolk take up residence in the place where nobody else dares—within the thickest, thorniest bramble of the Fanewoods. They are known for wearing armored clothing made up of thousands of tiny polished stones that have been cut to fit together seamlessly, like scales. This attire allows them to move through the barbed thickets without being caught up in its tangle.
+The Thistlefolk take up residence in the place where nobody else dares – within the thickest, thorniest bramble of the Fanewoods. They are known for wearing armored clothing made up of thousands of tiny polished stones that have been cut to fit together seamlessly, like scales. This attire allows them to move through the barbed thickets without being caught up in its tangle.
 
 Because the only Thistlefolk who emerge from the seclusion of their hidden villages are often thieves coming out to steal goods from unwitting travelers or sleeping merchants, they have received a reputation for being a syndicate of criminals.
 

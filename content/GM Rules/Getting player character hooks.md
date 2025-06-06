@@ -10,4 +10,4 @@ You might also choose to frame your questions with additional narrative you thin
 - “Jasper, how did you get the Crystal of the Sunbearer? And what does it whisper to you at night before you drift off to sleep?”
 - “The simiah mentioned that his sister settled in a small town. Sprout, what do you think about having that sister be from the town you accidentally destroyed?”
 
-Keep your GM principles in mind throughout this process—these apply to all stages of the campaign, not just in-scene play.
+Keep your GM principles in mind throughout this process – these apply to all stages of the campaign, not just in-scene play.

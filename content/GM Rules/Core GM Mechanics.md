@@ -26,7 +26,7 @@ After a player describes a move they want to make during the game, you might dec
 
 ## Making Moves
 
-As the GM, you have **GM moves** that change the story in response to the players’ actions. GM moves aren’t bound by specific spells or effects—when you make a GM move, you can describe the action in whatever way the fiction demands.
+As the GM, you have **GM moves** that change the story in response to the players’ actions. GM moves aren’t bound by specific spells or effects – when you make a GM move, you can describe the action in whatever way the fiction demands.
 
 GM moves happen during **GM turns**. A GM turn begins when the spotlight passes to them and ends when the spotlight passes back to the players.
 
@@ -89,7 +89,7 @@ If the move you should make is not obvious from the fiction, draw inspiration fr
 
 ### Soft and Hard Moves
 
-**Soft moves** go easier on the players—they give the party new information about the scene and offer them an opportunity to react to it. **Hard moves** are harsher, more impactful, or more direct—the PCs don’t get an opening to interrupt, alter, or anticipate the outcome.
+**Soft moves** go easier on the players – they give the party new information about the scene and offer them an opportunity to react to it. **Hard moves** are harsher, more impactful, or more direct – the PCs don’t get an opening to interrupt, alter, or anticipate the outcome.
 
 Use softer moves on rolls with Hope and harder moves on rolls with Fear.
 
@@ -232,7 +232,7 @@ To viscerally convey how a PC’s actions or circumstances affect their ability 
 
 By default, adversaries don’t normally make action rolls except for attack rolls and any unique actions described in their stat blocks. Any other action an adversary attempts simply succeeds without an action roll; if you want an adversary’s action to have a chance of failure, have any relevant PCs make reaction rolls instead.
 
-However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an **action roll** anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds—otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary’s stat block to the total. Use the same procedure when an adversary makes a **reaction roll**.
+However, for especially dramatic or difficult tasks that the PCs can’t influence, you can give an adversary an **action roll** anyway. For an adversary’s action roll, roll a d20. If the result is equal to or greater than the action’s Difficulty, the action succeeds – otherwise it fails. You can spend a Fear before rolling to add a relevant Experience from the adversary’s stat block to the total. Use the same procedure when an adversary makes a **reaction roll**.
 
 ### Adversary Advantage & Disadvantage
 
@@ -306,7 +306,7 @@ When you run NPCs as the GM, you should always strive to follow your GM principl
 
 The only essential elements for a NPC are their **name**, **description**, and **motive**. If it’s likely that the PCs will roll actions against them, give them a **Difficulty**. Adversaries can be invented or improvised by modifying the stat block of another adversary.
 
-If an NPC becomes an ally in combat, they don’t need a stat block—just put the spotlight on what they do and show how their involvement alters the fiction. If a PC capitalizes on their help during the scene, give the PC advantage. NPCs that don’t have Hit Points or Stress can still be injured or killed if the fiction demands it.
+If an NPC becomes an ally in combat, they don’t need a stat block – just put the spotlight on what they do and show how their involvement alters the fiction. If a PC capitalizes on their help during the scene, give the PC advantage. NPCs that don’t have Hit Points or Stress can still be injured or killed if the fiction demands it.
 
 If you want an important NPC to mechanically interact with the system, you can give them one or more features with specific **triggers** and **effects**. An NPC might also have a choice that adjusts the parameters of their feature. For example:
 
@@ -349,7 +349,7 @@ When the GM wants to leave an outcome entirely up to chance, they call for a fat
 > ***Examples:***
 >
 > - *“Roll your Fear Die. On a 4 or lower, the fire spreads beyond this house.”*
-> - *“I think it’s really up to chance whether reinforcements will make it to you in time. Go ahead and roll your Fear Die—that’ll determine the starting size of the countdown. When that triggers, reinforcements will arrive in your Far range.”*
+> - *“I think it’s really up to chance whether reinforcements will make it to you in time. Go ahead and roll your Fear Die – that’ll determine the starting size of the countdown. When that triggers, reinforcements will arrive in your Far range.”*
 > - *“Go ahead and roll your Hope Die to see how big the crowd at the inn is tonight. The higher the roll, the bigger the crowd.”*
 > - *“Make a roll using your Hope Die to determine the number of Stamina Potions the shop has in stock.”*
 
@@ -367,12 +367,12 @@ If a character collides with an object or another character at a dangerous speed
 
 By default, attack rolls made while the attacker is underwater have disadvantage.
 
-For creatures that can’t breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time—or twice, if they rolled a failure with Fear.
+For creatures that can’t breathe underwater, use a standard countdown (3) to track how long they can hold their breath. Advance the countdown whenever the PC takes an action. In addition if they fail a roll or roll with Fear while underwater, you can spend your GM move to advance it an additional time – or twice, if they rolled a failure with Fear.
 
 Once the countdown ends, the underwater PC must mark a Stress whenever they take an action.
 
 ### Conflict between Players
 
-Sometimes a player might want their character to act against another PC in the scene. Before resorting to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome—but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
+Sometimes a player might want their character to act against another PC in the scene. Before resorting to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome – but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
 
 On an attack roll against a PC, the attacker rolls against the defender’s Evasion, just like an adversary. On any other kind of action roll, the instigator makes an action roll and the target makes a reaction roll. To succeed, the instigator must beat a Difficulty equal to the total value of the reaction roll.
