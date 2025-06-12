@@ -10,7 +10,7 @@ In happier times, they preserved the balance of nature and civilisation, prevent
 
 The main satellite orbiting Hom, Rohkina, is named after them, as it is made of the same substance as their horns.
 
-%%%
+%%
 
 ***
 ![[Rohkin - The Wandering Horn.webp]]
