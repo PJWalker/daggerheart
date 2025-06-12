@@ -7,7 +7,7 @@ But something has tipped the world off balance. Instead of the normal waning as 
 
 There are Oversized trees and blossoms so dense they blot out the sun. Wild creatures have grown into monstrosities, and villages on the forest’s edge struggle under the weight of the unchecked wilds.
 
-Meanwhile, Haven’s emissaries have made a discovery that could reshape not just the region, but the world.  discovered the secret to cultivating the Maniflower, and seek to reclaim the Fanewoods in order to democratise the arcane, and bring about a revolutionary new source of magical power.
+Meanwhile, Haven’s emissaries have made a discovery that could reshape not just the region, but the world.  discovered the secret to cultivating the Manafold, and seek to reclaim the Fanewoods in order to democratise the arcane, and bring about a revolutionary new source of magical power.
 
 Why has the Great Owl Nikta left the Fanewoods?
 
@@ -47,3 +47,4 @@ We start at the funeral, which [[Lord Regent Vasali]] attends. The funeral opera
 This probably gets invaded by some jungle monstrosities, which the players will help fight off. During that fight they might realise that the body is fake. Then, the others involved in faking the death will fill the characters in on more detail and encourage them, if they wish to stand against Phylax, to go to Vinaeya’s hideout in the middle of the Fane.
 
 In doing so, they mention that the temple is to nikta, and within her domain, but that her presence has been feint recently. They try to convert the players.
+%%

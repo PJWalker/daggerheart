@@ -13,3 +13,4 @@ Distributed emanation – a collection of rock cairns
 
 ![[Fulg - Stacker of stones.webp]]
 
+%%

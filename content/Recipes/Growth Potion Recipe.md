@@ -1,4 +1,4 @@
-* [[Manafold bloom]] 
+* [[Manafold]] 
 * Horn of a [[The Witherwild|withered]] creature
 
 When consumed, the wearer grows in size. The effect lasts for `dice:1d4` hours.

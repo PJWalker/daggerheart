@@ -13,3 +13,5 @@ publish: "true"
 - Mt Iatus Blew up, but [[Archmage Phylax]] shielded the Haven from what would’ve been sure destruction.
 - Some source of transformation magic for [[Tulip Treklaw|Ben]] (But this is going to be a Druidic order of drakona)
 - Some source of media/journalism/documentaries for RJ
+
+%%

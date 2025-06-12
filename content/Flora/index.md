@@ -10,4 +10,4 @@ These are mostly real plants, with effects based on (but stronger than) those es
 
 Many active effects are hidden from you guys, but if you happen to know something about a plant IRL, you can probably guess the effect here. 
 
-Combining ingredients may introduce additional effects; and, in particular, the [[Manafold bloom]] will potentiate almost all reagents.
+Combining ingredients may introduce additional effects; and, in particular, the [[Manafold]] will potentiate almost all reagents.

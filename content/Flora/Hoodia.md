@@ -6,6 +6,6 @@ tags:
 
 ![[Hoodia.webp]]
 
-%%%
-
+%%
 Reduces hunger and thirst
+%%

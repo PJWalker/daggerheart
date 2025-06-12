@@ -1,7 +1,7 @@
 ---
 publish: "true"
 ---
-
+%%
 There are elastic Strings that weave through all of reality, connecting all to each other.
 
 The strings are held by the Deities and our reality is an emergent phenomenon of their interaction with one another.
@@ -13,3 +13,4 @@ There’s no firm distinction between ‘magical’ and ‘mundane’ effects, b
 Strings can be vibrating in tension or in harmony.
 
 These strings pass through all realms, leading to the evolution of each realm. Due to the, the effects of the will vibrate with and usually destructively interfere with those of the
+%%

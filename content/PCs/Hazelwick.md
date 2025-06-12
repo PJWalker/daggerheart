@@ -12,7 +12,7 @@ aliases:
 - [[Wildborne|Naturally Silent]]
 - [[Faun|Caprine Leap]] – leaps as easily as walking
 
-%%%
+%%
 # Question
 * What was your partner like?
 * What if your partner has been afflicted by [[The Witherwild]]?
@@ -20,3 +20,5 @@ aliases:
 
 
 You want to start a family. So there's a father, right. The father has been '[[The Witherwild|withered]]'. At first you were just looking for a cure for him, but as you’ve seen how [[The Witherwild]]  has affected the whole region, you’ve vowed to help bring about the kind of world you would like to bring a family into.
+
+%%

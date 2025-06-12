@@ -15,10 +15,12 @@ aliases:
 - ‘I believe I can fly’
 - ‘No Faux Pas here’
 
-%%%
+%%
 
 Personal Arc: Wants to become a dragon
 
 Complication – dragons aren’t real.
 
 Answer – maybe becoming [[The Witherwild|withered]] makes him a dragon?
+
+%%

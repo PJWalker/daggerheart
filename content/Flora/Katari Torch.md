@@ -8,7 +8,7 @@ tags:
 
 ![[Echinopsis.webp]]
 
-%%%%
-
+%%
 Increases [[Instinct]].
 Maybe more.
+%%

@@ -18,6 +18,11 @@ aliases:
 * What is your Elementalist element?
 
 %%
+You had known Yanna from your time together in the [[Loom of Lysara]]. You'd always been fastitious in your studies, while hhe was much more of a wildcard, working in fits and spurts on whatever topic caught his fancy.
 
-## Considerations
-Dead friend – what was he doing?
+Ultimately the loom was not the place for a spirit like his, and he went on his own path.
+Initially you tried to keep in touch, but each of your lives moved forward, they also moved apart.
+
+Still, he was a friend.
+
+%%

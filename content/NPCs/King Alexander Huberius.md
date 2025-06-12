@@ -11,5 +11,6 @@ tags:
 
 The King of [[Places/Haven/index|Haven]] 
 
-%%%
-Definitely dead
+%%
+dead
+%%

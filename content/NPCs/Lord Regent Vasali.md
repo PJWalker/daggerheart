@@ -8,3 +8,4 @@ publish: "false"
 
 %%
 Appointed by [[Archmage Phylax]] after he assassinated [[King Alexander Huberius]]
+%%

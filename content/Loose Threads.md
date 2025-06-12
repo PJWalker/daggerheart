@@ -3,10 +3,10 @@ publish: "true"
 ---
 
 
-* Deliver [[Archmage Phylax|Phylax]]'s Package to  [[Vinaeya Starfen|Vinaeya]] 
-* [[Yanna]]'s body should be [[[Cosmology/Death|Death]] |returned]
+* Deliver [[Archmage Phylax|Phylax]]'s Package to [[Vinaeya Starfen|Vinaeya]] 
+* [[Yanna]]'s body
 * Investigate [[The Witherwild]]
-* Cure the withering.
+* Find a Cure
 * Become a Dragon
 * Find Nikta?
 * Get revenge on the [[Ashwalkers]]. 

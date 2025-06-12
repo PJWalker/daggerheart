@@ -1,8 +1,10 @@
-Senlon is a legendary figure originating in  'dragon' in, who is said to bring gold to [[Drakona|Drakonic]] hatchlings during the late evening and overnight hours on Sennius eve. 
+Senlon is a legendary figure originating in eastern [[Drakona|Drakonic]] culture, who is said to bring gold to hatchlings during the late evening and overnight hours on Sennius eve. 
 
-'Dragons' are said to created by Senlon to collecting and hording gold & treasure throughout the year, to be distributed to the hatchlings each Sennius.
+This is, of course, a fable told to children.
 
 ![[Senlon - Patron of Hatchlings.webp]]
+
+
 
 %%
 
@@ -10,8 +12,12 @@ Throughout your childhood, each year, near the fall harvest, Senlon would come o
 
 %%%
 
+
+%%
 (This has no parallels to anything in the real world. And if you think it does that's metagaming and you're banned from daggerheart forever.)
 
 A Massive, winged creature, with obsidian scales, and impossibly sharp claws
 
 ![[Volko.webp]]
+
+%%

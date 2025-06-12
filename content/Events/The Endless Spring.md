@@ -5,6 +5,7 @@ publish: "true"
 
 Why has [[Nikta - Shepherd of Seasons|Nikta]] has gone quiet?
 
-%%%
+%%
 
 It’s because, under the guidance of [[Archmage Phylax]], the Haven army stole the Reaping Eye from [[Nikta - Shepherd of Seasons]]. This prevented her from ushering in the fall.
+%%

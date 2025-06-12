@@ -8,5 +8,6 @@ A tall, narrow plant with waxy leaves, that grows as a weed in fields and along 
 
 ![[Curly dock-1.webp]]
 
-%%%
+%%
 Treats anemia
+%%

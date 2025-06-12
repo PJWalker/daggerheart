@@ -15,8 +15,10 @@ Formerly a Seraph of [[Nikta - Shepherd of Seasons|Nikta]], Atlas has
 - “Never again”
 - [[Giant|Reach]]
 
-%%%
+%%
 
 # Considerations
 
 Atlas is going to be hesitant to come back to Nikta, wants to force a world outside of her; feels betrayed by the gods.
+
+%%
