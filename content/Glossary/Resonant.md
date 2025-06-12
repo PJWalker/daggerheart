@@ -1,1 +1,0 @@
-A practitioner of religion

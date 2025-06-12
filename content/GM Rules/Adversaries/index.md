@@ -162,7 +162,7 @@ This section contains the following stat blocks:
 ## #Tier1 (LEVEL 1)
 
 - [Acid Burrower](Acid%20Burrower.md)
-- [Bear](Bear.md)
+- [Bear](GM%20Rules/Adversaries/Bear.md)
 - [Cave Ogre](Cave%20Ogre.md)
 - [Construct](Construct.md)
 - [Courtier](Courtier.md)

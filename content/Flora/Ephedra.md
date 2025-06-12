@@ -1,0 +1,1 @@
+![[Ephedra-1.webp]]

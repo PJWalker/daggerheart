@@ -1,7 +1,9 @@
 ---
-publish: "false"
-aliases: [Vinaeya]
-tags: [npc]
+publish: "true"
+aliases:
+  - Vinaeya
+tags:
+  - npc
 ---
 ![[Vinaeya.webp]]
 

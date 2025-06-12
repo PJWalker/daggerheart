@@ -1,5 +1,8 @@
 ---
 publish: "true"
+aliases:
+  - Natural Climber
+  - Nimble
 ---
 https://app.demiplane.com/nexus/daggerheart/sources/core/ancestries#Simiah
 

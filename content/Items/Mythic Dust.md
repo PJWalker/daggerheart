@@ -1,0 +1,1 @@
+Apply this dust to a weapon that deals magic damage to add `dice:1d12` to your next damage roll with that weapon.

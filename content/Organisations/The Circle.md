@@ -1,6 +1,8 @@
 ---
-publish: "false"
-tags: [linker-exclude, org]
+publish: "true"
+tags:
+  - linker-exclude
+  - org
 ---
 
 - Most members are [[Highborne]] from [[Places/Haven/index]]

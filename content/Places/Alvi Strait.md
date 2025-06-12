@@ -1,12 +1,18 @@
 ---
-aliases: [Aestia, Aestian, Aestians]
+aliases:
+  - Aestia
+  - Aestian
+  - Aestians
+publish: "true"
 ---
 
-A strait the runs between Greenlily & Fanewick. 
+A strait the runs between Greenlily & the Fanewoods. 
 
 Due to the large tidal effects, the river’s bank shifts substantially from east to west, and back, over the course of a cycle. 
 
 This has led to steep cliffs forming on the [[Greenlily Bleach]] side, while a more gradual incline on the [[Fanewick]] side creates a region of semiaquatic marsh, home to many [[Ribbet|Ribbets]] and [[Galapa]].
+
+
 
 %%
 # Mood Board

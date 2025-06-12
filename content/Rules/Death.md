@@ -1,10 +1,10 @@
 ---
 publish: "true"
 ---
+In order for a soul to be… reused rather than unwound and recycled, the body must be returned to where he was brought into this world, and offered up to [[The Great Sorter]], before it is otherwise claimed.
+
+
 When a PC marks their last Hit Point, they must make a **death move** by choosing one of the options below.
-
-If your character dies, work with the GM before the next session to create a new character at the current level of the rest of the party.
-
 # Blaze of Glory
 
 Your character embraces death and goes out in a blaze of glory. Take one final action. It automatically critically succeeds (with GM approval), and then you cross through the veil of death.

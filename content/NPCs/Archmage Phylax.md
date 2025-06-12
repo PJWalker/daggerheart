@@ -1,7 +1,9 @@
 ---
-publish: "false"
-aliases: [Phylax]
-tags: [npc]
+publish: "true"
+aliases:
+  - Phylax
+tags:
+  - npc
 ---
 ![[Archmage Phylax-1747005436876.webp]]
 

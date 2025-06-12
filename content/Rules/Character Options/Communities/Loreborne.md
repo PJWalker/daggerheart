@@ -1,5 +1,7 @@
 ---
 publish: "true"
+aliases:
+  - well-read
 ---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Loreborne
 

@@ -1,11 +1,15 @@
 ---
-publish: "false"
-aliases: [Alexander, Huberius, King Huberius]
-tags: [npc]
+publish: "true"
+aliases:
+  - Alexander
+  - Huberius
+  - King Huberius
+tags:
+  - npc
 ---
 ![[King Alexander Huberius-1747005799715.webp]]
 
-The King of [[Places/Haven/index]]; King Huberius is missing following a mission into [[Fanewick]].
+The King of [[Places/Haven/index|Haven]] 
 
 %%%
 Definitely dead

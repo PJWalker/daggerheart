@@ -1,5 +1,7 @@
 ---
 publish: "true"
+aliases:
+  - Nomadic Pack
 ---
 https://app.demiplane.com/nexus/daggerheart/sources/core/communities#Wanderborne
 

@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 
 There are countless realms aside from the [[The Mortal Realm]] & the [[The Hallows Above]].
 

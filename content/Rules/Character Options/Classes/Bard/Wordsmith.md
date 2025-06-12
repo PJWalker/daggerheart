@@ -1,5 +1,8 @@
 ---
 publish: "true"
+aliases:
+  - Heart of a Poet
+  - Epic Poetry
 ---
 Play the Wordsmith if you want to use clever wordplay and captivate crowds.
 

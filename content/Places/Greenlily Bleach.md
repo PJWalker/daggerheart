@@ -1,5 +1,9 @@
 ---
-aliases: [Bleacher, Bleachers, the bleach]
+aliases:
+  - Bleacher
+  - Bleachers
+  - the bleach
+publish: "true"
 ---
 A desert region surrounding [[Places/Haven/index]]. Usually just called the Bleach.
 - Some [[Orc|Orcs]] and [[Katari]] live here, but it’s mostly pretty empty.

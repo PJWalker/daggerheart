@@ -1,5 +1,7 @@
 ---
-aliases: []
+aliases: 
+publish: "true"
+title: Fanewoods
 ---
 A region of swamp and rainforest to the east, with scattered communities throughout.
 - Most [[Faerie|Faeries]], [[Elf|Elves]], [[Fungril|Fungrils]], and [[Simiah]] are from here.
@@ -9,9 +11,7 @@ A wild and untamed land, the fanewild is dangerous to those unfamiliar with its 
 
 Seemingly mundane expanses of field hide bogs that will engulf entire armies, consuming heavy artillery as quickly as it can cross the border. This wilderness fosters hardy people who are bold enough to raise families where others cannot, and strictly follow the unique customs that keep them safe.
 
-[[Lady's Veil]] are endemic to the area
 
-# Building a Wilder
 -  [[Wanderborne]] & [[Wildborne]] (🤯) are common in Fanewild
 - [[Highborne]] are essentially non-existent here.
 
