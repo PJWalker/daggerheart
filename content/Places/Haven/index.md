@@ -8,7 +8,7 @@ title: Haven
 A walled metropolis to the east, surrounded by desert/tundra.
 - Most [[Human|Humans]], [[Clank|Clanks]], [[Dwarf|Dwarves]], [[Halfling|Halflings]], and [[Firbolg|Firbolgs]] are from here.
 - [[Elf|Elves]] & [[Faun|Fauns]] are also common.
-- Most [[Orc|Orcs]] live in the [[Greenlily Bleach||surrounding desert.]]
+- Most [[Orc|Orcs]] live in the [[Places/Brazenfeld Bleach/index||surrounding desert.]]
 %%
 
 Haven was once the most powerful force in the region; for centuries the high stone walls into the capital bore the phrase “The Godless Gate.” While the original meaning has been lost to common knowledge, some dusty tomes and ancient records state that [[The First Circle]] wished to be free of the influence of the [[Gods/Faint Divinities/index|Faint Divinities]] that dominated the surrounding regions.

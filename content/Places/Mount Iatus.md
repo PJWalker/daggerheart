@@ -5,7 +5,7 @@ publish: "true"
 * A long dormant volcano.
 * The [[Ashwalkers]] are said to have their headquarters within the Caldera
 
-%%%
+%%
 
 Everyone was concerned when this volcano started erupting. But then it… stopped?
 
@@ -27,3 +27,5 @@ No-one knows why this happened.
 ![[Pause-1746721337377.webp]]
 
 ![[Pause-1746721347362.webp]]
+
+%%

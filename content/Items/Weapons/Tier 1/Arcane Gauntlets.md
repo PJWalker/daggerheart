@@ -7,3 +7,5 @@ tags: [PrimaryWeapon, Tier1]
 %%
 
 These sturdy gloves hum with latent magical energy, allowing the wearer to channel their magical energy with greater precision.
+
+%%

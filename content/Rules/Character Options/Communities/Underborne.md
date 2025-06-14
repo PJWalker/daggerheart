@@ -9,7 +9,7 @@ Most underborne were raised in the deadly environment of [[Fanewick]], which has
  In exchange for protection from the Verdance, some have taken jobs as farmers in Haven’s flower fields. Though it is back-breaking work, the Haven fires burn back the ever-creeping Verdance, offering safety.
 
 # Character Creation
-- Some residents of the [[Greenlily Bleach]] have dug permanent homes underneath the desert.
+- Some residents of the [[Places/Brazenfeld Bleach/index]] have dug permanent homes underneath the desert.
 - Some [[Fanewick|wickans]] live within underground caves, but this is uncommon
 - Many [[Fulgon|Fulgonites]]
 

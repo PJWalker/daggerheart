@@ -3,10 +3,9 @@ publish: "true"
 ---
 
 
-* Deliver [[Archmage Phylax|Phylax]]'s Package to [[Vinaeya Starfen|Vinaeya]] 
-* [[Yanna]]'s body
-* Investigate [[The Witherwild]]
-* Find a Cure
-* Become a Dragon
-* Find Nikta?
-* Get revenge on the [[Ashwalkers]]. 
+* [[Valeria Dumont|Valeria]]'s package.
+* [[Yanna Totsvig]]'s body.
+* [[The Witherwild]] is rampant.
+* The [[Places/Haven/index|Havenites]] do not know about [[The Witherwild]].
+* [[Tulip Treklaw|Tulip]] isn't a dragon.
+* [[Nikta - Shepherd of Seasons|Nikta]] is missing.
