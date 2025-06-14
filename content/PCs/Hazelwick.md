@@ -15,6 +15,6 @@ aliases:
 %%
 # Question
 * Picky person.
-
+* Both like to travel
 
 %%
