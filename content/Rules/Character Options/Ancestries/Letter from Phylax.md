@@ -1,5 +1,5 @@
 ---
-publish: "false"
+publish: "true"
 ---
 
 Dearest [[Vinaeya Starfen|Vinaeya]],
