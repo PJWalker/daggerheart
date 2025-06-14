@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 Senlon is a legendary figure originating in eastern [[Drakona|Drakonic]] culture, who is said to bring gold to hatchlings during the late evening and overnight hours on Sennius eve. 
 
 This is, of course, a fable told to children.
@@ -7,6 +11,8 @@ This is, of course, a fable told to children.
 
 
 %%
+
+Eat, poop out solid gold.
 
 Throughout your childhood, each year, near the fall harvest, Senlon would come out from her slumber within [[Mount Iatus]], visit all the good drakonic hatchlings, and grant their wishes. You’d stay up as long as you could, trying to catch a glimpse of her golden scales, but you never did. But each time you'd wake up in the morning to a pile of gold underneath you - just as you had wished!
 

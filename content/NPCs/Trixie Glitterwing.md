@@ -4,13 +4,17 @@ publish: "false"
 ---
 ![[Trixie & Flixie Glitterwing-1746997650114.webp]] ![[Trixie & Flixie Glitterwing-1746997669483.webp]]
 
-Welcome to the home of the lovely [[Vinaeya]]
-Our saviour, our cleric, our benevolent mayor
-She’s busy right now, maybe lost in prayer.
-…I have a new game, will you be its first player?
 
-I guess you could go in to drop off the package –
+You're looking around for the lovely [[Vinaeya]]
+My saviour, my best friend, our benevolent mayor
+She's busy right now, I think she's lost in prayer
+I know her location, but why should I tell you where…
+
+I guess you could just go in to drop off the package –
 If you answer my riddles, I’ll grant you safe passage.
+
+they've got plenty of time; there's not under the gun
+so go away david; let me have my fun.
 
 We’ll need to confirm that our teams are the same,
 So to test you all out, you can all play my game!
@@ -20,12 +24,12 @@ So to test you all out, you can all play my game!
 ***
 
 Oh you’ll have so much fun, you’ll have laughter and giggles
-And, I’ll open the door after… ohh… 19 riddles.
+And, I’ll take you to her after… ohh… 19 riddles.
 
 OR
 
 Whether friend, or foe, or somewhere in the middle
-I’ll open the door after my 19th riddle.
+I'll show you her door after my 19th riddle.
 
 OR
 ## Lots of riddles
@@ -60,25 +64,8 @@ You could just pick that up, and enter her home
 But I’ve got lots of riddles; I’ll give them for free
 With [[Vinaeya]] so busy I’m getting lonely.
 
-%% # [[Vinaeya Starfen|Vinaeya]]
-Friend to all from the [[giants]] to the smallest whelp
-If you e’er need assistance, she’s happy to help
-and her Havenite friends(?) called her out for a quest
-That was 5 weeks ago… and we don’t know the rest. %%
-%% # [[Places/Haven/index|Havenites]]
-They came wrapped in their armor; charged her with a crime
-he said stuff about treason, said she was a consignee
-It seemed quite complicated; so a lot whizzed right by me
-but Vanaeya assured us it all would be fine… she
-promised. she’s… honest.
-Oh I’m gonna vomit.
 
-(Glitter vomit)
-# Sympathy
-Thank you, but… really I shouldn’t be worried.
-She’s a powerful woman, she needn’t be hurried.
-But… why did she send for you all with that letter
-Are you here to ensure that things truly get better? %%
+
 # Leaving
 You guys were a bright spot in a monotone day
 Are you sure that you really must go right away?

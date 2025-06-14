@@ -15,7 +15,7 @@ aliases:
 
 # Questions
 * What is your rune ward? %% (Can it have come from Yanna?) %%
-* What is your Elementalist element?
+* What is your Elementalist element? – Earth
 
 %%
 You had known Yanna from your time together in the [[Loom of Lysara]]. You'd always been fastitious in your studies, while hhe was much more of a wildcard, working in fits and spurts on whatever topic caught his fancy.
