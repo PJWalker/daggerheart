@@ -18,6 +18,7 @@ publish: "true"
 * [[Manafold]]s
 	* How do they work? 
 	* WTF happened with Phylax's one?
-	* [[Tymos]] wants [[Checkerberry|Checkerberries]] 
+	* [[Vinaeya Starfen|Vinaeya]] needs help completing her research.
+* [[Tymos]] wants [[Checkerberry|Checkerberries]] to make stamina potions.
 * What are the [[Ashwalkers]] up to?
 * What has [[Aglet Sheltrom|Aglet]]'s research uncovered?
