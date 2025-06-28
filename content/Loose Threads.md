@@ -20,3 +20,4 @@ publish: "true"
 	* WTF happened with Phylax's one?
 * [[Tymos]] wants [[Checkerberry|Checkerberries]] 
 * What are the [[Ashwalkers]] up to?
+* What has [[Aglet Sheltrom|Aglet]]'s research uncovered?
