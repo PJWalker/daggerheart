@@ -2,7 +2,7 @@
 publish: "true"
 ---
 * [[Yanna Totsvig]]'s body
-	* It should be returned to [[The Great Sorter]].  
+	* should be returned to [[Anure]] for [[The Great Sorter]].  
 	* Why has [[Archmage Phylax|Phylax]] put a bounty on his head?
 * [[Tulip Treklaw|Tulip]] isn't a dragon
 	* No-one believes in dragons
