@@ -18,6 +18,6 @@ publish: "true"
 * [[Manafold]]s
 	* How do they work? 
 	* WTF happened with Phylax's one?
-* [[Tymos]] wants [[Checkerberry|Checkerberries]] 
+	* [[Tymos]] wants [[Checkerberry|Checkerberries]] 
 * What are the [[Ashwalkers]] up to?
 * What has [[Aglet Sheltrom|Aglet]]'s research uncovered?
