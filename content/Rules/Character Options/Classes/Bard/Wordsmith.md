@@ -7,7 +7,6 @@ aliases:
 Play the Wordsmith if you want to use clever wordplay and captivate crowds.
 
 # Spellcast Trait
-
 [[Presence]]
 
 # Foundation Features

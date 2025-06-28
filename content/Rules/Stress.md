@@ -8,3 +8,4 @@ When a character marks their last Stress, they become **Vulnerable** until they 
 When a character must mark 1 or more Stress but can’t, they mark 1 HP instead. A character can’t use a move that requires them to mark Stress if all of their Stress is marked.
 
 PCs can clear Stress by making [[Downtime|downtime]] moves. A PC’s maximum Stress is determined by their class, but they can increase it through advancements, abilities, and other effects.
+

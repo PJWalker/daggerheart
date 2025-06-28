@@ -6,5 +6,7 @@ title: Book of Vagras
 > **Recall Cost:** 2
 
 ![[Runic Lock]]
+
 ![[Arcane Door]]
+
 ![[Reveal]]

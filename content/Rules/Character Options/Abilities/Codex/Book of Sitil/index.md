@@ -7,6 +7,6 @@ title: Book of Sitil
 
 ![[Adjust Appearance]]
 
-![[Parallecta]]
+![[Parallela]]
 
 ![[Illusion]]
